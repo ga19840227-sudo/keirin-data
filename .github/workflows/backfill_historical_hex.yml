@@ -24,7 +24,7 @@ jobs:
       - name: Fetch archived racecards with provenance
         run: |
           python -m py_compile scripts/backfill_historical_hex.py scripts/collect_prerace_hex.py scripts/parse_hex_prerace_riders.py
-          python scripts/backfill_historical_hex.py --start 2026-10-13 --end 2026-10-16 --limit 120
+          python scripts/backfill_historical_hex.py --start 2026-10-15 --end 2026-10-18 --limit 180
       - name: Save historical audit
         if: always()
         run: |
