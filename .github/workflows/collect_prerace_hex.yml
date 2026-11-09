@@ -1,7 +1,7 @@
 name: 競輪発走前ライン収集
 on:
   schedule:
-    - cron: '7 0-14 * * *'
+    - cron: '7,37 0-14 * * *'
   push:
     paths:
       - scripts/collect_prerace_hex.py
@@ -23,6 +23,7 @@ jobs:
           python-version: '3.11'
       - name: Collect publicly available pre-race line snapshots
         run: |
+          python -m py_compile scripts/collect_prerace_hex.py scripts/compare_development_scenarios.py scripts/evaluate_prediction_accuracy.py scripts/integrated_race_forecast.py
           python scripts/collect_prerace_hex.py
           python scripts/audit_saved_snapshots.py
           python scripts/parse_hex_prerace_riders.py
