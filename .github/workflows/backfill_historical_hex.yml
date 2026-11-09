@@ -11,6 +11,9 @@ permissions:
   contents: write
 jobs:
   backfill:
+    concurrency:
+      group: historical-hex-backfill
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
@@ -31,6 +34,7 @@ jobs:
           if [ -d historical_hex ]; then git add -f historical_hex/; fi
           if ! git diff --cached --quiet; then
             git commit -m "Archive historical line, position and SBH evidence"
-            git pull --rebase
+            git fetch origin main
+            git rebase -X ours origin/main || { git rebase --abort; exit 1; }
             git push
           fi
