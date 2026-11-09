@@ -26,11 +26,12 @@ jobs:
           python scripts/collect_prerace_hex.py
           python scripts/audit_saved_snapshots.py
           python scripts/parse_hex_prerace_riders.py
+          python scripts/compare_development_scenarios.py
           mkdir -p results/real_integrated_predictions
           for f in results/verified_model_inputs/*.json; do
             [ -f "$f" ] || continue
             id=$(basename "$f")
-            python scripts/integrated_race_forecast.py "$f" --out "results/real_integrated_predictions/$id"
+            python scripts/integrated_race_forecast.py "$f" --out "results/real_integrated_predictions/ results/development_scenarios/$id"
           done
       - name: Commit collection audit and snapshots
         run: |
