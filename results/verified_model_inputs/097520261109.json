@@ -1,0 +1,135 @@
+{
+  "race_id": "097520261109",
+  "source_url": "https://keirinhex.jp/races/20261109/097520261109/",
+  "captured_jst": "2026-11-09T22:39:59.606982+09:00",
+  "start_jst": "2026-11-09T23:20:00+09:00",
+  "line_groups": [
+    [
+      1,
+      2
+    ],
+    [
+      5,
+      3,
+      7
+    ],
+    [
+      6,
+      4
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "○船山真生地元愛媛・A1・125期",
+      "race_score": 91.77,
+      "running_style": "逃",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 37.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 4,
+      "h_count": 10,
+      "b_count": 12,
+      "nige_4m": 5,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎藤井將広島・A1・113期",
+      "race_score": 91.6,
+      "running_style": "両",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "渡邉直弥静岡・A2・113期",
+      "race_score": 83.75,
+      "running_style": "両",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 8,
+      "h_count": 6,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲田村真広群馬・A1・83期",
+      "race_score": 86.37,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "鈴木豪福島・A2・105期",
+      "race_score": 77.09,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 7.0,
+      "s_count": 0,
+      "h_count": 6,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆堀越翔己福岡・A2・123期",
+      "race_score": 81.66,
+      "running_style": "逃",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 7,
+      "h_count": 10,
+      "b_count": 7,
+      "nige_4m": 3,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆神開将暢福岡・A2・69期",
+      "race_score": 85.21,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    }
+  ]
+}

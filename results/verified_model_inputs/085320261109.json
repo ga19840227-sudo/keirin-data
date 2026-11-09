@@ -1,0 +1,133 @@
+{
+  "race_id": "085320261109",
+  "source_url": "https://keirinhex.jp/races/20261109/085320261109/",
+  "captured_jst": "2026-11-09T22:39:40.713426+09:00",
+  "start_jst": "2026-11-09T23:10:00+09:00",
+  "line_groups": [
+    [
+      2,
+      3,
+      7
+    ],
+    [
+      5,
+      1,
+      4,
+      6
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "○山田雄大埼玉・A1・117期",
+      "race_score": 90.45,
+      "running_style": "逃",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 10,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲新井僚太郎山梨・A2・100期",
+      "race_score": 86.08,
+      "running_style": "両",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 5,
+      "h_count": 6,
+      "b_count": 7,
+      "nige_4m": 3,
+      "maku_4m": 2,
+      "sashi_4m": 6,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆小室貴広茨城・A2・75期",
+      "race_score": 78.9,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 17.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "馬越裕之地元奈良・A2・127期",
+      "race_score": 85.11,
+      "running_style": "逃",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 2,
+      "h_count": 8,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "◎野口正則地元奈良・A1・105期",
+      "race_score": 90.95,
+      "running_style": "両",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "猪俣康一愛知・A1・99期",
+      "race_score": 85.47,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "舛井幹雄三重・A1・71期",
+      "race_score": 84.55,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 4
+    }
+  ]
+}
