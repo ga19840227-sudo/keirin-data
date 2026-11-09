@@ -1,0 +1,19 @@
+{
+  "snapshots": 3,
+  "with_real_line": 2,
+  "model_ready": 0,
+  "rejected": [
+    {
+      "race_id": "095320261109",
+      "reason": "line groups absent"
+    },
+    {
+      "race_id": "123120261109",
+      "reason": "line and feature rider numbers differ"
+    },
+    {
+      "race_id": "127420261109",
+      "reason": "line and feature rider numbers differ"
+    }
+  ]
+}
