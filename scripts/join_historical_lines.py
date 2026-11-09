@@ -6,7 +6,7 @@ lookup=collections.defaultdict(list)
 for path in sorted(glob.glob("historical_hex/20*/*.json")):
  if path.endswith("day_archive.json"):continue
  d=json.loads(Path(path).read_text(encoding="utf-8"))
- m=re.search(r"([^\\s]+?)競輪\\s*(\\d+)R",d.get("page_text","")[:1200])
+ m=re.search(r"([^\s]+?)競輪\s*(\d+)R",d.get("page_text","")[:1200])
  if not m:continue
  venue=VENUES.get(m.group(1))
  if not venue:continue
