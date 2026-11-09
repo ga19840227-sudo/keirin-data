@@ -74,7 +74,8 @@ def main():
                      "lineup_raw":line_text,"page_text":txt[:30000],
                      "sbh_structured":False,"odds_structured":False,
                      "warning":"Raw page text is evidence, not yet structured SBH/odds; no post-start data as pre-race."}
-                if not is_pre:\n                    audit["errors"].append(url+": no verified future start time")\n                    continue
+                if not is_pre:
+                    audit["errors"].append(url+": no verified future start time")\n                    continue
                 race_id=url.rstrip("/").split("/")[-1]
                 dest=OUT/date;dest.mkdir(parents=True,exist_ok=True)
                 (dest/(race_id+".json")).write_text(json.dumps(rec,ensure_ascii=False,indent=2),encoding="utf-8")
