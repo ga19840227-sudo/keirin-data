@@ -26,12 +26,14 @@ jobs:
           python -m py_compile scripts/collect_nationwide_results.py scripts/collect_postrace_results.py
           python scripts/collect_nationwide_results.py
           python scripts/collect_nationwide_results.py --date "$(TZ=Asia/Tokyo date -d 'yesterday' +%Y%m%d)"
+      - name: Evaluate prediction accuracy without odds
+        run: python scripts/evaluate_prediction_accuracy.py
       - name: Save collected results and coverage audit
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f results/nationwide/
+          git add -f results/nationwide/ results/prediction_accuracy/
           if ! git diff --cached --quiet; then
             git commit -m "Save nationwide race results and coverage audit"
             git pull --rebase
