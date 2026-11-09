@@ -83,7 +83,16 @@ def main():
                     continue
                 race_id=url.rstrip("/").split("/")[-1]
                 dest=OUT/date;dest.mkdir(parents=True,exist_ok=True)
-                (dest/(race_id+".json")).write_text(json.dumps(rec,ensure_ascii=False,indent=2),encoding="utf-8")
+                target=dest/(race_id+".json")
+                # Keep earliest verified pre-start evidence immutable across hourly runs.
+                if target.exists():
+                    try:
+                        previous=json.loads(target.read_text(encoding="utf-8"))
+                        if previous.get("verified_pre_race"):
+                            audit["already_saved"]=audit.get("already_saved",0)+1
+                            continue
+                    except (ValueError,OSError):pass
+                target.write_text(json.dumps(rec,ensure_ascii=False,indent=2),encoding="utf-8")
                 audit["snapshot_count"]+=1
             except Exception as e:audit["errors"].append(url+": "+str(e))
     except Exception as e:audit["errors"].append("index: "+str(e))
