@@ -1,0 +1,4 @@
+﻿mode,shape,budget_cap,split,races,stake,returned,profit,roi,hit_rate,max_drawdown,unverifiable
+2,top1-top3-all,1000,train,72839,71087600,52026600,-19061000,0.73187,0.23666,19070630,0
+2,top1-top3-all,1000,validation,23830,23467000,15464020,-8002980,0.65897,0.22337,8027760,0
+2,top1-top3-all,1000,test,14194,13995400,10324480,-3670920,0.73771,0.22495,3745790,0
