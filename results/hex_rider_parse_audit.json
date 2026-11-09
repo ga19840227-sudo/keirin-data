@@ -1,9 +1,28 @@
 {
   "files": 3,
-  "verified": 2,
-  "parsed_riders": 14,
-  "complete_integrated_inputs": 2,
+  "verified": 3,
+  "parsed_riders": 21,
+  "complete_integrated_inputs": 3,
   "examples": [
+    {
+      "race_id": "095320261109",
+      "line_groups": [
+        [
+          1,
+          4,
+          5
+        ],
+        [
+          6,
+          3
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "riders": 7
+    },
     {
       "race_id": "123120261109",
       "line_groups": [

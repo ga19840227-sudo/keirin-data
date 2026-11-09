@@ -1,8 +1,8 @@
 {
   "files_checked": 3,
   "verified_pre_race": 3,
-  "parsed_line_groups": 2,
-  "valid_line_groups": 2,
+  "parsed_line_groups": 3,
+  "valid_line_groups": 3,
   "structured_sbh": 0,
   "structured_odds": 0,
   "ready_for_integrated_model": 0,
@@ -11,8 +11,22 @@
       "file": "snapshots/20261109/095320261109.json",
       "source_url": "https://keirinhex.jp/races/20261109/095320261109/",
       "pre_race": true,
-      "line_groups": null,
-      "lineup_raw": null,
+      "line_groups": [
+        [
+          1,
+          4,
+          5
+        ],
+        [
+          6,
+          3
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "lineup_raw": "1-4-5／6-3／7-2",
       "sbh": false,
       "odds": false,
       "start_jst": "2026-11-09T23:30:00+09:00"
