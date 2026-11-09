@@ -24,6 +24,20 @@ def main():
   if d.get("status")!="HEURISTIC_NOT_VALIDATED":continue
   predictions[d["race_id"]]=d
  grouped={rid:[] for rid in predictions}
+ # Source IDs differ between KEIRIN HEX and monthly CSV; match by date, venue and race number.
+ venue_names={"松戸":"matsudo","小倉":"kokura","川崎":"kawasaki","立川":"tachikawa","京王閣":"keiokaku","玉野":"tamano","弥彦":"yahiko","静岡":"shizuoka","防府":"hofu","四日市":"yokkaichi"}
+ lookup={}
+ for rid in predictions:
+  source=Path("results/verified_model_inputs")/(rid+".json")
+  if not source.exists():continue
+  snap=json.loads(source.read_text(encoding="utf-8"))
+  raw=Path("snapshots")/snap["start_jst"][:10].replace("-","")/(rid+".json")
+  if not raw.exists():continue
+  body=json.loads(raw.read_text(encoding="utf-8")).get("page_text","")[:1500]
+  m=re.search(r"([^\\s]+?)競輪\\s*(\\d+)R",body)
+  if not m:continue
+  venue=venue_names.get(m.group(1))
+  if venue:lookup[(snap["start_jst"][:10],venue,str(int(m.group(2))))]=rid
  files=0
  for p in sorted(glob.glob("keirin_data/*_keirin.csv")):
   files+=1
@@ -31,6 +45,9 @@ def main():
    for r in csv.DictReader(f):
     rid=r.get("race_id","")
     if rid in grouped:grouped[rid].append(r)
+    key=(r.get("date",""),r.get("venue_slug",""),str(number(r.get("race_no")) or ""))
+    mapped=lookup.get(key)
+    if mapped and mapped!=rid:grouped[mapped].append(r)
  report={"historical_files_scanned":files,"predictions":len(predictions),"matched_races":0,
          "settled_races":0,"results":[],"unmatched":[]}
  for rid,d in predictions.items():
