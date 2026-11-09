@@ -1,0 +1,55 @@
+{
+  "files": 59,
+  "counts": {
+    "rows": 927226,
+    "race_rows": 927226,
+    "lineup_filled": 918744
+  },
+  "available_columns": [
+    "agari",
+    "age",
+    "banum",
+    "close_time",
+    "date",
+    "finish_type",
+    "gear",
+    "lineup",
+    "maku_4m",
+    "margin",
+    "mark",
+    "mark_num",
+    "ni_sha_tan",
+    "nige_4m",
+    "player_class",
+    "player_name",
+    "pref",
+    "race_id",
+    "race_no",
+    "race_score",
+    "rank",
+    "running_style",
+    "san_ren_fuku",
+    "san_ren_tan",
+    "term",
+    "top2_rate_4m",
+    "top3_rate_4m",
+    "venue_slug",
+    "wide",
+    "win_lose",
+    "win_rate_4m"
+  ],
+  "sample_unparsed_lineups": [
+    "○1 ◎5 △7 ▲4 ×6 注3",
+    "○1 ◎5 △7 ▲4 ×6 注3",
+    "○1 ◎5 △7 ▲4 ×6 注3",
+    "○1 ◎5 △7 ▲4 ×6 注3",
+    "○1 ◎5 △7 ▲4 ×6 注3"
+  ],
+  "required_to_train_full_model": [
+    "pre-race timestamped line order with position",
+    "pre-race SBH rider stats",
+    "pre-race odds by exact trifecta combination"
+  ],
+  "decision": "BLOCKED_MISSING_VERIFIED_PRERACE_DATA",
+  "warning": "Do not infer lines from prefecture or interpret post-race S/B/H as pre-race data."
+}
