@@ -25,6 +25,21 @@ def main():
   except Exception as e:report.setdefault("errors",[]).append({"file":str(p),"error":str(e)})
  for k in (1,3,10):
   n=report["settled_forecasts"];report["top"+str(k)+"_pair_hit_rate"]=round(report["top"+str(k)+"_pair_hits"]/n,4) if n else None
+ scenario_scores={}
+ for p in sorted(Path("results/development_scenarios").glob("*.json")):
+  try:
+   d=json.loads(p.read_text());rid=p.stem
+   if rid not in actual or "scenarios" not in d:continue
+   truth=actual[rid][:2]
+   for name,scenario in d["scenarios"].items():
+    s=scenario_scores.setdefault(name,{"races":0,"top1_hits":0,"top3_hits":0,"top10_hits":0})
+    s["races"]+=1
+    for k in (1,3,10):s["top"+str(k)+"_hits"]+=int(truth in scenario["top_pairs"][:k])
+  except Exception as e:report.setdefault("scenario_errors",[]).append(str(e))
+ for s in scenario_scores.values():
+  for k in (1,3,10):s["top"+str(k)+"_hit_rate"]=round(s["top"+str(k)+"_hits"]/s["races"],4) if s["races"] else None
+ report["development_scenarios"]=scenario_scores
+ report["scenario_warning"]="Six fixed hypotheses; no fitting or verified improvement. Small samples cannot establish superiority."
  (out/"latest.json").write_text(json.dumps(report,ensure_ascii=False,indent=2))
  print(json.dumps(report,ensure_ascii=False))
 if __name__=="__main__":main()
