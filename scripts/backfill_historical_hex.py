@@ -37,7 +37,11 @@ def main():
     "warning":"Historical daily archive; validate lineup extraction and pre-race provenance before training."
    },ensure_ascii=False,indent=2),encoding="utf-8")
    report["daily_pages_saved"]=report.get("daily_pages_saved",0)+1
-   urls=sorted(set(urllib.parse.urljoin(BASE,u).split("?")[0] for u in index.links if re.search(r"/races/"+ds+r"/\\d+/?$",u)))
+   urls=sorted(set(urllib.parse.urljoin(BASE,u).split("?")[0].split("#")[0] for u in index.links if re.search(r"/races/"+ds+r"/[0-9]+/?(?:[?#].*)?$",u)))
+   # Fallback: historical daily archive may include race IDs in embedded HTML rather than anchors.
+   ids=set(re.findall(r"/races/"+ds+r"/([0-9]{8,20})/?",raw_html))
+   urls=sorted(set(urls)|{BASE+"/races/"+ds+"/"+rid+"/" for rid in ids})
+   report.setdefault("daily_link_audit",[]).append({"date":ds,"links":len(urls),"embedded_ids":len(ids)})
    if not urls:
     report["errors"].append(ds+": archive date index returned no race links")
    report.setdefault("dates",[]).append({"date":ds,"links":len(urls)})
