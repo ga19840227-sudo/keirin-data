@@ -44,10 +44,12 @@ def main():
     except Exception as e:
         audit["errors"].append("robots unavailable: "+str(e));save_audit(date,audit);return
     try:
-        index=Page();index.feed(fetch(BASE+"/races/"+date+"/",robot))
+        index_html=fetch(BASE+"/races/"+date+"/",robot)
+        index=Page();index.feed(index_html)
         links=sorted(set(urllib.parse.urljoin(BASE,x).split("?")[0] for x in index.links
                          if re.search(r"/races/"+date+r"/[0-9]+/?",x)))
 
+        links=sorted(set(links)|{BASE+"/races/"+date+"/"+rid+"/" for rid in re.findall(r"/races/"+date+r"/([0-9]{8,20})/?",index_html)})
         audit["indexed_races"]=len(links)
         if not links:
             audit["errors"].append("no current-date race links found; do not infer 0 scheduled races")
