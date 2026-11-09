@@ -13,7 +13,12 @@ def main():
  ap.add_argument("--end",default="2026-10-16")
  ap.add_argument("--limit",type=int,default=120)
  args=ap.parse_args()
- robot=urllib.robotparser.RobotFileParser();robot.set_url(BASE+"/robots.txt");robot.read()
+ robot=urllib.robotparser.RobotFileParser();robot.set_url(BASE+"/robots.txt")
+ try:robot.read()
+ except Exception as e:
+  Path("results").mkdir(exist_ok=True)
+  Path("results/historical_hex_backfill_audit.json").write_text(json.dumps({"error":"robots unavailable","detail":str(e)},ensure_ascii=False),encoding="utf-8")
+  return
  out=Path("historical_hex");out.mkdir(exist_ok=True)
  report={"start":args.start,"end":args.end,"visited":0,"saved":0,"line_and_sbh":0,"errors":[],"provenance":"archived page retrieved after race; pre-race originality not independently certified"}
  day=date.fromisoformat(args.start);end=date.fromisoformat(args.end)
