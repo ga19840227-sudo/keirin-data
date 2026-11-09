@@ -34,7 +34,19 @@ for key,ds in lookup.items():
  for path,d in ds:
   if not d.get("line_and_sbh_complete"):continue
   ranks={str(r.get("rank","")).strip() for r in rows}
-  if not {"1","2","3"}<=ranks:continue
+  if not {"1","2","3"}<=ranks:
+   # Historical CSV may be a pre-race snapshot without settled ranks.
+   # Archived HEX result text provides independently observed finish order.
+   result_text=d.get("page_text","")
+   found=re.findall(r"(?:^|\\n)\\s*([123])着\\s*([1-9])(?=[^0-9])",result_text)
+   finish={int(rank):int(banum) for rank,banum in found}
+   if not all(n in finish for n in (1,2,3)):continue
+   for r in rows:
+    if str(r.get("banum","")).isdigit():
+     bn=int(r["banum"])
+     r["rank"]=str(next((k for k,v in finish.items() if v==bn),""))
+   ranks={str(r.get("rank","")).strip() for r in rows}
+   if not {"1","2","3"}<=ranks:continue
   report["complete_line_sbh_and_results"]+=1
   payload={"key":key,"source":d["source_url"],"verified_pre_race":False,"line_groups":d["line_groups"],"riders":d["riders"],"results":[{"banum":r.get("banum"),"rank":r.get("rank"),"san_ren_tan":r.get("san_ren_tan")} for r in rows]}
   dest=out/(Path(path).stem+".json")
