@@ -1,0 +1,25 @@
+name: 競輪3連単フォーメーション比較
+on:
+  push:
+    paths:
+      - scripts/backtest_structures.py
+      - .github/workflows/backtest_structures.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run trifecta structure comparison
+        run: python scripts/backtest_structures.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: trifecta-structure-results
+          path: results/structure_backtest.csv
