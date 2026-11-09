@@ -47,5 +47,7 @@
   "note": "Pre-start forecasts only; pair hit means exact first and second; odds/payout excluded.",
   "top1_pair_hit_rate": 0.0,
   "top3_pair_hit_rate": 0.5,
-  "top10_pair_hit_rate": 0.5
+  "top10_pair_hit_rate": 0.5,
+  "development_scenarios": {},
+  "scenario_warning": "Six fixed hypotheses; no fitting or verified improvement. Small samples cannot establish superiority."
 }
