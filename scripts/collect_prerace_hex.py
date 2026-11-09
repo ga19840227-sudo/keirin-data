@@ -45,8 +45,8 @@ def main():
         audit["errors"].append("robots unavailable: "+str(e));save_audit(date,audit);return
     try:
         index=Page();index.feed(fetch(BASE+"/",robot))
-        links=sorted(set(urllib.parse.urljoin(BASE,x) for x in index.links
-                         if re.search(r"/races/"+date+r"/[0-9]+/?(?:\\?.*)?$",x)))
+        links=sorted(set(urllib.parse.urljoin(BASE,x).split("?")[0] for x in index.links
+                         if re.search(r"/races/"+date+r"/[0-9]+/?",x)))
         if not links:
             audit["errors"].append("no current-date race links found; do not infer 0 scheduled races")
         for url in links:
@@ -74,7 +74,7 @@ def main():
                      "lineup_raw":line_text,"page_text":txt[:30000],
                      "sbh_structured":False,"odds_structured":False,
                      "warning":"Raw page text is evidence, not yet structured SBH/odds; no post-start data as pre-race."}
-                if not is_pre:continue
+                if not is_pre:\n                    audit["errors"].append(url+": no verified future start time")\n                    continue
                 race_id=url.rstrip("/").split("/")[-1]
                 dest=OUT/date;dest.mkdir(parents=True,exist_ok=True)
                 (dest/(race_id+".json")).write_text(json.dumps(rec,ensure_ascii=False,indent=2),encoding="utf-8")
