@@ -58,6 +58,19 @@ def main():
                          if re.search(r"/races/"+date+r"/[0-9]+/?",x)))
 
         links=sorted(set(links)|{BASE+"/races/"+date+"/"+rid+"/" for rid in re.findall(r"/races/"+date+r"/([0-9]{8,20})/?",index_html)})
+        cache_path=Path("results/race_start_cache")/(date+".json")
+        try:
+            start_cache=json.loads(cache_path.read_text(encoding="utf-8")) if cache_path.exists() else {}
+        except (OSError,ValueError):
+            start_cache={}
+        def priority(url):
+            rid=url.rstrip("/").split("/")[-1]
+            try:
+                t=datetime.fromisoformat(start_cache[rid])
+                return (0,t.isoformat()) if t>datetime.now(JST) else (2,t.isoformat())
+            except (KeyError,ValueError,TypeError):
+                return (1,rid)
+        links.sort(key=priority)
         audit["indexed_races"]=len(links)
         if not links:
             audit["errors"].append("no current-date race links found; do not infer 0 scheduled races")
@@ -73,6 +86,12 @@ def main():
                             continue
                     except (ValueError,OSError,TypeError,KeyError):
                         pass
+                if race_id in start_cache:
+                    try:
+                        if datetime.fromisoformat(start_cache[race_id])<=datetime.now(JST):
+                            audit["skipped_known_started"]=audit.get("skipped_known_started",0)+1
+                            continue
+                    except (ValueError,TypeError):pass
                 time.sleep(1.5)
                 page=Page();page.feed(fetch(url,robot));audit["visited"]+=1
                 txt=re.sub(r"[ \t]+"," ","".join(page.parts))
@@ -90,6 +109,8 @@ def main():
                 if start:
                     start_dt=datetime.fromisoformat(now.strftime("%Y-%m-%d")+"T"+start.group(1)+":00").replace(tzinfo=JST)
                 captured_at=datetime.now(JST)
+                if start_dt is not None:
+                    start_cache[race_id]=start_dt.isoformat()
                 is_pre=start_dt is not None and captured_at<start_dt
                 rec={"source_url":url,"captured_jst":captured_at.isoformat(),
                      "race_date":now.date().isoformat(),"start_jst":start_dt.isoformat() if start_dt else None,
@@ -113,6 +134,8 @@ def main():
                 target.write_text(json.dumps(rec,ensure_ascii=False,indent=2),encoding="utf-8")
                 audit["snapshot_count"]+=1
             except Exception as e:audit["errors"].append(url+": "+str(e))
+        cache_path.parent.mkdir(parents=True,exist_ok=True)
+        cache_path.write_text(json.dumps(start_cache,ensure_ascii=False,indent=2),encoding="utf-8")
     except Exception as e:audit["errors"].append("index: "+str(e))
     audit["verified_saved_total"]=sum(1 for p in (OUT/date).glob("*.json") if p.name!="collection_audit.json" and _verified_snapshot(p))
     audit["missing_verified_count"]=max(0,audit.get("indexed_races",0)-audit["verified_saved_total"])
