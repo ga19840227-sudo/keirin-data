@@ -1,0 +1,51 @@
+{
+  "forecasts": 8,
+  "settled_forecasts": 2,
+  "top1_pair_hits": 0,
+  "top3_pair_hits": 1,
+  "top10_pair_hits": 1,
+  "missing_results": [
+    "075320261109",
+    "077520261109",
+    "085320261109",
+    "087520261109",
+    "095320261109",
+    "097520261109"
+  ],
+  "per_race": [
+    {
+      "race_id": "123120261109",
+      "actual": [
+        5,
+        3,
+        2
+      ],
+      "top1_pair": [
+        3,
+        5
+      ],
+      "top1_hit": false,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
+      "race_id": "127420261109",
+      "actual": [
+        3,
+        1,
+        7
+      ],
+      "top1_pair": [
+        6,
+        1
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
+    }
+  ],
+  "note": "Pre-start forecasts only; pair hit means exact first and second; odds/payout excluded.",
+  "top1_pair_hit_rate": 0.0,
+  "top3_pair_hit_rate": 0.5,
+  "top10_pair_hit_rate": 0.5
+}
