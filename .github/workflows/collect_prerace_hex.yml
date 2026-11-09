@@ -34,11 +34,12 @@ jobs:
             id=$(basename "$f")
             python scripts/integrated_race_forecast.py "$f" --out "results/real_integrated_predictions/$id"
           done
+          python scripts/audit_forecast_coverage.py
       - name: Commit collection audit and snapshots
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f snapshots/ results/snapshot_readiness_audit.json results/hex_rider_parse_audit.json results/verified_model_inputs/ results/real_integrated_predictions/ results/development_scenarios/
+          git add -f snapshots/ results/snapshot_readiness_audit.json results/hex_rider_parse_audit.json results/verified_model_inputs/ results/real_integrated_predictions/ results/development_scenarios/ results/coverage/
           if ! git diff --cached --quiet; then
             git commit -m "Record timestamped pre-race collection and audit"
             git fetch origin main
