@@ -26,7 +26,10 @@ def main():
   ds=day.strftime("%Y%m%d")
   try:
    index=Page();index.feed(fetch(BASE+"/races/"+ds+"/",robot))
-   urls=sorted(set(urllib.parse.urljoin(BASE,u).split("?")[0] for u in index.links if re.search(r"/races/"+ds+r"/\d+/?$",u)))
+   urls=sorted(set(urllib.parse.urljoin(BASE,u).split("?")[0] for u in index.links if re.search(r"/races/"+ds+r"/\\d+/?$",u)))
+   if not urls:
+    report["errors"].append(ds+": archive date index returned no race links")
+   report.setdefault("dates",[]).append({"date":ds,"links":len(urls)})
    for url in urls:
     if report["visited"]>=args.limit:break
     try:
