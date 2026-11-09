@@ -1,0 +1,5 @@
+Files: 59 Races: 131011
+Chronological date splits: 79790 26197 15652
+Scenarios: 240 train eligible: 150 validation eligible: 20
+SELECTED using validation: (5, 'exacta', 3, 1000) TRAIN: {'n': 79790, 'roi': 0.7259435184024732, 'profit': -13120180, 'hit_rate': 0.4087354305050758, 'max_drawdown': 13136230, 'stake': 47874000, 'returned': 34753820} VALIDATION: {'n': 26197, 'roi': 0.7548179817027395, 'profit': -3853820, 'hit_rate': 0.3874871168454403, 'max_drawdown': 3857650, 'stake': 15718200, 'returned': 11864380} UNTOUCHED TEST: {'n': 15652, 'roi': 0.7631154698015163, 'profit': -2224630, 'hit_rate': 0.3784180935343726, 'max_drawdown': 2278590, 'stake': 9391200, 'returned': 7166570} missing payouts: 0
+Output: results/optimization_summary.csv

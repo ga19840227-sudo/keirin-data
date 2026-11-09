@@ -1,0 +1,46 @@
+{
+  "files": 59,
+  "rider_rows": 927226,
+  "races": 131011,
+  "races_with_1st_2nd_3rd": 121639,
+  "races_with_trifecta_payout": 122252,
+  "races_with_both_for_backtest": 121638,
+  "recent_months": [
+    {
+      "file": "2026_04_keirin.csv",
+      "rows": 15485
+    },
+    {
+      "file": "2026_05_keirin.csv",
+      "rows": 14400
+    },
+    {
+      "file": "2026_06_keirin.csv",
+      "rows": 14113
+    },
+    {
+      "file": "2026_07_keirin.csv",
+      "rows": 14223
+    },
+    {
+      "file": "2026_08_keirin.csv",
+      "rows": 15842
+    },
+    {
+      "file": "2026_09_keirin.csv",
+      "rows": 14463
+    },
+    {
+      "file": "2026_10_keirin.csv",
+      "rows": 11963
+    },
+    {
+      "file": "2026_11_keirin.csv",
+      "rows": 3908
+    }
+  ],
+  "limitations": [
+    "lineup column contains tipster marks, not verified line positions",
+    "no structured pre-race trifecta odds or S/H/B in historical CSV"
+  ]
+}
