@@ -22,12 +22,12 @@ jobs:
         with:
           python-version: '3.11'
       - name: Collect publicly available pre-race line snapshots
-        run: python scripts/collect_prerace_hex.py
+        run: |\n          python scripts/collect_prerace_hex.py\n          python scripts/audit_saved_snapshots.py
       - name: Commit collection audit and snapshots
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f snapshots/
+          git add -f snapshots/ results/snapshot_readiness_audit.json
           if ! git diff --cached --quiet; then
             git commit -m "Record timestamped pre-race collection and audit"
             git pull --rebase
