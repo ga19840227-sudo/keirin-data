@@ -25,7 +25,18 @@ def main():
  while day<=end and report["visited"]<args.limit:
   ds=day.strftime("%Y%m%d")
   try:
-   index=Page();index.feed(fetch(BASE+"/races/"+ds+"/",robot))
+   raw_html=fetch(BASE+"/races/"+ds+"/",robot)
+   index=Page();index.feed(raw_html)
+   daily_text="".join(index.parts)
+   daily_dir=out/ds;daily_dir.mkdir(parents=True,exist_ok=True)
+   (daily_dir/"day_archive.json").write_text(json.dumps({
+    "source_url":BASE+"/races/"+ds+"/","race_date":day.isoformat(),
+    "retrieved_jst":datetime.now(ZoneInfo("Asia/Tokyo")).isoformat(),
+    "verified_pre_race":False,"historical_retrieval":True,
+    "page_text":daily_text[:200000],
+    "warning":"Historical daily archive; validate lineup extraction and pre-race provenance before training."
+   },ensure_ascii=False,indent=2),encoding="utf-8")
+   report["daily_pages_saved"]=report.get("daily_pages_saved",0)+1
    urls=sorted(set(urllib.parse.urljoin(BASE,u).split("?")[0] for u in index.links if re.search(r"/races/"+ds+r"/\\d+/?$",u)))
    if not urls:
     report["errors"].append(ds+": archive date index returned no race links")
