@@ -5,7 +5,8 @@
   "valid_line_groups": 8,
   "structured_sbh": 0,
   "structured_odds": 0,
-  "ready_for_integrated_model": 0,
+  "ready_for_integrated_model": 8,
+  "ready_for_profit_model": 0,
   "examples": [
     {
       "file": "snapshots/20261109/075320261109.json",
