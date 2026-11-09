@@ -23,12 +23,18 @@ jobs:
           python-version: '3.11'
       - name: Collect publicly available pre-race line snapshots
         run: |\n          python scripts/collect_prerace_hex.py\n          python scripts/audit_saved_snapshots.py
-          python scripts/merge_prerace_features.py
+          python scripts/parse_hex_prerace_riders.py
+          mkdir -p results/real_integrated_predictions
+          for f in results/verified_model_inputs/*.json; do
+            [ -f "$f" ] || continue
+            id=$(basename "$f")
+            python scripts/integrated_race_forecast.py "$f" --out "results/real_integrated_predictions/$id"
+          done
       - name: Commit collection audit and snapshots
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f snapshots/ results/snapshot_readiness_audit.json results/verified_merge_report.json
+          git add -f snapshots/ results/snapshot_readiness_audit.json results/hex_rider_parse_audit.json results/verified_model_inputs/ results/real_integrated_predictions/
           if ! git diff --cached --quiet; then
             git commit -m "Record timestamped pre-race collection and audit"
             git pull --rebase
