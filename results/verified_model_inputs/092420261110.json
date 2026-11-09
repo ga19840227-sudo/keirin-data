@@ -1,0 +1,135 @@
+{
+  "race_id": "092420261110",
+  "source_url": "https://keirinhex.jp/races/20261110/092420261110/",
+  "captured_jst": "2026-11-10T00:35:54.020847+09:00",
+  "start_jst": "2026-11-10T19:21:00+09:00",
+  "line_groups": [
+    [
+      2,
+      5,
+      3
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      7,
+      6
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "○下山聖斗鹿児島・A3・127期",
+      "race_score": 78.16,
+      "running_style": "逃",
+      "win_rate_4m": 44.0,
+      "top2_rate_4m": 66.0,
+      "top3_rate_4m": 72.0,
+      "s_count": 11,
+      "h_count": 8,
+      "b_count": 13,
+      "nige_4m": 7,
+      "maku_4m": 8,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲松本一志宮崎・A3・117期",
+      "race_score": 73.51,
+      "running_style": "逃",
+      "win_rate_4m": 41.0,
+      "top2_rate_4m": 54.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 7,
+      "h_count": 9,
+      "b_count": 9,
+      "nige_4m": 9,
+      "maku_4m": 4,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "加藤昌平福岡・A3・80期",
+      "race_score": 73.19,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆佐藤凱王埼玉・A3・129期",
+      "race_score": 72.88,
+      "running_style": "逃",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 39.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 0,
+      "h_count": 6,
+      "b_count": 7,
+      "nige_4m": 2,
+      "maku_4m": 3,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "菱沼元樹埼玉・A3・111期",
+      "race_score": 74.45,
+      "running_style": "逃",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 43.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 0,
+      "h_count": 14,
+      "b_count": 14,
+      "nige_4m": 7,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎西原裕太郎佐賀・A3・129期",
+      "race_score": 79.42,
+      "running_style": "逃",
+      "win_rate_4m": 56.0,
+      "top2_rate_4m": 81.0,
+      "top3_rate_4m": 89.0,
+      "s_count": 13,
+      "h_count": 11,
+      "b_count": 8,
+      "nige_4m": 9,
+      "maku_4m": 5,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆秋永昂人福岡・A3・98期",
+      "race_score": 71.57,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 10,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    }
+  ]
+}

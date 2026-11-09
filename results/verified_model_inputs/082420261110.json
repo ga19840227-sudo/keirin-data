@@ -1,0 +1,135 @@
+{
+  "race_id": "082420261110",
+  "source_url": "https://keirinhex.jp/races/20261110/082420261110/",
+  "captured_jst": "2026-11-10T00:35:40.625109+09:00",
+  "start_jst": "2026-11-10T18:55:00+09:00",
+  "line_groups": [
+    [
+      1,
+      7,
+      4
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      3,
+      6
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎齊藤英伊須青森・A1・125期",
+      "race_score": 93.14,
+      "running_style": "逃",
+      "win_rate_4m": 31.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 69.0,
+      "s_count": 0,
+      "h_count": 10,
+      "b_count": 12,
+      "nige_4m": 8,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○平沼由充福島・A1・83期",
+      "race_score": 87.27,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 37.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 11,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "原岡泰志郎千葉・A2・100期",
+      "race_score": 85.06,
+      "running_style": "両",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆貝原涼太地元栃木・A1・125期",
+      "race_score": 86.0,
+      "running_style": "逃",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 34.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 5,
+      "h_count": 14,
+      "b_count": 15,
+      "nige_4m": 7,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲山崎輝夫埼玉・A1・99期",
+      "race_score": 88.0,
+      "running_style": "追",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 45.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 4,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 4
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "岡田啓渡愛媛・A2・100期",
+      "race_score": 88.16,
+      "running_style": "両",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 47.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 9,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 8,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆三好陽一愛媛・A1・88期",
+      "race_score": 83.6,
+      "running_style": "両",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    }
+  ]
+}

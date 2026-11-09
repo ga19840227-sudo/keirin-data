@@ -1,0 +1,135 @@
+{
+  "race_id": "051220261110",
+  "source_url": "https://keirinhex.jp/races/20261110/051220261110/",
+  "captured_jst": "2026-11-10T00:34:47.094592+09:00",
+  "start_jst": "2026-11-10T10:10:00+09:00",
+  "line_groups": [
+    [
+      1,
+      6
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      3,
+      7,
+      5
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "小田恭介地元青森・A1・125期",
+      "race_score": 83.8,
+      "running_style": "逃",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 2,
+      "h_count": 8,
+      "b_count": 8,
+      "nige_4m": 2,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆佐々木健司地元青森・A2・76期",
+      "race_score": 81.8,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 11,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆遠藤勝弥静岡・A1・109期",
+      "race_score": 88.41,
+      "running_style": "両",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 6,
+      "h_count": 3,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 6,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "深澤伸介静岡・A2・76期",
+      "race_score": 81.9,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "◎矢部駿人岡山・A1・121期",
+      "race_score": 92.55,
+      "running_style": "逃",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 62.0,
+      "s_count": 0,
+      "h_count": 12,
+      "b_count": 11,
+      "nige_4m": 5,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○上野恭哉福岡・A2・119期",
+      "race_score": 89.62,
+      "running_style": "両",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 5,
+      "h_count": 5,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲八尋翔平福岡・A2・93期",
+      "race_score": 86.28,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    }
+  ]
+}

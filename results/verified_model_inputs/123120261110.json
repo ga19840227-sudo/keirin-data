@@ -1,0 +1,137 @@
+{
+  "race_id": "123120261110",
+  "source_url": "https://keirinhex.jp/races/20261110/123120261110/",
+  "captured_jst": "2026-11-10T00:36:24.688704+09:00",
+  "start_jst": "2026-11-10T20:30:00+09:00",
+  "line_groups": [
+    [
+      2,
+      5
+    ],
+    [
+      4
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      7,
+      1
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "☆中島詩音山梨・S2・119期",
+      "race_score": 105.35,
+      "running_style": "逃",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 4,
+      "h_count": 6,
+      "b_count": 7,
+      "nige_4m": 3,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲恩田淳平群馬・S1・100期",
+      "race_score": 106.42,
+      "running_style": "追",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 34.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "角令央奈福岡・S2・98期",
+      "race_score": 101.93,
+      "running_style": "両",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 5,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆塩崎隼秀愛媛・S2・121期",
+      "race_score": 97.65,
+      "running_style": "両",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 6,
+      "nige_4m": 2,
+      "maku_4m": 6,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "福島武士香川・S1・96期",
+      "race_score": 104.58,
+      "running_style": "追",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎青野将大神奈川・S1・117期",
+      "race_score": 111.67,
+      "running_style": "逃",
+      "win_rate_4m": 39.0,
+      "top2_rate_4m": 53.0,
+      "top3_rate_4m": 61.0,
+      "s_count": 1,
+      "h_count": 8,
+      "b_count": 9,
+      "nige_4m": 3,
+      "maku_4m": 11,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○小原太樹神奈川・S1・95期",
+      "race_score": 112.28,
+      "running_style": "追",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 49.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 13,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 9,
+      "mark_4m": 5
+    }
+  ]
+}

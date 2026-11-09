@@ -1,0 +1,139 @@
+{
+  "race_id": "013120261110",
+  "source_url": "https://keirinhex.jp/races/20261110/013120261110/",
+  "captured_jst": "2026-11-10T00:33:35.892474+09:00",
+  "start_jst": "2026-11-10T15:45:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      3
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      6
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆山口茂福島・A2・98期",
+      "race_score": 80.44,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 16.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎後藤祐貴兵庫・A2・103期",
+      "race_score": 83.76,
+      "running_style": "逃",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 0,
+      "h_count": 3,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○田中秀治岐阜・A2・82期",
+      "race_score": 83.47,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 17.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "在本直樹岡山・A2・93期",
+      "race_score": 82.1,
+      "running_style": "両",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆米村光星熊本・A2・121期",
+      "race_score": 80.17,
+      "running_style": "逃",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 5.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 2,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲廣川泰昭愛媛・A2・90期",
+      "race_score": 84.07,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "福森慎太郎地元千葉・A2・84期",
+      "race_score": 78.73,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 18.0,
+      "s_count": 0,
+      "h_count": 3,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    }
+  ]
+}

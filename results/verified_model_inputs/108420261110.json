@@ -1,0 +1,137 @@
+{
+  "race_id": "108420261110",
+  "source_url": "https://keirinhex.jp/races/20261110/108420261110/",
+  "captured_jst": "2026-11-10T00:36:13.851839+09:00",
+  "start_jst": "2026-11-10T15:07:00+09:00",
+  "line_groups": [
+    [
+      4,
+      2
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      3
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 4,
+      "player_name_raw": "☆坂田康季地元佐賀・S2・121期",
+      "race_score": 101.86,
+      "running_style": "逃",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 4,
+      "h_count": 13,
+      "b_count": 14,
+      "nige_4m": 2,
+      "maku_4m": 9,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎緒方将樹熊本・S1・117期",
+      "race_score": 105.67,
+      "running_style": "逃",
+      "win_rate_4m": 31.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 7,
+      "h_count": 2,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 8,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "谷内健太京都・S2・125期",
+      "race_score": 105.96,
+      "running_style": "逃",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 2,
+      "h_count": 21,
+      "b_count": 19,
+      "nige_4m": 3,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲石塚輪太郎和歌山・S2・105期",
+      "race_score": 107.09,
+      "running_style": "逃",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 69.0,
+      "s_count": 1,
+      "h_count": 7,
+      "b_count": 9,
+      "nige_4m": 4,
+      "maku_4m": 3,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "長屋秀明岐阜・S2・117期",
+      "race_score": 93.0,
+      "running_style": "逃",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 0,
+      "h_count": 3,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○鈴木竜士東京・S1・107期",
+      "race_score": 111.77,
+      "running_style": "両",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 43.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 9,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 5,
+      "mark_4m": 4
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆石毛克幸千葉・S1・84期",
+      "race_score": 106.85,
+      "running_style": "追",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 1
+    }
+  ]
+}

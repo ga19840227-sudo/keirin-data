@@ -1,11 +1,11 @@
 {
-  "files_checked": 8,
-  "verified_pre_race": 8,
-  "parsed_line_groups": 8,
-  "valid_line_groups": 8,
+  "files_checked": 86,
+  "verified_pre_race": 86,
+  "parsed_line_groups": 61,
+  "valid_line_groups": 61,
   "structured_sbh": 0,
   "structured_odds": 0,
-  "ready_for_integrated_model": 8,
+  "ready_for_integrated_model": 61,
   "ready_for_profit_model": 0,
   "examples": [
     {
@@ -201,6 +201,94 @@
       "sbh": false,
       "odds": false,
       "start_jst": "2026-11-09T16:19:00+09:00"
+    },
+    {
+      "file": "snapshots/20261110/011220261110.json",
+      "source_url": "https://keirinhex.jp/races/20261110/011220261110/",
+      "pre_race": true,
+      "line_groups": null,
+      "lineup_raw": null,
+      "sbh": false,
+      "odds": false,
+      "start_jst": "2026-11-10T08:50:00+09:00"
+    },
+    {
+      "file": "snapshots/20261110/012420261110.json",
+      "source_url": "https://keirinhex.jp/races/20261110/012420261110/",
+      "pre_race": true,
+      "line_groups": [
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          7,
+          4
+        ],
+        [
+          3
+        ],
+        [
+          5
+        ]
+      ],
+      "lineup_raw": "1-6／2-7-4／3／5",
+      "sbh": false,
+      "odds": false,
+      "start_jst": "2026-11-10T15:59:00+09:00"
+    },
+    {
+      "file": "snapshots/20261110/012520261110.json",
+      "source_url": "https://keirinhex.jp/races/20261110/012520261110/",
+      "pre_race": true,
+      "line_groups": [
+        [
+          3,
+          1,
+          4
+        ],
+        [
+          5,
+          2,
+          7
+        ],
+        [
+          6
+        ]
+      ],
+      "lineup_raw": "3-1-4／5-2-7／6",
+      "sbh": false,
+      "odds": false,
+      "start_jst": "2026-11-10T09:00:00+09:00"
+    },
+    {
+      "file": "snapshots/20261110/013120261110.json",
+      "source_url": "https://keirinhex.jp/races/20261110/013120261110/",
+      "pre_race": true,
+      "line_groups": [
+        [
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          6
+        ]
+      ],
+      "lineup_raw": "1／2-5／3／4-7／6",
+      "sbh": false,
+      "odds": false,
+      "start_jst": "2026-11-10T15:45:00+09:00"
     }
   ],
   "issues": []

@@ -1,0 +1,137 @@
+{
+  "race_id": "043120261110",
+  "source_url": "https://keirinhex.jp/races/20261110/043120261110/",
+  "captured_jst": "2026-11-10T00:34:35.599831+09:00",
+  "start_jst": "2026-11-10T16:58:00+09:00",
+  "line_groups": [
+    [
+      2,
+      7
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      5
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "○中村弘之輔北海道・A1・109期",
+      "race_score": 91.15,
+      "running_style": "両",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 5,
+      "h_count": 7,
+      "b_count": 9,
+      "nige_4m": 3,
+      "maku_4m": 2,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲稲村好将群馬・A1・81期",
+      "race_score": 89.75,
+      "running_style": "追",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "◎仲野結音大阪・A1・117期",
+      "race_score": 93.55,
+      "running_style": "逃",
+      "win_rate_4m": 33.0,
+      "top2_rate_4m": 59.0,
+      "top3_rate_4m": 67.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 4,
+      "nige_4m": 0,
+      "maku_4m": 11,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆四宮哲郎京都・A1・71期",
+      "race_score": 84.22,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "重倉高史富山・A1・95期",
+      "race_score": 88.59,
+      "running_style": "両",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 10,
+      "h_count": 22,
+      "b_count": 21,
+      "nige_4m": 7,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "吉村和之岐阜・A1・80期",
+      "race_score": 90.11,
+      "running_style": "追",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆野間司茨城・A2・94期",
+      "race_score": 85.23,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    }
+  ]
+}

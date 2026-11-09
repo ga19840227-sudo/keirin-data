@@ -1,0 +1,137 @@
+{
+  "race_id": "033120261110",
+  "source_url": "https://keirinhex.jp/races/20261110/033120261110/",
+  "captured_jst": "2026-11-10T00:34:15.219453+09:00",
+  "start_jst": "2026-11-10T16:33:00+09:00",
+  "line_groups": [
+    [
+      4,
+      2
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      1
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 4,
+      "player_name_raw": "☆山中秀将地元千葉・A1・95期",
+      "race_score": 86.36,
+      "running_style": "逃",
+      "win_rate_4m": 31.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 4,
+      "h_count": 2,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 4,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆木村貴宏茨城・A1・80期",
+      "race_score": 87.13,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 11,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○西浦仙哉三重・A1・73期",
+      "race_score": 92.66,
+      "running_style": "両",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 4,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "乾庄平滋賀・A2・95期",
+      "race_score": 83.08,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "井上将志福岡・A2・98期",
+      "race_score": 82.95,
+      "running_style": "両",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎船瀬惇平広島・A1・111期",
+      "race_score": 92.88,
+      "running_style": "逃",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 64.0,
+      "s_count": 1,
+      "h_count": 6,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲吉永好宏広島・A1・80期",
+      "race_score": 87.11,
+      "running_style": "追",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    }
+  ]
+}
