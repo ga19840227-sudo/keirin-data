@@ -1,0 +1,89 @@
+"""Collect timestamped public pre-race line/ability/SBH snapshots.
+Respect robots.txt and access restrictions; never treat failed access as success.
+No paid pages, bypasses, or post-start snapshots.
+"""
+import csv,json,re,time,urllib.request,urllib.parse,urllib.robotparser
+from html.parser import HTMLParser
+from datetime import datetime
+from zoneinfo import ZoneInfo
+from pathlib import Path
+
+BASE="https://keirinhex.jp"
+JST=ZoneInfo("Asia/Tokyo")
+OUT=Path("snapshots");OUT.mkdir(exist_ok=True)
+UA="KeirinResearchCollector/1.0 (public pages only; respectful rate limit)"
+class Page(HTMLParser):
+    def __init__(self):super().__init__();self.links=[];self.parts=[];self.skip=0
+    def handle_starttag(self,tag,attrs):
+        d=dict(attrs)
+        if tag in ("script","style"):self.skip+=1
+        if tag=="a" and d.get("href"):self.links.append(d["href"])
+        if tag in ("tr","td","th","p","h1","h2","h3","li","br"):self.parts.append("\n")
+    def handle_endtag(self,tag):
+        if tag in ("script","style"):self.skip=max(0,self.skip-1)
+        if tag in ("tr","p","li"):self.parts.append("\n")
+    def handle_data(self,data):
+        if not self.skip:self.parts.append(data)
+def fetch(url,robot):
+    if not robot.can_fetch(UA,url):raise PermissionError("robots.txt disallows "+url)
+    req=urllib.request.Request(url,headers={"User-Agent":UA})
+    with urllib.request.urlopen(req,timeout=25) as res:
+        if res.status!=200:raise RuntimeError("HTTP "+str(res.status))
+        if "html" not in res.headers.get("Content-Type",""):raise RuntimeError("not HTML")
+        raw=res.read(2_000_001)
+        if len(raw)>2_000_000:raise RuntimeError("page too large")
+        charset=res.headers.get_content_charset() or "utf-8"
+        return raw.decode(charset,errors="replace")
+def main():
+    now=datetime.now(JST)
+    date=now.strftime("%Y%m%d")
+    audit={"captured_jst":now.isoformat(),"date":date,"source":BASE,"visited":0,"snapshot_count":0,"errors":[]}
+    robot=urllib.robotparser.RobotFileParser()
+    try:
+        robot.set_url(BASE+"/robots.txt");robot.read()
+    except Exception as e:
+        audit["errors"].append("robots unavailable: "+str(e));save_audit(date,audit);return
+    try:
+        index=Page();index.feed(fetch(BASE+"/",robot))
+        links=sorted(set(urllib.parse.urljoin(BASE,x) for x in index.links
+                         if re.search(r"/races/"+date+r"/[0-9]+/?(?:\\?.*)?$",x)))
+        if not links:
+            audit["errors"].append("no current-date race links found; do not infer 0 scheduled races")
+        for url in links:
+            try:
+                time.sleep(1.5)
+                page=Page();page.feed(fetch(url,robot));audit["visited"]+=1
+                txt=re.sub(r"[ \t]+"," ","".join(page.parts))
+                match=re.search(r"並び予想は\s*([0-9０-９/／\-－=\s]+)",txt)
+                line_text=match.group(1).strip() if match else None
+                groups=None
+                if line_text:
+                    normalized=line_text.translate(str.maketrans("０１２３４５６７８９／－","0123456789/-"))
+                    pieces=[x.strip() for x in normalized.split("/")]
+                    if all(re.fullmatch(r"[1-9](?:-[1-9])*",x) for x in pieces):
+                        groups=[[int(n) for n in x.split("-")] for x in pieces]
+                start=re.search(r"(?:発走(?:予定)?(?:時間)?|発走)\s*([0-2]?\d:[0-5]\d)",txt)
+                # Do not label as pre-race unless start is visible and later than capture.
+                start_dt=None
+                if start:
+                    start_dt=datetime.fromisoformat(now.strftime("%Y-%m-%d")+"T"+start.group(1)+":00").replace(tzinfo=JST)
+                is_pre=start_dt is not None and now<start_dt
+                rec={"source_url":url,"captured_jst":datetime.now(JST).isoformat(),
+                     "race_date":now.date().isoformat(),"start_jst":start_dt.isoformat() if start_dt else None,
+                     "verified_pre_race":bool(is_pre),"line_groups":groups,
+                     "lineup_raw":line_text,"page_text":txt[:30000],
+                     "sbh_structured":False,"odds_structured":False,
+                     "warning":"Raw page text is evidence, not yet structured SBH/odds; no post-start data as pre-race."}
+                if not is_pre:continue
+                race_id=url.rstrip("/").split("/")[-1]
+                dest=OUT/date;dest.mkdir(parents=True,exist_ok=True)
+                (dest/(race_id+".json")).write_text(json.dumps(rec,ensure_ascii=False,indent=2),encoding="utf-8")
+                audit["snapshot_count"]+=1
+            except Exception as e:audit["errors"].append(url+": "+str(e))
+    except Exception as e:audit["errors"].append("index: "+str(e))
+    save_audit(date,audit)
+def save_audit(date,audit):
+    dest=OUT/date;dest.mkdir(parents=True,exist_ok=True)
+    (dest/"collection_audit.json").write_text(json.dumps(audit,ensure_ascii=False,indent=2),encoding="utf-8")
+    print(json.dumps(audit,ensure_ascii=False))
+if __name__=="__main__":main()
