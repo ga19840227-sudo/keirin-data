@@ -1,0 +1,33 @@
+name: 過去59か月の実データ検証
+on:
+  push:
+    paths:
+      - scripts/audit_historical_data.py
+      - .github/workflows/historical_backtest_audit.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  historical:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Audit real historical data
+        run: python scripts/audit_historical_data.py
+      - name: Chronological historical backtest
+        run: python scripts/backtest.py > results/historical_backtest_log.txt 2>&1
+      - name: Save audited results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f results/historical_data_readiness.json results/historical_backtest_log.txt results/optimization_summary.csv
+          if ! git diff --cached --quiet; then
+            git commit -m "Store 59-month historical audit and 240-strategy backtest"
+            git pull --rebase
+            git push
+          fi
