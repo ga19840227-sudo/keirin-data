@@ -1,0 +1,31 @@
+name: 過去のライン・番手・SBH収集
+on:
+  push:
+    paths:
+      - scripts/backfill_historical_hex.py
+      - .github/workflows/backfill_historical_hex.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Fetch archived racecards with provenance
+        run: python scripts/backfill_historical_hex.py --start 2026-10-13 --end 2026-10-16 --limit 120
+      - name: Save historical audit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f historical_hex/ results/historical_hex_backfill_audit.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Archive historical line, position and SBH evidence"
+            git pull --rebase
+            git push
+          fi
