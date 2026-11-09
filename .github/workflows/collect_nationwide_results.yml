@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - scripts/collect_nationwide_results.py
+      - scripts/evaluate_prediction_accuracy.py
       - .github/workflows/collect_nationwide_results.yml
   workflow_dispatch:
   schedule:
