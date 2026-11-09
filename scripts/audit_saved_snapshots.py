@@ -1,7 +1,7 @@
 """Inspect actual saved pre-race snapshots, never count raw page text as structured features."""
 import json,glob
 from pathlib import Path
-out={"files_checked":0,"verified_pre_race":0,"parsed_line_groups":0,"valid_line_groups":0,"structured_sbh":0,"structured_odds":0,"ready_for_integrated_model":0,"examples":[],"issues":[]}
+out={"files_checked":0,"verified_pre_race":0,"parsed_line_groups":0,"valid_line_groups":0,"structured_sbh":0,"structured_odds":0,"ready_for_integrated_model":0,"ready_for_profit_model":0,"examples":[],"issues":[]}
 for p in sorted(glob.glob("snapshots/20*/*.json")):
     if p.endswith("collection_audit.json"):continue
     try:d=json.loads(Path(p).read_text(encoding="utf-8"))
@@ -19,7 +19,9 @@ for p in sorted(glob.glob("snapshots/20*/*.json")):
     out["valid_line_groups"]+=int(valid)
     out["structured_sbh"]+=int(sbh)
     out["structured_odds"]+=int(odds)
-    out["ready_for_integrated_model"]+=int(pre and valid and sbh and odds)
+    # Accuracy forecasts do not require odds. Actual rider-row completeness is audited separately.
+    out["ready_for_integrated_model"]+=int(pre and valid)
+    out["ready_for_profit_model"]+=int(pre and valid and sbh and odds)
     if len(out["examples"])<12:out["examples"].append({"file":p,"source_url":d.get("source_url"),"pre_race":pre,"line_groups":line,"lineup_raw":d.get("lineup_raw"),"sbh":sbh,"odds":odds,"start_jst":d.get("start_jst")})
 Path("results").mkdir(exist_ok=True)
 Path("results/snapshot_readiness_audit.json").write_text(json.dumps(out,ensure_ascii=False,indent=2),encoding="utf-8")
