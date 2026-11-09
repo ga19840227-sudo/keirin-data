@@ -44,11 +44,10 @@ def main():
     except Exception as e:
         audit["errors"].append("robots unavailable: "+str(e));save_audit(date,audit);return
     try:
-        index=Page();index.feed(fetch(BASE+"/",robot))
+        index=Page();index.feed(fetch(BASE+"/races/"+date+"/",robot))
         links=sorted(set(urllib.parse.urljoin(BASE,x).split("?")[0] for x in index.links
                          if re.search(r"/races/"+date+r"/[0-9]+/?",x)))
-        # Include all race IDs embedded in the daily index, not just visible anchors.
-        links=sorted(set(links)|{BASE+"/races/"+date+"/"+rid+"/" for rid in re.findall(r"/races/"+date+r"/([0-9]{8,20})/?",fetch(BASE+"/races/"+date+"/",robot))})
+
         audit["indexed_races"]=len(links)
         if not links:
             audit["errors"].append("no current-date race links found; do not infer 0 scheduled races")
