@@ -34,7 +34,7 @@ def main():
   raw=Path("snapshots")/snap["start_jst"][:10].replace("-","")/(rid+".json")
   if not raw.exists():continue
   body=json.loads(raw.read_text(encoding="utf-8")).get("page_text","")[:1500]
-  m=re.search(r"([^\\s]+?)競輪\\s*(\\d+)R",body)
+  m=re.search(r"([^\s]+?)競輪\s*(\d+)R",body)
   if not m:continue
   venue=venue_names.get(m.group(1))
   if venue:lookup[(snap["start_jst"][:10],venue,str(int(m.group(2))))]=rid
