@@ -2,6 +2,7 @@
 No claims of pre-race odds, SBH or timestamped lineup availability.
 """
 import csv, itertools, math, re
+from backtest import parse_payout
 from collections import defaultdict
 from pathlib import Path
 
@@ -82,7 +83,7 @@ def main():
                     sorted(players,key=lambda p:features(p,hist,mode),reverse=True)
                     if number(p.get("banum")) is not None]
             # Only retain realized payout for scoring, never as input to rank.
-            pay=payout(players[0].get("san_ren_tan"),actual)
+            pay=parse_payout(players[0].get("san_ren_tan"),actual)
             splits[split].append((ranked,actual,pay))
         # Update histories AFTER all races for this date.
         for players in today:
