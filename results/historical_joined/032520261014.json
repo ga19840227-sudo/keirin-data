@@ -1,0 +1,177 @@
+{
+  "key": [
+    "2026-10-14",
+    "omiya",
+    "3"
+  ],
+  "source": "https://keirinhex.jp/races/20261014/032520261014/",
+  "verified_pre_race": false,
+  "line_groups": [
+    [
+      1,
+      4,
+      5
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      3
+    ],
+    [
+      6
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎松木一将愛知・A3・129期",
+      "race_score": 70.66,
+      "running_style": "逃",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 3,
+      "h_count": 7,
+      "b_count": 7,
+      "nige_4m": 1,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆関根崇人福島・A3・94期",
+      "race_score": 71.27,
+      "running_style": "両",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 4,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "関敬栃木・A3・81期",
+      "race_score": 71.45,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○斎藤敦大阪・A3・103期",
+      "race_score": 68.56,
+      "running_style": "逃",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 17.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 4,
+      "h_count": 6,
+      "b_count": 6,
+      "nige_4m": 3,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲坂本佳憲大阪・A3・90期",
+      "race_score": 67.66,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 9,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "落合豊茨城・A3・69期",
+      "race_score": 63.83,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆関戸努宮城・A3・82期",
+      "race_score": 66.26,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    }
+  ],
+  "results": [
+    {
+      "banum": "1",
+      "rank": "2",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "2",
+      "rank": "1",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "3",
+      "rank": "3",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "4",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "5",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "6",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "7",
+      "rank": "",
+      "san_ren_tan": ""
+    }
+  ]
+}

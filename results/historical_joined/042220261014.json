@@ -1,0 +1,173 @@
+{
+  "key": [
+    "2026-10-14",
+    "maebashi",
+    "4"
+  ],
+  "source": "https://keirinhex.jp/races/20261014/042220261014/",
+  "verified_pre_race": false,
+  "line_groups": [
+    [
+      2,
+      4,
+      1,
+      7,
+      6
+    ],
+    [
+      5,
+      3
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "▲大越啓介栃木・A3・97期",
+      "race_score": 74.11,
+      "running_style": "追",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 43.0,
+      "top3_rate_4m": 60.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 9
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎長川達哉埼玉・A3・129期",
+      "race_score": 79.47,
+      "running_style": "逃",
+      "win_rate_4m": 63.0,
+      "top2_rate_4m": 88.0,
+      "top3_rate_4m": 88.0,
+      "s_count": 3,
+      "h_count": 21,
+      "b_count": 19,
+      "nige_4m": 19,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆湯浅大輔千葉・A3・96期",
+      "race_score": 76.06,
+      "running_style": "逃",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 17,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 10,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○小林和彦地元群馬・A3・82期",
+      "race_score": 74.28,
+      "running_style": "両",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆阿部蒼大秋田・A3・129期",
+      "race_score": 78.5,
+      "running_style": "逃",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 70.0,
+      "s_count": 0,
+      "h_count": 3,
+      "b_count": 4,
+      "nige_4m": 4,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "菊池崇訓栃木・A3・85期",
+      "race_score": 67.16,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 11,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "川上真二郎新潟・A3・86期",
+      "race_score": 72.0,
+      "running_style": "追",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 1
+    }
+  ],
+  "results": [
+    {
+      "banum": "1",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "2",
+      "rank": "1",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "3",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "4",
+      "rank": "2",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "5",
+      "rank": "3",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "6",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "7",
+      "rank": "",
+      "san_ren_tan": ""
+    }
+  ]
+}

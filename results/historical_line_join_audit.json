@@ -1,8 +1,73 @@
 {
   "archive_races_with_venue": 120,
   "matched_races": 60,
-  "complete_line_sbh_and_results": 0,
-  "examples": [],
+  "complete_line_sbh_and_results": 24,
+  "examples": [
+    {
+      "key": [
+        "2026-10-14",
+        "aomori",
+        "1"
+      ],
+      "file": "results/historical_joined/011220261014.json"
+    },
+    {
+      "key": [
+        "2026-10-14",
+        "maebashi",
+        "1"
+      ],
+      "file": "results/historical_joined/012220261014.json"
+    },
+    {
+      "key": [
+        "2026-10-14",
+        "nara",
+        "1"
+      ],
+      "file": "results/historical_joined/015320261014.json"
+    },
+    {
+      "key": [
+        "2026-10-14",
+        "beppu",
+        "1"
+      ],
+      "file": "results/historical_joined/018620261014.json"
+    },
+    {
+      "key": [
+        "2026-10-14",
+        "aomori",
+        "2"
+      ],
+      "file": "results/historical_joined/021220261014.json"
+    },
+    {
+      "key": [
+        "2026-10-14",
+        "maebashi",
+        "2"
+      ],
+      "file": "results/historical_joined/022220261014.json"
+    },
+    {
+      "key": [
+        "2026-10-14",
+        "omiya",
+        "2"
+      ],
+      "file": "results/historical_joined/022520261014.json"
+    },
+    {
+      "key": [
+        "2026-10-14",
+        "nara",
+        "2"
+      ],
+      "file": "results/historical_joined/025320261014.json"
+    }
+  ],
   "unmatched_keys": [
     [
       "2026-10-13",
@@ -340,7 +405,7 @@
           "top3_rate_4m": "76.1",
           "nige_4m": "7",
           "maku_4m": "2",
-          "rank": "",
+          "rank": "2",
           "agari": "",
           "finish_type": "",
           "margin": "",
@@ -373,7 +438,7 @@
           "top3_rate_4m": "76.1",
           "nige_4m": "0",
           "maku_4m": "0",
-          "rank": "",
+          "rank": "1",
           "agari": "",
           "finish_type": "",
           "margin": "",
@@ -531,7 +596,7 @@
           "top3_rate_4m": "50.0",
           "nige_4m": "6",
           "maku_4m": "2",
-          "rank": "",
+          "rank": "1",
           "agari": "",
           "finish_type": "",
           "margin": "",

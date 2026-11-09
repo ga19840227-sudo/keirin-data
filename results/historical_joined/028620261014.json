@@ -1,0 +1,175 @@
+{
+  "key": [
+    "2026-10-14",
+    "beppu",
+    "2"
+  ],
+  "source": "https://keirinhex.jp/races/20261014/028620261014/",
+  "verified_pre_race": false,
+  "line_groups": [
+    [
+      1,
+      5,
+      3
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      4,
+      2
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "○吉野太晟岡山・A2・127期",
+      "race_score": 88.58,
+      "running_style": "逃",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 37.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 11,
+      "h_count": 16,
+      "b_count": 15,
+      "nige_4m": 8,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "渡邊恭典栃木・A2・75期",
+      "race_score": 80.55,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲三槻智清佐賀・A2・80期",
+      "race_score": 82.91,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆梅山英樹群馬・A1・72期",
+      "race_score": 86.76,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎栗田貴徳愛媛・A1・93期",
+      "race_score": 87.95,
+      "running_style": "追",
+      "win_rate_4m": 33.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 62.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "中野真吾佐賀・A2・111期",
+      "race_score": 77.3,
+      "running_style": "逃",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 20.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆齊藤健人静岡・A2・92期",
+      "race_score": 80.04,
+      "running_style": "両",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 2,
+      "h_count": 10,
+      "b_count": 9,
+      "nige_4m": 4,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ],
+  "results": [
+    {
+      "banum": "1",
+      "rank": "2",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "2",
+      "rank": "1",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "3",
+      "rank": "3",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "4",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "5",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "6",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "7",
+      "rank": "",
+      "san_ren_tan": ""
+    }
+  ]
+}

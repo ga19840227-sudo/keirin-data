@@ -1,0 +1,175 @@
+{
+  "key": [
+    "2026-10-14",
+    "maebashi",
+    "3"
+  ],
+  "source": "https://keirinhex.jp/races/20261014/032220261014/",
+  "verified_pre_race": false,
+  "line_groups": [
+    [
+      1,
+      4,
+      6
+    ],
+    [
+      3
+    ],
+    [
+      5,
+      7,
+      2
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "▲織茂雄一郎山梨・A3・125期",
+      "race_score": 75.7,
+      "running_style": "両",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 73.0,
+      "s_count": 21,
+      "h_count": 7,
+      "b_count": 7,
+      "nige_4m": 3,
+      "maku_4m": 2,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "工藤考生埼玉・A3・90期",
+      "race_score": 70.92,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆福地晶福島・A3・129期",
+      "race_score": 74.47,
+      "running_style": "逃",
+      "win_rate_4m": 36.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 5,
+      "h_count": 6,
+      "b_count": 6,
+      "nige_4m": 4,
+      "maku_4m": 4,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆吉松賢二地元群馬・A3・90期",
+      "race_score": 70.45,
+      "running_style": "両",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 8,
+      "h_count": 14,
+      "b_count": 11,
+      "nige_4m": 10,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎秋山太洋東京・A3・127期",
+      "race_score": 77.52,
+      "running_style": "逃",
+      "win_rate_4m": 50.0,
+      "top2_rate_4m": 57.0,
+      "top3_rate_4m": 68.0,
+      "s_count": 15,
+      "h_count": 5,
+      "b_count": 11,
+      "nige_4m": 4,
+      "maku_4m": 8,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "高橋由記地元群馬・A3・88期",
+      "race_score": 68.7,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○菱沼元樹埼玉・A3・111期",
+      "race_score": 75.93,
+      "running_style": "逃",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 52.0,
+      "top3_rate_4m": 67.0,
+      "s_count": 0,
+      "h_count": 16,
+      "b_count": 17,
+      "nige_4m": 10,
+      "maku_4m": 3,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    }
+  ],
+  "results": [
+    {
+      "banum": "1",
+      "rank": "2",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "2",
+      "rank": "1",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "3",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "4",
+      "rank": "3",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "5",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "6",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "7",
+      "rank": "",
+      "san_ren_tan": ""
+    }
+  ]
+}

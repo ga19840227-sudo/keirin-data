@@ -1,0 +1,175 @@
+{
+  "key": [
+    "2026-10-14",
+    "nara",
+    "3"
+  ],
+  "source": "https://keirinhex.jp/races/20261014/035320261014/",
+  "verified_pre_race": false,
+  "line_groups": [
+    [
+      3
+    ],
+    [
+      6,
+      2,
+      5
+    ],
+    [
+      7,
+      4,
+      1
+    ]
+  ],
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "西谷岳文京都・A2・93期",
+      "race_score": 82.04,
+      "running_style": "両",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 22.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲原田礼福岡・A2・90期",
+      "race_score": 84.77,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "成清謙二郎千葉・A1・90期",
+      "race_score": 80.62,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎肥後尚己大阪・A1・83期",
+      "race_score": 88.95,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆渡邊一洋静岡・A2・72期",
+      "race_score": 82.66,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆天野純平佐賀・A2・115期",
+      "race_score": 80.28,
+      "running_style": "逃",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 8,
+      "h_count": 7,
+      "b_count": 7,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○小林史也和歌山・A2・107期",
+      "race_score": 85.74,
+      "running_style": "逃",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 2,
+      "h_count": 16,
+      "b_count": 13,
+      "nige_4m": 5,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    }
+  ],
+  "results": [
+    {
+      "banum": "1",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "2",
+      "rank": "1",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "3",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "4",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "5",
+      "rank": "3",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "6",
+      "rank": "",
+      "san_ren_tan": ""
+    },
+    {
+      "banum": "7",
+      "rank": "2",
+      "san_ren_tan": ""
+    }
+  ]
+}
