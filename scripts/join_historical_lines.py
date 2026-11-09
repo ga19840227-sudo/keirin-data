@@ -38,7 +38,7 @@ for key,ds in lookup.items():
    # Historical CSV may be a pre-race snapshot without settled ranks.
    # Archived HEX result text provides independently observed finish order.
    result_text=d.get("page_text","")
-   found=re.findall(r"(?:^|\\n)\\s*([123])着\\s*([1-9])(?=[^0-9])",result_text)
+   found=re.findall(r"(?:^|\n)\s*([123])着\s*([1-9])(?=[^0-9])",result_text)
    finish={int(rank):int(banum) for rank,banum in found}
    if not all(n in finish for n in (1,2,3)):continue
    for r in rows:
