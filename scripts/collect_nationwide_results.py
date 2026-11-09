@@ -18,7 +18,9 @@ def main():
   urls=set(urllib.parse.urljoin(BASE,u).split("?")[0].split("#")[0] for u in page.links if re.search(r"/races/"+ds+r"/\d+/?$",u))
   urls|={BASE+"/races/"+ds+"/"+rid+"/" for rid in re.findall(r"/races/"+ds+r"/(\d{8,20})/?",html)}
   report["listed"]=len(urls)
-  for url in sorted(urls):
+  # Prioritize races with frozen pre-start forecasts so accuracy evaluation settles promptly.
+  forecast_ids={p.stem for p in Path("results/real_integrated_predictions").glob("*.json")}
+  for url in sorted(urls,key=lambda u:(u.rstrip("/").split("/")[-1] not in forecast_ids,u)):
    rid=url.rstrip("/").split("/")[-1];target=out/(rid+".json")
    try:
     # Keep existing confirmed outcomes and do not overwrite with weaker evidence.
