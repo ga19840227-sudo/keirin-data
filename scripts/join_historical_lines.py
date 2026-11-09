@@ -30,6 +30,7 @@ for key,ds in lookup.items():
   report["unmatched_keys"].append(key)
   continue
  report["matched_races"]+=1
+ if len(report.setdefault("matched_sample",[]))<4:report["matched_sample"].append({"key":key,"rows":len(rows),"sample":rows[:2],"ranks":list({str(r.get("rank","")) for r in rows})[:12]})
  for path,d in ds:
   if not d.get("line_and_sbh_complete"):continue
   ranks={str(r.get("rank","")).strip() for r in rows}
