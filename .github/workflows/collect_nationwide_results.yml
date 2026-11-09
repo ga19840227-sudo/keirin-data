@@ -36,6 +36,7 @@ jobs:
           git add -f results/nationwide/ results/prediction_accuracy/
           if ! git diff --cached --quiet; then
             git commit -m "Save nationwide race results and coverage audit"
-            git pull --rebase
+            git fetch origin main
+            git rebase -X theirs origin/main || { git rebase --abort; exit 1; }
             git push
           fi
