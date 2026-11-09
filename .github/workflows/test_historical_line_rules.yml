@@ -1,0 +1,28 @@
+name: 過去ライン3連単15方式の実測検証
+on:
+  push:
+    paths:
+      - scripts/test_historical_line_rules.py
+      - .github/workflows/test_historical_line_rules.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python scripts/test_historical_line_rules.py
+      - name: Commit test results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f results/historical_line_exploratory_test.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Store measured trifecta rule hit rates"
+            git pull --rebase -X ours
+            git push
+          fi
