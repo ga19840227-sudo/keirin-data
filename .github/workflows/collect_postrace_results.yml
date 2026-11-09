@@ -1,5 +1,9 @@
 name: 発走後の結果自動照合
 on:
+  push:
+    paths:
+      - scripts/collect_postrace_results.py
+      - .github/workflows/collect_postrace_results.yml
   workflow_dispatch:
   schedule:
     - cron: '*/15 * * * *'
