@@ -40,7 +40,8 @@ jobs:
           git add -f snapshots/ results/snapshot_readiness_audit.json results/hex_rider_parse_audit.json results/verified_model_inputs/ results/real_integrated_predictions/ results/development_scenarios/
           if ! git diff --cached --quiet; then
             git commit -m "Record timestamped pre-race collection and audit"
-            git pull --rebase
+            git fetch origin main
+            git rebase -X theirs origin/main || { git rebase --abort; exit 1; }
             git push
           fi
       - uses: actions/upload-artifact@v4
