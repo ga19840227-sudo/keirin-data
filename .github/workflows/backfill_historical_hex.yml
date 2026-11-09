@@ -17,13 +17,16 @@ jobs:
         with:
           python-version: '3.11'
       - name: Fetch archived racecards with provenance
-        run: python scripts/backfill_historical_hex.py --start 2026-10-13 --end 2026-10-16 --limit 120
+        run: |
+          python -m py_compile scripts/backfill_historical_hex.py scripts/collect_prerace_hex.py scripts/parse_hex_prerace_riders.py
+          python scripts/backfill_historical_hex.py --start 2026-10-13 --end 2026-10-16 --limit 120
       - name: Save historical audit
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f historical_hex/ results/historical_hex_backfill_audit.json
+          git add -f results/historical_hex_backfill_audit.json
+          if [ -d historical_hex ]; then git add -f historical_hex/; fi
           if ! git diff --cached --quiet; then
             git commit -m "Archive historical line, position and SBH evidence"
             git pull --rebase
