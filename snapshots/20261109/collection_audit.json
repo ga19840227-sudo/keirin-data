@@ -1,8 +1,8 @@
 {
-  "captured_jst": "2026-11-09T16:21:14.729089+09:00",
+  "captured_jst": "2026-11-09T18:05:47.170478+09:00",
   "date": "20261109",
   "source": "https://keirinhex.jp",
-  "visited": 45,
+  "visited": 54,
   "snapshot_count": 2,
   "errors": [
     "https://keirinhex.jp/races/20261109/011220261109/: no verified future start time",
@@ -13,18 +13,26 @@
     "https://keirinhex.jp/races/20261109/018420261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/021220261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/022120261109/: no verified future start time",
+    "https://keirinhex.jp/races/20261109/022420261109/: no verified future start time",
+    "https://keirinhex.jp/races/20261109/023120261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/027420261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/028420261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/031220261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/032120261109/: no verified future start time",
+    "https://keirinhex.jp/races/20261109/032420261109/: no verified future start time",
+    "https://keirinhex.jp/races/20261109/033120261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/037420261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/038420261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/041220261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/042120261109/: no verified future start time",
+    "https://keirinhex.jp/races/20261109/042420261109/: no verified future start time",
+    "https://keirinhex.jp/races/20261109/043120261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/047420261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/048420261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/051220261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/052120261109/: no verified future start time",
+    "https://keirinhex.jp/races/20261109/052420261109/: no verified future start time",
+    "https://keirinhex.jp/races/20261109/053120261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/057420261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/058420261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/061220261109/: no verified future start time",
@@ -47,6 +55,7 @@
     "https://keirinhex.jp/races/20261109/112120261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/117420261109/: no verified future start time",
     "https://keirinhex.jp/races/20261109/118420261109/: no verified future start time",
-    "https://keirinhex.jp/races/20261109/127420261109/: no verified future start time"
+    "https://keirinhex.jp/races/20261109/127420261109/: no verified future start time",
+    "https://keirinhex.jp/races/20261109/128420261109/: no verified future start time"
   ]
 }
