@@ -71,8 +71,9 @@ def main():
                 start_dt=None
                 if start:
                     start_dt=datetime.fromisoformat(now.strftime("%Y-%m-%d")+"T"+start.group(1)+":00").replace(tzinfo=JST)
-                is_pre=start_dt is not None and now<start_dt
-                rec={"source_url":url,"captured_jst":datetime.now(JST).isoformat(),
+                captured_at=datetime.now(JST)
+                is_pre=start_dt is not None and captured_at<start_dt
+                rec={"source_url":url,"captured_jst":captured_at.isoformat(),
                      "race_date":now.date().isoformat(),"start_jst":start_dt.isoformat() if start_dt else None,
                      "verified_pre_race":bool(is_pre),"line_groups":groups,
                      "lineup_raw":line_text,"page_text":txt[:30000],
