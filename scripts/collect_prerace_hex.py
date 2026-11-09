@@ -2,7 +2,7 @@
 Respect robots.txt and access restrictions; never treat failed access as success.
 No paid pages, bypasses, or post-start snapshots.
 """
-import csv,json,re,time,urllib.request,urllib.parse,urllib.robotparser
+import csv,json,re,time,urllib.request,urllib.parse,urllib.robotparser,urllib.error
 from html.parser import HTMLParser
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -27,13 +27,21 @@ class Page(HTMLParser):
 def fetch(url,robot):
     if not robot.can_fetch(UA,url):raise PermissionError("robots.txt disallows "+url)
     req=urllib.request.Request(url,headers={"User-Agent":UA})
-    with urllib.request.urlopen(req,timeout=25) as res:
-        if res.status!=200:raise RuntimeError("HTTP "+str(res.status))
-        if "html" not in res.headers.get("Content-Type",""):raise RuntimeError("not HTML")
-        raw=res.read(2_000_001)
-        if len(raw)>2_000_000:raise RuntimeError("page too large")
-        charset=res.headers.get_content_charset() or "utf-8"
-        return raw.decode(charset,errors="replace")
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req,timeout=25) as res:
+                if res.status!=200:raise RuntimeError("HTTP "+str(res.status))
+                if "html" not in res.headers.get("Content-Type",""):raise RuntimeError("not HTML")
+                raw=res.read(2_000_001)
+                if len(raw)>2_000_000:raise RuntimeError("page too large")
+                charset=res.headers.get_content_charset() or "utf-8"
+                return raw.decode(charset,errors="replace")
+        except urllib.error.HTTPError as e:
+            if e.code not in (429,500,502,503,504) or attempt==2:raise
+            time.sleep(3*(attempt+1))
+        except (urllib.error.URLError,TimeoutError,ConnectionError):
+            if attempt==2:raise
+            time.sleep(3*(attempt+1))
 def main():
     now=datetime.now(JST)
     date=now.strftime("%Y%m%d")
@@ -106,7 +114,14 @@ def main():
                 audit["snapshot_count"]+=1
             except Exception as e:audit["errors"].append(url+": "+str(e))
     except Exception as e:audit["errors"].append("index: "+str(e))
+    audit["verified_saved_total"]=sum(1 for p in (OUT/date).glob("*.json") if p.name!="collection_audit.json" and _verified_snapshot(p))
+    audit["missing_verified_count"]=max(0,audit.get("indexed_races",0)-audit["verified_saved_total"])
     save_audit(date,audit)
+def _verified_snapshot(path):
+    try:
+        d=json.loads(path.read_text(encoding="utf-8"))
+        return bool(d.get("verified_pre_race") and datetime.fromisoformat(d["captured_jst"])<datetime.fromisoformat(d["start_jst"]))
+    except (OSError,ValueError,TypeError,KeyError):return False
 def save_audit(date,audit):
     dest=OUT/date;dest.mkdir(parents=True,exist_ok=True)
     (dest/"collection_audit.json").write_text(json.dumps(audit,ensure_ascii=False,indent=2),encoding="utf-8")
