@@ -1,0 +1,74 @@
+{
+  "files_checked": 3,
+  "verified_pre_race": 3,
+  "parsed_line_groups": 2,
+  "valid_line_groups": 2,
+  "structured_sbh": 0,
+  "structured_odds": 0,
+  "ready_for_integrated_model": 0,
+  "examples": [
+    {
+      "file": "snapshots/20261109/095320261109.json",
+      "source_url": "https://keirinhex.jp/races/20261109/095320261109/",
+      "pre_race": true,
+      "line_groups": null,
+      "lineup_raw": null,
+      "sbh": false,
+      "odds": false,
+      "start_jst": "2026-11-09T23:30:00+09:00"
+    },
+    {
+      "file": "snapshots/20261109/123120261109.json",
+      "source_url": "https://keirinhex.jp/races/20261109/123120261109/",
+      "pre_race": true,
+      "line_groups": [
+        [
+          1
+        ],
+        [
+          3,
+          5,
+          2
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          7
+        ]
+      ],
+      "lineup_raw": "1／3-5-2／4-6／7",
+      "sbh": false,
+      "odds": false,
+      "start_jst": "2026-11-09T20:30:00+09:00"
+    },
+    {
+      "file": "snapshots/20261109/127420261109.json",
+      "source_url": "https://keirinhex.jp/races/20261109/127420261109/",
+      "pre_race": true,
+      "line_groups": [
+        [
+          2,
+          5
+        ],
+        [
+          3
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          7,
+          4
+        ]
+      ],
+      "lineup_raw": "2-5／3／6-1／7-4",
+      "sbh": false,
+      "odds": false,
+      "start_jst": "2026-11-09T16:19:00+09:00"
+    }
+  ],
+  "issues": []
+}
