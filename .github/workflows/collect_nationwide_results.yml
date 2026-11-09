@@ -24,7 +24,8 @@ jobs:
       - name: Collect nationwide results
         run: |
           python -m py_compile scripts/collect_nationwide_results.py scripts/collect_postrace_results.py
-          python scripts/collect_nationwide_results.py --date 20261109
+          python scripts/collect_nationwide_results.py
+          python scripts/collect_nationwide_results.py --date "$(TZ=Asia/Tokyo date -d 'yesterday' +%Y%m%d)"
       - name: Save collected results and coverage audit
         if: always()
         run: |
