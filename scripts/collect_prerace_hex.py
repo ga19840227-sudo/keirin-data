@@ -55,6 +55,16 @@ def main():
             audit["errors"].append("no current-date race links found; do not infer 0 scheduled races")
         for url in links:
             try:
+                race_id=url.rstrip("/").split("/")[-1]
+                target=OUT/date/(race_id+".json")
+                if target.exists():
+                    try:
+                        previous=json.loads(target.read_text(encoding="utf-8"))
+                        if previous.get("verified_pre_race") and previous.get("captured_jst") and previous.get("start_jst") and datetime.fromisoformat(previous["captured_jst"]) < datetime.fromisoformat(previous["start_jst"]):
+                            audit["already_saved"]=audit.get("already_saved",0)+1
+                            continue
+                    except (ValueError,OSError,TypeError,KeyError):
+                        pass
                 time.sleep(1.5)
                 page=Page();page.feed(fetch(url,robot));audit["visited"]+=1
                 txt=re.sub(r"[ \t]+"," ","".join(page.parts))
@@ -82,7 +92,6 @@ def main():
                 if not is_pre:
                     audit["errors"].append(url+": no verified future start time")
                     continue
-                race_id=url.rstrip("/").split("/")[-1]
                 dest=OUT/date;dest.mkdir(parents=True,exist_ok=True)
                 target=dest/(race_id+".json")
                 # Keep earliest verified pre-start evidence immutable across hourly runs.
