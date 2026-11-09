@@ -1,32 +1,41 @@
 {
-  "start": "2026-10-13",
-  "end": "2026-10-16",
-  "visited": 120,
-  "saved": 120,
-  "line_and_sbh": 70,
+  "start": "2026-10-15",
+  "end": "2026-10-18",
+  "visited": 180,
+  "saved": 180,
+  "line_and_sbh": 125,
   "errors": [],
   "provenance": "archived page retrieved after race; pre-race originality not independently certified",
-  "daily_pages_saved": 2,
+  "daily_pages_saved": 3,
   "daily_link_audit": [
     {
-      "date": "20261013",
+      "date": "20261015",
+      "links": 72,
+      "embedded_ids": 72
+    },
+    {
+      "date": "20261016",
       "links": 60,
       "embedded_ids": 60
     },
     {
-      "date": "20261014",
-      "links": 79,
-      "embedded_ids": 79
+      "date": "20261017",
+      "links": 71,
+      "embedded_ids": 71
     }
   ],
   "dates": [
     {
-      "date": "20261013",
+      "date": "20261015",
+      "links": 72
+    },
+    {
+      "date": "20261016",
       "links": 60
     },
     {
-      "date": "20261014",
-      "links": 79
+      "date": "20261017",
+      "links": 71
     }
   ]
 }
