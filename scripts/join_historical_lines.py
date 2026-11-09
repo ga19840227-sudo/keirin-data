@@ -3,13 +3,17 @@ import csv,glob,json,re,collections
 from pathlib import Path
 VENUES={"前橋":"maebashi","松戸":"matsudo","小倉":"kokura","川崎":"kawasaki","立川":"tachikawa","京王閣":"keiokaku","玉野":"tamano","弥彦":"yahiko","静岡":"shizuoka","防府":"hofu","四日市":"yokkaichi","宇都宮":"utsunomiya","平塚":"hiratsuka","大宮":"omiya","西武園":"seibuen","取手":"toride","高松":"takamatsu","岸和田":"kishiwada","奈良":"nara","向日町":"mukomachi","豊橋":"toyohashi","名古屋":"nagoya","岐阜":"gifu","大垣":"ogaki","富山":"toyama","福井":"fukui","松阪":"matsusaka","和歌山":"wakayama","広島":"hiroshima","小松島":"komatsushima","高知":"kochi","松山":"matsuyama","久留米":"kurume","武雄":"takeo","佐世保":"sasebo","別府":"beppu","熊本":"kumamoto","函館":"hakodate","青森":"aomori","いわき平":"iwakitaira","福島":"iwakitaira","伊東":"ito","千葉":"chiba"}
 lookup=collections.defaultdict(list)
-for path in sorted(glob.glob("historical_hex/20*/*.json")):
+archive_files=sorted(glob.glob("historical_hex/20*/*.json"))
+print("DEBUG archive files",len(archive_files),"first",archive_files[:3])
+for path in archive_files:
  if path.endswith("day_archive.json"):continue
  d=json.loads(Path(path).read_text(encoding="utf-8"))
  m=re.search(r"([^\s]+?)競輪\s*(\d+)R",d.get("page_text","")[:1200])
- if not m:continue
+ if not m:
+  print("DEBUG no match",path,d.get("page_text","")[:100]);continue
  venue=VENUES.get(m.group(1))
- if not venue:continue
+ if not venue:
+  print("DEBUG unknown venue",repr(m.group(1)),path);continue
  key=(d["race_date"],venue,str(int(m.group(2))))
  lookup[key].append((path,d))
 race=collections.defaultdict(list)
