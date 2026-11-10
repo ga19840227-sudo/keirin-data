@@ -1,0 +1,136 @@
+{
+  "race_id": "072520261111",
+  "source_url": "https://keirinhex.jp/races/20261111/072520261111/",
+  "captured_jst": "2026-11-11T00:25:03.918606+09:00",
+  "start_jst": "2026-11-11T10:55:00+09:00",
+  "line_groups": [
+    [
+      4,
+      6,
+      1
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      7,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 4,
+      "player_name_raw": "◎篠原輝利茨城・A3・129期",
+      "race_score": 80.55,
+      "running_style": "逃",
+      "win_rate_4m": 71.0,
+      "top2_rate_4m": 79.0,
+      "top3_rate_4m": 88.0,
+      "s_count": 14,
+      "h_count": 12,
+      "b_count": 13,
+      "nige_4m": 10,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "▲相川巧地元埼玉・A3・98期",
+      "race_score": 67.22,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 18.0,
+      "s_count": 1,
+      "h_count": 8,
+      "b_count": 6,
+      "nige_4m": 2,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○山本恵太郎東京・A3・71期",
+      "race_score": 77.7,
+      "running_style": "追",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 59.0,
+      "top3_rate_4m": 79.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 9
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆中西勇福岡・A3・125期",
+      "race_score": 75.15,
+      "running_style": "逃",
+      "win_rate_4m": 37.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 17,
+      "h_count": 13,
+      "b_count": 9,
+      "nige_4m": 7,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "阿部弘高知・A3・99期",
+      "race_score": 71.16,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "永田吏玖岐阜・A3・129期",
+      "race_score": 73.61,
+      "running_style": "逃",
+      "win_rate_4m": 32.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 55.0,
+      "s_count": 11,
+      "h_count": 13,
+      "b_count": 13,
+      "nige_4m": 8,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆廣田敦士三重・A3・107期",
+      "race_score": 69.4,
+      "running_style": "逃",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 0,
+      "h_count": 12,
+      "b_count": 10,
+      "nige_4m": 4,
+      "maku_4m": 3,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    }
+  ]
+}

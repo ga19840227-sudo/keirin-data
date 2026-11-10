@@ -1,0 +1,136 @@
+{
+  "race_id": "103120261111",
+  "source_url": "https://keirinhex.jp/races/20261111/103120261111/",
+  "captured_jst": "2026-11-11T00:25:47.127929+09:00",
+  "start_jst": "2026-11-11T19:38:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4,
+      5
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      6,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "▲菅原大也神奈川・S1・107期",
+      "race_score": 104.0,
+      "running_style": "両",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 4,
+      "h_count": 9,
+      "b_count": 10,
+      "nige_4m": 1,
+      "maku_4m": 7,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆小川賢人福岡・S1・103期",
+      "race_score": 98.0,
+      "running_style": "両",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "角令央奈福岡・S2・98期",
+      "race_score": 101.93,
+      "running_style": "両",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 5,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○松崎広太茨城・S2・123期",
+      "race_score": 109.04,
+      "running_style": "逃",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 61.0,
+      "s_count": 3,
+      "h_count": 15,
+      "b_count": 14,
+      "nige_4m": 8,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎長島大介栃木・S1・96期",
+      "race_score": 109.26,
+      "running_style": "両",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆塩崎隼秀愛媛・S2・121期",
+      "race_score": 97.65,
+      "running_style": "両",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 6,
+      "nige_4m": 2,
+      "maku_4m": 6,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "西岡拓朗広島・S2・97期",
+      "race_score": 100.64,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 49.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    }
+  ]
+}

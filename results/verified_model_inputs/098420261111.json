@@ -1,0 +1,138 @@
+{
+  "race_id": "098420261111",
+  "source_url": "https://keirinhex.jp/races/20261111/098420261111/",
+  "captured_jst": "2026-11-11T00:25:43.198587+09:00",
+  "start_jst": "2026-11-11T14:43:00+09:00",
+  "line_groups": [
+    [
+      3,
+      7
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "☆原田研太朗徳島・S1・98期",
+      "race_score": 103.62,
+      "running_style": "逃",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 10,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲大川龍二広島・S1・91期",
+      "race_score": 104.26,
+      "running_style": "両",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎大川剛青森・S1・121期",
+      "race_score": 104.36,
+      "running_style": "逃",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 37.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 9,
+      "h_count": 16,
+      "b_count": 15,
+      "nige_4m": 5,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "青森伸也福島・S2・87期",
+      "race_score": 100.81,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆丸山留依静岡・S2・127期",
+      "race_score": 102.47,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 4,
+      "h_count": 13,
+      "b_count": 12,
+      "nige_4m": 5,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○石毛克幸千葉・S1・84期",
+      "race_score": 106.85,
+      "running_style": "追",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "長屋秀明岐阜・S2・117期",
+      "race_score": 93.0,
+      "running_style": "逃",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 18.0,
+      "s_count": 0,
+      "h_count": 3,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "098520261111",
+  "source_url": "https://keirinhex.jp/races/20261111/098520261111/",
+  "captured_jst": "2026-11-11T00:25:45.161597+09:00",
+  "start_jst": "2026-11-11T23:20:00+09:00",
+  "line_groups": [
+    [
+      3,
+      1,
+      6
+    ],
+    [
+      5,
+      4
+    ],
+    [
+      7,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "○田中和磨岡山・A1・113期",
+      "race_score": 93.43,
+      "running_style": "逃",
+      "win_rate_4m": 30.0,
+      "top2_rate_4m": 52.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 4,
+      "nige_4m": 0,
+      "maku_4m": 5,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "◎今野大輔岡山・A1・111期",
+      "race_score": 95.2,
+      "running_style": "両",
+      "win_rate_4m": 34.0,
+      "top2_rate_4m": 62.0,
+      "top3_rate_4m": 79.0,
+      "s_count": 11,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 11,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "藤原浩高知・A1・87期",
+      "race_score": 89.47,
+      "running_style": "追",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲常次勇人大阪・A1・121期",
+      "race_score": 91.74,
+      "running_style": "逃",
+      "win_rate_4m": 33.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 55.0,
+      "s_count": 5,
+      "h_count": 11,
+      "b_count": 12,
+      "nige_4m": 5,
+      "maku_4m": 7,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "小嶋敬二石川・A1・74期",
+      "race_score": 92.0,
+      "running_style": "両",
+      "win_rate_4m": 33.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 4,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆徳永泰粋熊本・A1・123期",
+      "race_score": 89.42,
+      "running_style": "逃",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 9,
+      "h_count": 6,
+      "b_count": 8,
+      "nige_4m": 4,
+      "maku_4m": 6,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆樫山恭柄福岡・A1・92期",
+      "race_score": 94.33,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 70.0,
+      "s_count": 12,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 7
+    }
+  ]
+}

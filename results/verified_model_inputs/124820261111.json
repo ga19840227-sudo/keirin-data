@@ -1,0 +1,136 @@
+{
+  "race_id": "124820261111",
+  "source_url": "https://keirinhex.jp/races/20261111/124820261111/",
+  "captured_jst": "2026-11-11T00:26:08.768885+09:00",
+  "start_jst": "2026-11-11T20:17:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5,
+      7
+    ],
+    [
+      2
+    ],
+    [
+      4,
+      3,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆藤井昭吾滋賀・S1・99期",
+      "race_score": 104.29,
+      "running_style": "両",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 1,
+      "h_count": 2,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆西村光太地元三重・S1・96期",
+      "race_score": 105.31,
+      "running_style": "追",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "川口公太朗岐阜・S1・98期",
+      "race_score": 102.4,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎木村皆斗茨城・S1・119期",
+      "race_score": 109.53,
+      "running_style": "逃",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 1,
+      "h_count": 15,
+      "b_count": 13,
+      "nige_4m": 6,
+      "maku_4m": 3,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲青柳靖起佐賀・S1・117期",
+      "race_score": 104.87,
+      "running_style": "逃",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 2,
+      "h_count": 9,
+      "b_count": 10,
+      "nige_4m": 5,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○吉本卓仁福岡・S1・89期",
+      "race_score": 103.25,
+      "running_style": "両",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 45.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 11,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "阿竹智史徳島・S1・90期",
+      "race_score": 100.85,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

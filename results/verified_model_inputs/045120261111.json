@@ -1,0 +1,136 @@
+{
+  "race_id": "045120261111",
+  "source_url": "https://keirinhex.jp/races/20261111/045120261111/",
+  "captured_jst": "2026-11-11T00:24:26.129405+09:00",
+  "start_jst": "2026-11-11T12:19:00+09:00",
+  "line_groups": [
+    [
+      2,
+      6
+    ],
+    [
+      4,
+      1,
+      7
+    ],
+    [
+      5,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "高鍋邦彰福岡・A2・95期",
+      "race_score": 80.72,
+      "running_style": "両",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 1,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆田川辰二熊本・A2・72期",
+      "race_score": 79.53,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 14.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎上杉有弘地元福井・A2・127期",
+      "race_score": 93.23,
+      "running_style": "逃",
+      "win_rate_4m": 56.0,
+      "top2_rate_4m": 74.0,
+      "top3_rate_4m": 78.0,
+      "s_count": 0,
+      "h_count": 12,
+      "b_count": 12,
+      "nige_4m": 8,
+      "maku_4m": 7,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○藤岡徹也兵庫・A1・121期",
+      "race_score": 84.5,
+      "running_style": "両",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲中澤央治大阪・A2・59期",
+      "race_score": 84.87,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆増田利明静岡・A1・81期",
+      "race_score": 82.66,
+      "running_style": "両",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 1,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "望月紀男静岡・A2・79期",
+      "race_score": 86.7,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    }
+  ]
+}

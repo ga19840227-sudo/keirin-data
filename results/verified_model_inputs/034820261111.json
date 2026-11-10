@@ -1,0 +1,136 @@
+{
+  "race_id": "034820261111",
+  "source_url": "https://keirinhex.jp/races/20261111/034820261111/",
+  "captured_jst": "2026-11-11T00:24:07.902308+09:00",
+  "start_jst": "2026-11-11T16:38:00+09:00",
+  "line_groups": [
+    [
+      1,
+      6
+    ],
+    [
+      4,
+      3,
+      7
+    ],
+    [
+      5,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆松本卓也徳島・A1・98期",
+      "race_score": 87.3,
+      "running_style": "両",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆田村浩章徳島・A2・82期",
+      "race_score": 81.4,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○金田涼馬神奈川・A2・119期",
+      "race_score": 89.55,
+      "running_style": "逃",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 68.0,
+      "s_count": 14,
+      "h_count": 13,
+      "b_count": 12,
+      "nige_4m": 5,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "大竹哲也静岡・A2・93期",
+      "race_score": 84.79,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "坂本昌宏青森・A2・91期",
+      "race_score": 82.5,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 20.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎石川航大宮崎・A1・123期",
+      "race_score": 89.66,
+      "running_style": "逃",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 64.0,
+      "s_count": 1,
+      "h_count": 12,
+      "b_count": 10,
+      "nige_4m": 6,
+      "maku_4m": 8,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲肥後尚己大阪・A1・83期",
+      "race_score": 88.45,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    }
+  ]
+}

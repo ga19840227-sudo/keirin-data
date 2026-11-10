@@ -1,0 +1,136 @@
+{
+  "race_id": "054720261111",
+  "source_url": "https://keirinhex.jp/races/20261111/054720261111/",
+  "captured_jst": "2026-11-11T00:24:38.026533+09:00",
+  "start_jst": "2026-11-11T22:10:00+09:00",
+  "line_groups": [
+    [
+      2,
+      3,
+      5
+    ],
+    [
+      4,
+      1,
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "◎鈴木小次廊静岡・A2・127期",
+      "race_score": 86.62,
+      "running_style": "逃",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 34.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 13,
+      "h_count": 12,
+      "b_count": 10,
+      "nige_4m": 7,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲大西健士神奈川・A2・88期",
+      "race_score": 85.46,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "山本恵介福島・A1・100期",
+      "race_score": 82.43,
+      "running_style": "両",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆小浦凪岐阜・A2・117期",
+      "race_score": 84.95,
+      "running_style": "両",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○原真司岐阜・A1・86期",
+      "race_score": 87.54,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 5
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆渡会啓介愛知・A2・83期",
+      "race_score": 82.08,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "吉村文隆京都・A2・70期",
+      "race_score": 77.8,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 5.0,
+      "top3_rate_4m": 14.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    }
+  ]
+}

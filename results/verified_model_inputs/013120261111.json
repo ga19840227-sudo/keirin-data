@@ -1,0 +1,138 @@
+{
+  "race_id": "013120261111",
+  "source_url": "https://keirinhex.jp/races/20261111/013120261111/",
+  "captured_jst": "2026-11-11T00:23:29.695373+09:00",
+  "start_jst": "2026-11-11T16:02:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      6,
+      3,
+      5
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆在本直樹岡山・A2・93期",
+      "race_score": 82.1,
+      "running_style": "両",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○神山尚栃木・A1・109期",
+      "race_score": 83.34,
+      "running_style": "両",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 3,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆山口茂福島・A2・98期",
+      "race_score": 80.44,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 15.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "米村光星熊本・A2・121期",
+      "race_score": 80.17,
+      "running_style": "逃",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 5.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 2,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "◎梶原恵介大分・A1・92期",
+      "race_score": 84.95,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 4
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "深見仁哉愛知・A2・91期",
+      "race_score": 81.13,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 22.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲桶谷明誉広島・A1・94期",
+      "race_score": 84.14,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 3
+    }
+  ]
+}

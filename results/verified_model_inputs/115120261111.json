@@ -1,0 +1,136 @@
+{
+  "race_id": "115120261111",
+  "source_url": "https://keirinhex.jp/races/20261111/115120261111/",
+  "captured_jst": "2026-11-11T00:26:02.876828+09:00",
+  "start_jst": "2026-11-11T15:33:00+09:00",
+  "line_groups": [
+    [
+      2,
+      6
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      7,
+      1,
+      4
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "☆早坂秀悟茨城・S2・90期",
+      "race_score": 96.34,
+      "running_style": "逃",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 4,
+      "h_count": 9,
+      "b_count": 8,
+      "nige_4m": 0,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆吉田裕全埼玉・S2・90期",
+      "race_score": 90.0,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 13.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "佐々木堅次福島・S2・113期",
+      "race_score": 99.45,
+      "running_style": "両",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "明田春喜北海道・S2・89期",
+      "race_score": 95.87,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎久田朔大阪・S2・125期",
+      "race_score": 104.3,
+      "running_style": "逃",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 63.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 6,
+      "h_count": 10,
+      "b_count": 18,
+      "nige_4m": 9,
+      "maku_4m": 6,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○清水剛志地元福井・S2・103期",
+      "race_score": 103.88,
+      "running_style": "両",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 39.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 12,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲木村直隆兵庫・S2・86期",
+      "race_score": 98.79,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    }
+  ]
+}

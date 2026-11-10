@@ -1,0 +1,138 @@
+{
+  "race_id": "024620261111",
+  "source_url": "https://keirinhex.jp/races/20261111/024620261111/",
+  "captured_jst": "2026-11-11T00:23:47.936058+09:00",
+  "start_jst": "2026-11-11T11:45:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      5,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "田中智也静岡・A3・74期",
+      "race_score": 69.57,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆小塚潤愛知・A3・86期",
+      "race_score": 67.44,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆永橋武司大阪・A3・90期",
+      "race_score": 69.44,
+      "running_style": "両",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "高瀬卓埼玉・A3・87期",
+      "race_score": 64.9,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 4.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎三浦綾宮城・A3・105期",
+      "race_score": 69.7,
+      "running_style": "逃",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 1,
+      "h_count": 8,
+      "b_count": 7,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○須々田大昇青森・A3・80期",
+      "race_score": 70.71,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲西巻秀太新潟・A3・97期",
+      "race_score": 71.73,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    }
+  ]
+}

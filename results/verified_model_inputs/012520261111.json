@@ -1,0 +1,138 @@
+{
+  "race_id": "012520261111",
+  "source_url": "https://keirinhex.jp/races/20261111/012520261111/",
+  "captured_jst": "2026-11-11T00:23:27.513996+09:00",
+  "start_jst": "2026-11-11T08:50:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4,
+      6
+    ],
+    [
+      3
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎山口直樹神奈川・A3・123期",
+      "race_score": 73.16,
+      "running_style": "逃",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 55.0,
+      "s_count": 5,
+      "h_count": 5,
+      "b_count": 6,
+      "nige_4m": 4,
+      "maku_4m": 2,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲山崎明寛千葉・A3・81期",
+      "race_score": 67.4,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 12.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "落合豊茨城・A3・69期",
+      "race_score": 63.83,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "赤星俊光熊本・A3・86期",
+      "race_score": 65.77,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 15.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆布居翼和歌山・A3・109期",
+      "race_score": 70.46,
+      "running_style": "逃",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 8,
+      "h_count": 8,
+      "b_count": 9,
+      "nige_4m": 2,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○石貞有基兵庫・A3・100期",
+      "race_score": 71.25,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 18.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆柴田昌樹愛知・A3・79期",
+      "race_score": 68.74,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    }
+  ]
+}

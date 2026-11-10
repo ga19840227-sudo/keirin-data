@@ -1,0 +1,136 @@
+{
+  "race_id": "094820261111",
+  "source_url": "https://keirinhex.jp/races/20261111/094820261111/",
+  "captured_jst": "2026-11-11T00:25:39.263188+09:00",
+  "start_jst": "2026-11-11T19:02:00+09:00",
+  "line_groups": [
+    [
+      3,
+      6
+    ],
+    [
+      4,
+      2,
+      7
+    ],
+    [
+      5,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "田村大宮崎・S2・119期",
+      "race_score": 98.82,
+      "running_style": "逃",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 0,
+      "h_count": 14,
+      "b_count": 12,
+      "nige_4m": 3,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "島村匠福岡・S2・111期",
+      "race_score": 93.83,
+      "running_style": "両",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 10.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆後藤悠岩手・S2・115期",
+      "race_score": 94.31,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 5,
+      "h_count": 6,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○福田知也神奈川・S1・88期",
+      "race_score": 98.37,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆飯嶋則之栃木・S2・81期",
+      "race_score": 94.69,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲神田龍地元三重・S2・105期",
+      "race_score": 98.22,
+      "running_style": "逃",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "◎横関裕樹岐阜・S2・99期",
+      "race_score": 101.3,
+      "running_style": "両",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 13,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    }
+  ]
+}

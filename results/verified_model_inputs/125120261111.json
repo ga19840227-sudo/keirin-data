@@ -1,0 +1,136 @@
+{
+  "race_id": "125120261111",
+  "source_url": "https://keirinhex.jp/races/20261111/125120261111/",
+  "captured_jst": "2026-11-11T00:26:10.732002+09:00",
+  "start_jst": "2026-11-11T16:08:00+09:00",
+  "line_groups": [
+    [
+      1,
+      7,
+      4
+    ],
+    [
+      2
+    ],
+    [
+      3,
+      5,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆寺沼拓摩東京・S1・115期",
+      "race_score": 104.7,
+      "running_style": "両",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 5,
+      "h_count": 6,
+      "b_count": 6,
+      "nige_4m": 1,
+      "maku_4m": 4,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○雨谷一樹栃木・S1・96期",
+      "race_score": 109.72,
+      "running_style": "両",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 12,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 8,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆大槻寛徳宮城・S1・85期",
+      "race_score": 109.14,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 6
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "小森貴大地元福井・S1・111期",
+      "race_score": 101.58,
+      "running_style": "両",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 6,
+      "h_count": 7,
+      "b_count": 5,
+      "nige_4m": 2,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "◎後藤大輝福岡・S1・121期",
+      "race_score": 109.48,
+      "running_style": "逃",
+      "win_rate_4m": 36.0,
+      "top2_rate_4m": 61.0,
+      "top3_rate_4m": 64.0,
+      "s_count": 0,
+      "h_count": 17,
+      "b_count": 22,
+      "nige_4m": 13,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲中村圭志熊本・S1・86期",
+      "race_score": 106.0,
+      "running_style": "追",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "堤洋徳島・S1・75期",
+      "race_score": 100.9,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    }
+  ]
+}

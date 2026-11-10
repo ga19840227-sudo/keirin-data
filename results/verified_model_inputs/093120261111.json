@@ -1,0 +1,136 @@
+{
+  "race_id": "093120261111",
+  "source_url": "https://keirinhex.jp/races/20261111/093120261111/",
+  "captured_jst": "2026-11-11T00:25:33.374916+09:00",
+  "start_jst": "2026-11-11T19:14:00+09:00",
+  "line_groups": [
+    [
+      2,
+      4
+    ],
+    [
+      5,
+      1,
+      6
+    ],
+    [
+      7,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "☆橋本瑠偉栃木・S1・113期",
+      "race_score": 99.42,
+      "running_style": "逃",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 1,
+      "h_count": 8,
+      "b_count": 12,
+      "nige_4m": 3,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆恩田淳平群馬・S1・100期",
+      "race_score": 106.42,
+      "running_style": "追",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎田中大我奈良・S2・115期",
+      "race_score": 103.26,
+      "running_style": "逃",
+      "win_rate_4m": 47.0,
+      "top2_rate_4m": 53.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 8,
+      "h_count": 13,
+      "b_count": 12,
+      "nige_4m": 10,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "畑段嵐士京都・S2・105期",
+      "race_score": 101.5,
+      "running_style": "追",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 8,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "岩本和也石川・S2・76期",
+      "race_score": 96.79,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲櫻井祐太郎宮城・S1・117期",
+      "race_score": 104.21,
+      "running_style": "逃",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 3,
+      "h_count": 13,
+      "b_count": 14,
+      "nige_4m": 8,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○須永優太福島・S1・94期",
+      "race_score": 106.6,
+      "running_style": "追",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 39.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    }
+  ]
+}

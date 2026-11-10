@@ -1,0 +1,138 @@
+{
+  "race_id": "073120261111",
+  "source_url": "https://keirinhex.jp/races/20261111/073120261111/",
+  "captured_jst": "2026-11-11T00:25:05.884356+09:00",
+  "start_jst": "2026-11-11T18:26:00+09:00",
+  "line_groups": [
+    [
+      2
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      5,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "☆荻原尚人宮城・S2・89期",
+      "race_score": 99.25,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "酒井拳蔵大阪・S2・109期",
+      "race_score": 94.11,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 2,
+      "h_count": 1,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆宝満大作岐阜・S2・85期",
+      "race_score": 93.55,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 15.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "溪飛雄馬愛媛・S2・86期",
+      "race_score": 93.45,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○黒沢征治埼玉・S2・113期",
+      "race_score": 102.95,
+      "running_style": "両",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 1,
+      "h_count": 4,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎近藤保地元千葉・S1・95期",
+      "race_score": 102.57,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲海老根恵太地元千葉・S2・86期",
+      "race_score": 100.32,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 4
+    }
+  ]
+}
