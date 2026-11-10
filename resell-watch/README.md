@@ -70,3 +70,7 @@ Yahoo!フリマは保存した検索条件について新着通知メールを�
 - 検索条件・上限: https://support.yahoo-net.jp/SccPaypayfleamarket/s/article/H000013029
 
 GitHubの検証は npm test (Node.js 22)。Apps Script実機のGmailアクセス許可・トリガーは利用者の環境でのみ実行できる。
+
+### iPhoneショートカットを1つにまとめる（追加）
+
+Worker は /api/notice の JSON に source="auto" と app_name="メルカリ" / "Yahoo!フリマ" / "ラクマ" / "Yahoo!オークション" のいずれかを受け取ると通知元を自動判定できる。ショートカット側で選択したアプリの名前を app_name に渡せれば、複数アプリを同一オートメーションから送信できる（ただし実機通知の内容と「App」値の形式は別途動作確認が必要）。URL・商品状態・正確な型番が揃わない通知を勝手に利益確定と扱わない。
