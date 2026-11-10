@@ -1,0 +1,12 @@
+name = "resell-watch-bridge"
+main = "src/worker.js"
+compatibility_date = "2026-11-01"
+
+[durable_objects]
+bindings = [{ name = "INBOX", class_name = "Inbox" }]
+
+[[migrations]]
+tag = "v1_sqlite_inbox"
+new_sqlite_classes = ["Inbox"]
+
+# Secrets: INGEST_TOKEN, ADMIN_TOKEN, NTFY_TOPIC
