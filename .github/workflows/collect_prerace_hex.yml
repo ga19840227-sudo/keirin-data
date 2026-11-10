@@ -34,7 +34,7 @@ jobs:
           for f in results/verified_model_inputs/*.json; do
             [ -f "$f" ] || continue
             id=$(basename "$f")
-            python scripts/integrated_race_forecast.py "$f" --out "results/real_integrated_predictions/$id"
+            [ -f "results/real_integrated_predictions/$id" ] || python scripts/integrated_race_forecast.py "$f" --out "results/real_integrated_predictions/$id"
           done
           python scripts/audit_forecast_coverage.py
       - name: Commit collection audit and snapshots
