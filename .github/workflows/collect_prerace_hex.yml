@@ -5,6 +5,8 @@ on:
   push:
     paths:
       - scripts/collect_prerace_hex.py
+      - scripts/parse_hex_prerace_riders.py
+      - scripts/integrated_race_forecast.py
       - .github/workflows/collect_prerace_hex.yml
   workflow_dispatch:
 permissions:
