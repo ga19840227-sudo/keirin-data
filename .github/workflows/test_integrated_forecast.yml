@@ -26,5 +26,7 @@ jobs:
           git add -f results/integrated_smoke_test.json
           if ! git diff --cached --quiet; then
             git commit -m "Save integrated forecast smoke test"
-            git push
+            git fetch origin main
+            git rebase -X theirs origin/main
+            git push origin HEAD:main
           fi
