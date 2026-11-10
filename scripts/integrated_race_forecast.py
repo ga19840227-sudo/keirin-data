@@ -47,7 +47,7 @@ def forecast(data):
         # A second rider benefits from their own leader's strength.
         leader=bynum[int(groups[gi][0])]
         second_effect=(.13+.004*number(leader,"race_score")-.32) if second else 0
-        solo_effect=-.10 if sz==1 else 0
+        solo_effect=-.10 if sz==1 and data.get("line_status")!="no_fixed_lines_girls" else 0
         strength[n]=base+leader_effect+chase+second_effect+solo_effect
     # Conditional Plackett-Luce with same-line position interaction.
     # Heuristic initial coefficients: NOT trained or calibrated probabilities.
