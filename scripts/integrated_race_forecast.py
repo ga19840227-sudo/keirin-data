@@ -63,6 +63,22 @@ def forecast(data):
         same=positions[a][0]==positions[b][0]
         pos_a,pos_b=positions[a][1],positions[b][1]
         synergy=1.18 if same and pos_a==0 and pos_b==1 else 1.10 if same and pos_a==1 and pos_b==0 else 1.0
+        # Scenario-specific finish order effects: leader survives, second-rider
+        # overtakes (sashi), outside makuri, and line's third rider survives.
+        # These are explicit, forward-only heuristics, NOT fitted probabilities.
+        girls=data.get("line_status")=="no_fixed_lines_girls"
+        if not girls:
+            ga,pa,_=positions[a];gb,pb,_=positions[b];gc,pc,_=positions[c]
+            if ga==gb and pa==0 and pb==1:
+                synergy*=1.16  # front control, second follows
+            elif ga==gb and pa==1 and pb==0:
+                synergy*=1.24  # second-rider sashi
+            if ga==gb==gc and (pa,pb,pc) in ((0,1,2),(1,0,2)):
+                synergy*=1.22  # line's third survives
+            if ga!=gb and pa==0 and number(bynum[a],"maku_4m")>=3:
+                synergy*=1.08  # attacking line's makuri
+            if ga==gc and pc==2:
+                synergy*=1.08  # third rider stays with winning line
         triples[(a,b,c)]=first*second*third*synergy
     total=sum(triples.values())
     probs={k:v/total for k,v in triples.items()}
@@ -83,7 +99,7 @@ def forecast(data):
                       "cost_yen":100*len(tickets),"hit_probability_uncalibrated":round(sum(ticket_probs),6),
                       "expected_return_ratio_uncalibrated":round(ev,5) if ev is not None else None})
     top_triples=sorted(probs,key=lambda t:(-probs[t],t))[:20]
-    return {"race_id":data["race_id"],"status":"HEURISTIC_NOT_VALIDATED",
+    return {"race_id":data["race_id"],"status":"HEURISTIC_NOT_VALIDATED","model_version":"scenario_order_v1",
             "top_trifecta":[{"combination":list(t),"uncalibrated_probability":round(probs[t],7)} for t in top_triples],
             "line_groups":groups,"predicted_first_second":[{"pair":list(p),"uncalibrated_probability":round(pairs[p],6)} for p in ranked[:10]],
             "plans":plans,"warning":"Illustrative integrated model; probabilities and EV must be calibrated and tested on genuine pre-race snapshots."}
