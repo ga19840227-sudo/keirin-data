@@ -2,6 +2,7 @@ name: Resell watch bridge tests
 on:
   push:
     branches:
+      - main
       - feature/resell-watch-ios-bridge-20261110
     paths:
       - 'resell-watch/**'
