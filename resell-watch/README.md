@@ -42,3 +42,31 @@ Node.js 22以降で resell-watch ディレクトリから npm test。ワーカ�
 - Deploy command: `npx wrangler deploy`
 
 Cloudflare で設定を保存後、`resell-watch/` 以下の新しい GitHub コミットにより再ビルドを試す。以前の失敗した Deployments に表示される「Active deployment」は、新版のビルド成功を意味しない。今回の Worker はフリマ各社の全件取得や30秒以内の検知を保証しない。
+
+## 公式の Yahoo!フリマ新着メールを取得する無料アダプタ（追加）
+
+追加ファイル: connectors/yahoo-furima-mail.gs
+
+Yahoo!フリマは保存した検索条件について新着通知メールを公式に提供している（2026年2月開始）。メールが届いた後に Google Apps Script がGmailを一定間隔で読んで、商品への直接リンクがある通知だけを既存の Cloudflare Worker の /api/notice に送信する。
+
+これは正式な通知を取得する方式であり、非公開API・出品ページの大量スクレイピングを行わない。動作にはYahoo!フリマ側の検索条件保存とメール通知設定、Gmail受信、Google Apps Scriptの初回承認が必要。**こちらから利用者のGmailを勝手に読んだり、アプリへのログインや認証を済ませたりすることはできない。**
+
+### 初回セットアップ（本人による承認が必要な部分）
+
+1. Yahoo!フリマで保存した検索条件について「すぐに通知」＋「メール」を選び、Gmailに届くことを確認。
+2. https://script.google.com/ で新規 Apps Script を作り、connectors/yahoo-furima-mail.gs のコードを貼り付ける。
+3. プロジェクトの Script Properties（スクリプト プロパティ）で、WORKER_BASE_URL に公開済みの自分の Worker URL、INGEST_TOKEN にCloudflareのSecretと同じ文字列（24文字以上）を設定する。値はGitHubやチャットに貼らない。
+4. setupYahooMailWatch を一度実行し、Googleから求められるGmail検索・HTTP送信・トリガー作成の権限を確認して承認する。
+5. viewYahooMailWatchStatus を実行するとApps Scriptログで直近の取り込み回数を確認できる。メールがないとき、未確認・条件未達のときはiPhoneへの通知はない。
+
+メール検索が見つからない場合は Script Properties の WATCH_GMAIL_QUERY に Gmailで検索できるYahoo!フリマの通知メールの検索式を設定する（不明な送信元メールアドレスは勝手に仮定しない）。初期値は newer_than:2d "Yahoo!フリマ"。
+
+**未達の条件:** すべての商品を検索するわけではない。フリマ側からの通知メールの遅延 + Apps Script毎分チェックがあるので出品から30秒以内は保証しない。メール本文だけで商品状態・型番・成約相場を証明できない場合はWorkerで INCOMPLETE として保存し、利益率50%の通知は出さない。店頭買取価格や売却履歴の自動取得は引き続き未実装。
+
+### 確認した公式仕様
+
+- 公式メール通知: https://paypayfleamarket.yahoo.co.jp/notice/function/post_1193/
+- 公式即時通知: https://paypayfleamarket.yahoo.co.jp/notice/function/post_1047/
+- 検索条件・上限: https://support.yahoo-net.jp/SccPaypayfleamarket/s/article/H000013029
+
+GitHubの検証は npm test (Node.js 22)。Apps Script実機のGmailアクセス許可・トリガーは利用者の環境でのみ実行できる。
