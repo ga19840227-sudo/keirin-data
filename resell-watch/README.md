@@ -1,6 +1,6 @@
 # 仕入れ新着通知ブリッジ (iPhone / Cloudflare Free)
 
-**現状：コードはGitHubの独立ブランチに配置。GitHub Actionsテスト用。Cloudflare本番デプロイと本人のiPhoneショートカット登録は未完了。**
+**現状：コードはGitHubのmainブランチのresell-watch/に配置済み。PRでの自動テストは成功。Cloudflare本番デプロイと本人のiPhoneショートカット登録は未完了。**
 
 ## 何ができるか
 
@@ -10,7 +10,7 @@ iOS 27の「ショートカット」通知トリガーから、iPhoneに実際�
 
 ## 初期設定（本人承認のみ必要）
 
-1. Cloudflareにログイン。Workers & PagesでGitHubリポジトリ ga19840227-sudo/keirin-data を接続し、このブランチの resell-watch ディレクトリをルートとしてWorkerをデプロイする。GitHub連携の画面がディレクトリ指定に対応しない場合はWrangler CLIを使用する必要がある。
+1. Cloudflareにログイン。Workers & PagesでGitHubリポジトリ ga19840227-sudo/keirin-data を接続し、mainブランチの resell-watch ディレクトリをルートとしてWorkerをデプロイする。GitHub連携の画面がディレクトリ指定に対応しない場合はWrangler CLIを使用する必要がある。
 2. WorkerのSecretsに、他人に共有しない24文字以上の異なる秘密文字列 INGEST_TOKEN, ADMIN_TOKEN と、推測困難な20文字以上の ntfy トピック NTFY_TOPIC を入力する。これらの秘密文字列をGitHubへコミットしたりチャットに貼ったりしない。
 3. iPhoneに無料の ntfy アプリを入れ、ntfy.sh の自分の秘密トピックを購読する。通知の受信にはインターネット接続が必要。
 4. iPhoneショートカットの「オートメーション」→「通知」で、最初はメルカリだけを指定。「URLの内容を取得」をPOSTにしてWorkerの https://(Worker URL)/api/notice に送る。ヘッダ Authorization: Bearer (INGEST_TOKEN) を付ける。JSON本文は source=mercari, title=(通知のTitle), body=(通知のMessage) にする。初回のロック画面での実行許可も必要。
