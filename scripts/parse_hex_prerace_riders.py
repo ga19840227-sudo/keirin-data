@@ -38,22 +38,31 @@ def main():
     for path in sorted(glob.glob("snapshots/20*/*.json")):
         if path.endswith("collection_audit.json"):continue
         d=json.loads(Path(path).read_text(encoding="utf-8"));report["files"]+=1
-        if not d.get("verified_pre_race") or not d.get("line_groups"):continue
-        report["verified"]+=1
+        if not d.get("verified_pre_race"):continue
         rows=parse_rows(d.get("page_text",""))
+        # Girls races do not have a fixed line formation. Explicitly model
+        # independent riders; never invent a conventional line.
+        is_girls="ガールズ" in d.get("page_text","")[:700]
+        groups=d.get("line_groups")
+        if not groups and is_girls and len(rows)>=5:
+            groups=[[n] for n in sorted(rows)]
+        if not groups:
+            report["failures"].append({"file":path,"reason":"line_unavailable","parsed":sorted(rows)})
+            continue
+        report["verified"]+=1
         report["parsed_riders"]+=len(rows)
-        nums=[int(n) for g in d["line_groups"] for n in g]
+        nums=[int(n) for g in groups for n in g]
         if len(nums)!=len(set(nums)) or set(nums)!=set(rows):
             report["failures"].append({"file":path,"parsed":sorted(rows),"expected":sorted(nums)})
             continue
         payload={"race_id":d["source_url"].rstrip("/").split("/")[-1],
                  "source_url":d["source_url"],"captured_jst":d["captured_jst"],
-                 "start_jst":d["start_jst"],"line_groups":d["line_groups"],
+                 "start_jst":d["start_jst"],"line_groups":groups,"line_status":"no_fixed_lines_girls" if is_girls else "published",
                  "riders":[rows[n] for n in nums]}
         name=payload["race_id"]
         (dest/(name+".json")).write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding="utf-8")
         report["complete_integrated_inputs"]+=1
-        report["examples"].append({"race_id":name,"line_groups":d["line_groups"],"riders":len(rows)})
+        report["examples"].append({"race_id":name,"line_groups":groups,"riders":len(rows)})
     Path("results/hex_rider_parse_audit.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf-8")
     print(json.dumps(report,ensure_ascii=False))
 if __name__=="__main__":main()
