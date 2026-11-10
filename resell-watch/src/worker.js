@@ -8,6 +8,18 @@ export const HOSTS = {
 };
 const CONDITIONS = new Set(["new", "used_good", "used_fair"]);
 const sources = new Set(Object.keys(HOSTS));
+const APP_NAMES = new Map([
+  ["mercari", "mercari"], ["メルカリ", "mercari"],
+  ["yahoo!フリマ", "yahoo_furima"], ["yahooフリマ", "yahoo_furima"],
+  ["paypayフリマ", "yahoo_furima"], ["yahoo_furima", "yahoo_furima"],
+  ["ラクマ", "rakuma"], ["rakuma", "rakuma"], ["fril", "rakuma"],
+  ["yahoo!オークション", "yahoo_auction"], ["ヤフオク!", "yahoo_auction"],
+  ["yahoo_auction", "yahoo_auction"]
+]);
+export function sourceFromApp(displayName) {
+  const name=clean(displayName,140).normalize("NFKC").toLowerCase();
+  return APP_NAMES.get(name)??null;
+}
 const stamp = () => Math.floor(Date.now() / 1000);
 const clean = (s,n=400) => String(s ?? "").trim().slice(0,n);
 const num = (n) => Number.isSafeInteger(Number(n)) ? Number(n) : null;
@@ -17,8 +29,9 @@ function validUrl(source, link) {
 }
 export function parseNotice(obj) {
   if(!obj || typeof obj!=="object" || Array.isArray(obj)) return {error:"invalid_json"};
-  const source=clean(obj.source,40);
-  if(!sources.has(source)) return {error:"unknown_marketplace"};
+  let source=clean(obj.source,40);
+  if(!sources.has(source)) source=sourceFromApp(obj.app_name??obj.app);
+  if(!source||!sources.has(source)) return {error:"unknown_marketplace"};
   const title=clean(obj.title,200),body=clean(obj.body,1600);
   if(!title&&!body) return {error:"empty_notification"};
   const found=(title+"\n"+body).match(/https:\/\/[^\s<>"'）]+/i)?.[0]?.replace(/[.,。、]+$/,"") || "";
