@@ -16,7 +16,7 @@ def main():
     pay=d.get("official_trifecta_payout_per_100_yen")
     if pay is not None and d.get("payout_status")=="verified":payouts[d["race_id"]]=float(pay)
   except (ValueError,KeyError):pass
- trifecta={"settled_races":0,"plans":{str(k):{"races":0,"hits":0,"stake_yen":0,"verified_payout_yen":0,"payout_verified_races":0} for k in (1,2,3)},"warning":"Third-place ALL plans; actual payout/ROI cannot be claimed without verified official payout data."}
+ trifecta={"settled_races":0,"ranked":{str(k):{"races":0,"hits":0,"stake_yen":0} for k in (1,3,5,10,20)},"plans":{str(k):{"races":0,"hits":0,"stake_yen":0,"verified_payout_yen":0,"payout_verified_races":0} for k in (1,2,3)},"warning":"Third-place ALL plans; actual payout/ROI cannot be claimed without verified official payout data."}
  report={"forecasts":0,"settled_forecasts":0,"top1_pair_hits":0,"top3_pair_hits":0,"top10_pair_hits":0,"missing_results":[],"per_race":[],"note":"Pre-start forecasts only; pair hit means exact first and second; odds/payout excluded."}
  for p in sorted(preds.glob("*.json")):
   try:
@@ -24,6 +24,10 @@ def main():
    if rid not in actual:report["missing_results"].append(rid);continue
    a=actual[rid];pairs=[x["pair"] for x in d.get("predicted_first_second",[])]
    trifecta["settled_races"]+=1
+   triples=[x["combination"] for x in d.get("top_trifecta",[])]
+   for k in (1,3,5,10,20):
+    if len(triples)<k:continue
+    s=trifecta["ranked"][str(k)];s["races"]+=1;s["stake_yen"]+=100*k;s["hits"]+=int(a in triples[:k])
    for plan in d.get("plans",[]):
     selected=plan.get("first_second_pairs",[])
     k=len(selected)
@@ -58,6 +62,7 @@ def main():
  for s in trifecta["plans"].values():
   s["hit_rate"]=round(s["hits"]/s["races"],4) if s["races"] else None
   s["roi"]=round(s["verified_payout_yen"]/s["stake_yen"],4) if s["races"] and s["payout_verified_races"]==s["races"] else None
+ for s in trifecta["ranked"].values():s["hit_rate"]=round(s["hits"]/s["races"],4) if s["races"] else None
  report["trifecta"]=trifecta
  report["development_scenarios"]=scenario_scores
  report["scenario_warning"]="Six fixed hypotheses; no fitting or verified improvement. Small samples cannot establish superiority."
