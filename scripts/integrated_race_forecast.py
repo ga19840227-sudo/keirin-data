@@ -18,7 +18,7 @@ def number(r,key):
     if key not in r or r[key] is None:raise ValueError("missing rider field "+key)
     return float(r[key])
 
-def forecast(data):
+def forecast(data, scenario=True):
     if timestamp(data["captured_jst"])>=timestamp(data["start_jst"]):
         raise ValueError("snapshot was not captured before start")
     riders=data["riders"];nums=[int(r["banum"]) for r in riders]
@@ -67,7 +67,7 @@ def forecast(data):
         # overtakes (sashi), outside makuri, and line's third rider survives.
         # These are explicit, forward-only heuristics, NOT fitted probabilities.
         girls=data.get("line_status")=="no_fixed_lines_girls"
-        if not girls:
+        if scenario and not girls:
             ga,pa,_=positions[a];gb,pb,_=positions[b];gc,pc,_=positions[c]
             if ga==gb and pa==0 and pb==1:
                 synergy*=1.16  # front control, second follows
