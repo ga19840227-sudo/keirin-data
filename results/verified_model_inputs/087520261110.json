@@ -1,0 +1,136 @@
+{
+  "race_id": "087520261110",
+  "source_url": "https://keirinhex.jp/races/20261110/087520261110/",
+  "captured_jst": "2026-11-10T18:58:54.816204+09:00",
+  "start_jst": "2026-11-10T23:00:00+09:00",
+  "line_groups": [
+    [
+      1,
+      6,
+      5
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      3,
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "松本悠平高知・A3・129期",
+      "race_score": 80.44,
+      "running_style": "逃",
+      "win_rate_4m": 65.0,
+      "top2_rate_4m": 85.0,
+      "top3_rate_4m": 92.0,
+      "s_count": 9,
+      "h_count": 11,
+      "b_count": 13,
+      "nige_4m": 8,
+      "maku_4m": 4,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "野口修平神奈川・A3・105期",
+      "race_score": 70.66,
+      "running_style": "逃",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "鈴木広人神奈川・A3・99期",
+      "race_score": 71.45,
+      "running_style": "両",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 49.0,
+      "s_count": 5,
+      "h_count": 8,
+      "b_count": 7,
+      "nige_4m": 5,
+      "maku_4m": 5,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "久保田智之福岡・A3・129期",
+      "race_score": 78.38,
+      "running_style": "逃",
+      "win_rate_4m": 54.0,
+      "top2_rate_4m": 69.0,
+      "top3_rate_4m": 77.0,
+      "s_count": 3,
+      "h_count": 15,
+      "b_count": 17,
+      "nige_4m": 14,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "與古田龍門沖縄・A3・125期",
+      "race_score": 74.52,
+      "running_style": "逃",
+      "win_rate_4m": 31.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 1,
+      "h_count": 12,
+      "b_count": 12,
+      "nige_4m": 9,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "福地晶福島・A3・129期",
+      "race_score": 75.14,
+      "running_style": "逃",
+      "win_rate_4m": 42.0,
+      "top2_rate_4m": 54.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 6,
+      "h_count": 7,
+      "b_count": 6,
+      "nige_4m": 5,
+      "maku_4m": 4,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "相澤恵一宮城・A3・95期",
+      "race_score": 70.37,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 3
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "077520261110",
+  "source_url": "https://keirinhex.jp/races/20261110/077520261110/",
+  "captured_jst": "2026-11-10T18:58:50.176193+09:00",
+  "start_jst": "2026-11-10T22:40:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4
+    ],
+    [
+      3,
+      2,
+      5
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "小林稜武栃木・A1・113期",
+      "race_score": 90.04,
+      "running_style": "逃",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 0,
+      "h_count": 12,
+      "b_count": 11,
+      "nige_4m": 5,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "田村真広群馬・A1・83期",
+      "race_score": 86.37,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "高橋幸司沖縄・A1・99期",
+      "race_score": 87.07,
+      "running_style": "逃",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 34.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 1,
+      "h_count": 10,
+      "b_count": 13,
+      "nige_4m": 7,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "名川豊福岡・A1・99期",
+      "race_score": 89.58,
+      "running_style": "追",
+      "win_rate_4m": 33.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 9,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "神開将暢福岡・A2・69期",
+      "race_score": 85.21,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "下野義城地元愛媛・A2・115期",
+      "race_score": 83.22,
+      "running_style": "逃",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 0,
+      "h_count": 4,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "藤原亮太岡山・A2・97期",
+      "race_score": 80.87,
+      "running_style": "両",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    }
+  ]
+}

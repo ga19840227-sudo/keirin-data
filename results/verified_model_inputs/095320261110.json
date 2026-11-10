@@ -1,0 +1,138 @@
+{
+  "race_id": "095320261110",
+  "source_url": "https://keirinhex.jp/races/20261110/095320261110/",
+  "captured_jst": "2026-11-10T18:59:01.489022+09:00",
+  "start_jst": "2026-11-10T23:30:00+09:00",
+  "line_groups": [
+    [
+      2,
+      3
+    ],
+    [
+      5
+    ],
+    [
+      6,
+      4
+    ],
+    [
+      7,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "馬場和広埼玉・A1・98期",
+      "race_score": 91.9,
+      "running_style": "両",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 6,
+      "h_count": 3,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 5,
+      "mark_4m": 4
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "高塩讓次栃木・A1・90期",
+      "race_score": 91.9,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "坪内恒千葉・A1・123期",
+      "race_score": 88.37,
+      "running_style": "逃",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 47.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 2,
+      "h_count": 13,
+      "b_count": 11,
+      "nige_4m": 7,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "馬越裕之地元奈良・A2・127期",
+      "race_score": 85.11,
+      "running_style": "逃",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 2,
+      "h_count": 8,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "野口正則地元奈良・A1・105期",
+      "race_score": 90.95,
+      "running_style": "両",
+      "win_rate_4m": 31.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "佐々木吉徳秋田・A1・100期",
+      "race_score": 84.75,
+      "running_style": "逃",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 0,
+      "h_count": 11,
+      "b_count": 12,
+      "nige_4m": 7,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "松澤敬輔北海道・A1・97期",
+      "race_score": 95.11,
+      "running_style": "両",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 62.0,
+      "top3_rate_4m": 81.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 5
+    }
+  ]
+}
