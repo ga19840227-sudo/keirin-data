@@ -1,6 +1,168 @@
 {
   "race_id": "SYNTHETIC_TEST",
   "status": "HEURISTIC_NOT_VALIDATED",
+  "top_trifecta": [
+    {
+      "combination": [
+        6,
+        7,
+        5
+      ],
+      "uncalibrated_probability": 0.0103253
+    },
+    {
+      "combination": [
+        7,
+        6,
+        5
+      ],
+      "uncalibrated_probability": 0.0099831
+    },
+    {
+      "combination": [
+        7,
+        5,
+        6
+      ],
+      "uncalibrated_probability": 0.0091746
+    },
+    {
+      "combination": [
+        5,
+        7,
+        6
+      ],
+      "uncalibrated_probability": 0.0089206
+    },
+    {
+      "combination": [
+        6,
+        7,
+        2
+      ],
+      "uncalibrated_probability": 0.0085986
+    },
+    {
+      "combination": [
+        5,
+        6,
+        7
+      ],
+      "uncalibrated_probability": 0.0085228
+    },
+    {
+      "combination": [
+        6,
+        5,
+        7
+      ],
+      "uncalibrated_probability": 0.0084513
+    },
+    {
+      "combination": [
+        7,
+        6,
+        2
+      ],
+      "uncalibrated_probability": 0.0083136
+    },
+    {
+      "combination": [
+        6,
+        7,
+        4
+      ],
+      "uncalibrated_probability": 0.008182
+    },
+    {
+      "combination": [
+        7,
+        5,
+        2
+      ],
+      "uncalibrated_probability": 0.0079814
+    },
+    {
+      "combination": [
+        7,
+        6,
+        4
+      ],
+      "uncalibrated_probability": 0.0079108
+    },
+    {
+      "combination": [
+        5,
+        7,
+        2
+      ],
+      "uncalibrated_probability": 0.0077603
+    },
+    {
+      "combination": [
+        4,
+        5,
+        7
+      ],
+      "uncalibrated_probability": 0.0076872
+    },
+    {
+      "combination": [
+        6,
+        7,
+        3
+      ],
+      "uncalibrated_probability": 0.0076722
+    },
+    {
+      "combination": [
+        7,
+        2,
+        5
+      ],
+      "uncalibrated_probability": 0.0076543
+    },
+    {
+      "combination": [
+        7,
+        5,
+        4
+      ],
+      "uncalibrated_probability": 0.0075946
+    },
+    {
+      "combination": [
+        5,
+        4,
+        7
+      ],
+      "uncalibrated_probability": 0.0074603
+    },
+    {
+      "combination": [
+        7,
+        6,
+        3
+      ],
+      "uncalibrated_probability": 0.0074179
+    },
+    {
+      "combination": [
+        5,
+        7,
+        4
+      ],
+      "uncalibrated_probability": 0.0073843
+    },
+    {
+      "combination": [
+        7,
+        2,
+        6
+      ],
+      "uncalibrated_probability": 0.0073273
+    }
+  ],
   "line_groups": [
     [
       1,
