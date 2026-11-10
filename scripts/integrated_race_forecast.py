@@ -82,7 +82,9 @@ def forecast(data):
                       "third":"ALL_EXCEPT_FIRST_SECOND","ticket_count":len(tickets),
                       "cost_yen":100*len(tickets),"hit_probability_uncalibrated":round(sum(ticket_probs),6),
                       "expected_return_ratio_uncalibrated":round(ev,5) if ev is not None else None})
+    top_triples=sorted(probs,key=lambda t:(-probs[t],t))[:20]
     return {"race_id":data["race_id"],"status":"HEURISTIC_NOT_VALIDATED",
+            "top_trifecta":[{"combination":list(t),"uncalibrated_probability":round(probs[t],7)} for t in top_triples],
             "line_groups":groups,"predicted_first_second":[{"pair":list(p),"uncalibrated_probability":round(pairs[p],6)} for p in ranked[:10]],
             "plans":plans,"warning":"Illustrative integrated model; probabilities and EV must be calibrated and tested on genuine pre-race snapshots."}
 
