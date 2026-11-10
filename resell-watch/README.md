@@ -33,3 +33,12 @@ SQLite-backed Cloudflare Durable ObjectsはWorkers Freeで利用可能。ただ�
 ## 手元でテスト
 
 Node.js 22以降で resell-watch ディレクトリから npm test。ワーカーの実行は npx wrangler deploy。認証トークンはCloudflareのSecret環境変数に設定する。既存の競輪データ収集ファイルには手を加えていない。
+
+## Cloudflare ビルド設定（既存プロジェクト）
+
+- Production branch: `main`
+- Root directory: `resell-watch`
+- Build command: 空欄（None）
+- Deploy command: `npx wrangler deploy`
+
+Cloudflare で設定を保存後、`resell-watch/` 以下の新しい GitHub コミットにより再ビルドを試す。以前の失敗した Deployments に表示される「Active deployment」は、新版のビルド成功を意味しない。今回の Worker はフリマ各社の全件取得や30秒以内の検知を保証しない。
