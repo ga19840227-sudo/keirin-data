@@ -1,4 +1,4 @@
-"""Retrospective paired comparison on identical verified pre-start inputs.
+"""Automated retrospective paired comparison on identical verified pre-start inputs.
 This is in-sample exploratory replay, not forward validation or proof of profit.
 """
 import json,sys
