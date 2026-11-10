@@ -89,6 +89,7 @@ function scanYahooFurimaMail() {
       var id = String(mail.getId());
       if (seen.has(id)) return;
       var record = parseYahooFurimaNotice_(mail.getSubject(), mail.getPlainBody());
+      if (!record) record = parseYahooFurimaNotice_(mail.getSubject(), mail.getBody());
       if (!record) {
         // Yahoo!フリマの商品リンクが無ければ非対象として記録する。
         seen.add(id);
