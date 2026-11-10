@@ -24,3 +24,8 @@ jobs:
           node-version: '22'
       - name: Test notification intake and safe ROI
         run: node --test resell-watch/tests/*.test.js
+      - name: Verify Cloudflare Worker bundle without deploying
+        run: |
+          cd resell-watch
+          npm install --no-audit --no-fund
+          npx wrangler deploy --dry-run --outdir ./dist-ci
