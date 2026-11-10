@@ -81,7 +81,7 @@ def main():
                 if target.exists():
                     try:
                         previous=json.loads(target.read_text(encoding="utf-8"))
-                        if previous.get("verified_pre_race") and previous.get("captured_jst") and previous.get("start_jst") and datetime.fromisoformat(previous["captured_jst"]) < datetime.fromisoformat(previous["start_jst"]):
+                        if previous.get("verified_pre_race") and (previous.get("line_groups") or "ガールズ" in previous.get("page_text","")[:700]) and previous.get("captured_jst") and previous.get("start_jst") and datetime.fromisoformat(previous["captured_jst"]) < datetime.fromisoformat(previous["start_jst"]):
                             audit["already_saved"]=audit.get("already_saved",0)+1
                             continue
                     except (ValueError,OSError,TypeError,KeyError):
@@ -127,7 +127,7 @@ def main():
                 if target.exists():
                     try:
                         previous=json.loads(target.read_text(encoding="utf-8"))
-                        if previous.get("verified_pre_race"):
+                        if previous.get("verified_pre_race") and (previous.get("line_groups") or "ガールズ" in previous.get("page_text","")[:700]):
                             audit["already_saved"]=audit.get("already_saved",0)+1
                             continue
                     except (ValueError,OSError):pass
