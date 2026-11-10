@@ -49,16 +49,21 @@ def forecast(data):
         second_effect=(.13+.004*number(leader,"race_score")-.32) if second else 0
         solo_effect=-.10 if sz==1 and data.get("line_status")!="no_fixed_lines_girls" else 0
         strength[n]=base+leader_effect+chase+second_effect+solo_effect
-    # Conditional Plackett-Luce with same-line position interaction.
-    # Heuristic initial coefficients: NOT trained or calibrated probabilities.
+    # Sequential Plackett-Luce: first, second and third are conditional draws.
+    # The previous product weights were symmetric and could not meaningfully
+    # distinguish a-b from b-a except for a small line bonus.
+    # Still heuristic, NOT trained or validated.
     weights={n:math.exp(max(-8,min(8,v))) for n,v in strength.items()}
+    total_weight=sum(weights.values())
     triples={}
     for a,b,c in itertools.permutations(nums,3):
+        first=weights[a]/total_weight
+        second=weights[b]/(total_weight-weights[a])
+        third=weights[c]/(total_weight-weights[a]-weights[b])
         same=positions[a][0]==positions[b][0]
         pos_a,pos_b=positions[a][1],positions[b][1]
         synergy=1.18 if same and pos_a==0 and pos_b==1 else 1.10 if same and pos_a==1 and pos_b==0 else 1.0
-        raw=weights[a]*weights[b]*weights[c]*synergy
-        triples[(a,b,c)]=raw
+        triples[(a,b,c)]=first*second*third*synergy
     total=sum(triples.values())
     probs={k:v/total for k,v in triples.items()}
     pairs={}
