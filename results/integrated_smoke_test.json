@@ -22,70 +22,70 @@
         6,
         7
       ],
-      "uncalibrated_probability": 0.037448
+      "uncalibrated_probability": 0.040858
     },
     {
       "pair": [
         7,
         6
       ],
-      "uncalibrated_probability": 0.034909
-    },
-    {
-      "pair": [
-        5,
-        7
-      ],
-      "uncalibrated_probability": 0.032794
+      "uncalibrated_probability": 0.039504
     },
     {
       "pair": [
         7,
         5
       ],
-      "uncalibrated_probability": 0.032794
-    },
-    {
-      "pair": [
-        4,
-        5
-      ],
-      "uncalibrated_probability": 0.029288
+      "uncalibrated_probability": 0.037515
     },
     {
       "pair": [
         5,
-        6
-      ],
-      "uncalibrated_probability": 0.028824
-    },
-    {
-      "pair": [
-        6,
-        5
-      ],
-      "uncalibrated_probability": 0.028824
-    },
-    {
-      "pair": [
-        2,
         7
       ],
-      "uncalibrated_probability": 0.028477
+      "uncalibrated_probability": 0.036476
     },
     {
       "pair": [
         7,
         2
       ],
-      "uncalibrated_probability": 0.028477
+      "uncalibrated_probability": 0.031241
+    },
+    {
+      "pair": [
+        5,
+        6
+      ],
+      "uncalibrated_probability": 0.03063
+    },
+    {
+      "pair": [
+        6,
+        5
+      ],
+      "uncalibrated_probability": 0.030374
+    },
+    {
+      "pair": [
+        7,
+        4
+      ],
+      "uncalibrated_probability": 0.029728
+    },
+    {
+      "pair": [
+        2,
+        7
+      ],
+      "uncalibrated_probability": 0.029403
     },
     {
       "pair": [
         4,
-        7
+        5
       ],
-      "uncalibrated_probability": 0.027365
+      "uncalibrated_probability": 0.028739
     }
   ],
   "plans": [
@@ -99,7 +99,7 @@
       "third": "ALL_EXCEPT_FIRST_SECOND",
       "ticket_count": 5,
       "cost_yen": 500,
-      "hit_probability_uncalibrated": 0.037448,
+      "hit_probability_uncalibrated": 0.040858,
       "expected_return_ratio_uncalibrated": null
     },
     {
@@ -116,7 +116,7 @@
       "third": "ALL_EXCEPT_FIRST_SECOND",
       "ticket_count": 10,
       "cost_yen": 1000,
-      "hit_probability_uncalibrated": 0.072357,
+      "hit_probability_uncalibrated": 0.080361,
       "expected_return_ratio_uncalibrated": null
     },
     {
@@ -130,14 +130,14 @@
           6
         ],
         [
-          5,
-          7
+          7,
+          5
         ]
       ],
       "third": "ALL_EXCEPT_FIRST_SECOND",
       "ticket_count": 15,
       "cost_yen": 1500,
-      "hit_probability_uncalibrated": 0.105152,
+      "hit_probability_uncalibrated": 0.117876,
       "expected_return_ratio_uncalibrated": null
     }
   ],
