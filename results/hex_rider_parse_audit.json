@@ -1,8 +1,8 @@
 {
   "files": 86,
-  "verified": 61,
-  "parsed_riders": 427,
-  "complete_integrated_inputs": 61,
+  "verified": 67,
+  "parsed_riders": 467,
+  "complete_integrated_inputs": 67,
   "examples": [
     {
       "race_id": "075320261109",
@@ -157,6 +157,30 @@
         ]
       ],
       "riders": 7
+    },
+    {
+      "race_id": "011220261110",
+      "line_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ]
+      ],
+      "riders": 6
     },
     {
       "race_id": "012420261110",
@@ -515,6 +539,30 @@
       "riders": 7
     },
     {
+      "race_id": "042420261110",
+      "line_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ]
+      ],
+      "riders": 6
+    },
+    {
       "race_id": "042520261110",
       "line_groups": [
         [
@@ -669,6 +717,33 @@
       "riders": 7
     },
     {
+      "race_id": "054620261110",
+      "line_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ],
+        [
+          7
+        ]
+      ],
+      "riders": 7
+    },
+    {
       "race_id": "058420261110",
       "line_groups": [
         [
@@ -685,6 +760,33 @@
         [
           7,
           3
+        ]
+      ],
+      "riders": 7
+    },
+    {
+      "race_id": "061220261110",
+      "line_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ],
+        [
+          7
         ]
       ],
       "riders": 7
@@ -742,6 +844,33 @@
         [
           6,
           3
+        ]
+      ],
+      "riders": 7
+    },
+    {
+      "race_id": "064620261110",
+      "line_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ],
+        [
+          7
         ]
       ],
       "riders": 7
@@ -1019,6 +1148,33 @@
       "riders": 7
     },
     {
+      "race_id": "102420261110",
+      "line_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ],
+        [
+          7
+        ]
+      ],
+      "riders": 7
+    },
+    {
       "race_id": "103120261110",
       "line_groups": [
         [
@@ -1198,5 +1354,252 @@
       "riders": 7
     }
   ],
-  "failures": []
+  "failures": [
+    {
+      "file": "snapshots/20261110/015320261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "file": "snapshots/20261110/017520261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/025320261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/027520261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/035320261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/037520261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/045320261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/047520261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/055320261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/057520261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/065320261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/067520261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/075320261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/077520261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/085320261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/087520261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/088420261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/095320261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261110/097520261110.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ]
 }

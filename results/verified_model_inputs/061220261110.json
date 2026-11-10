@@ -1,0 +1,144 @@
+{
+  "race_id": "061220261110",
+  "source_url": "https://keirinhex.jp/races/20261110/061220261110/",
+  "captured_jst": "2026-11-10T00:35:04.969105+09:00",
+  "start_jst": "2026-11-10T10:30:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "no_fixed_lines_girls",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎藤田まりあ埼玉・L1・116期",
+      "race_score": 56.8,
+      "running_style": "両",
+      "win_rate_4m": 57.0,
+      "top2_rate_4m": 83.0,
+      "top3_rate_4m": 91.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 9,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲田中まい千葉・L1・104期",
+      "race_score": 53.55,
+      "running_style": "両",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 5,
+      "h_count": 13,
+      "b_count": 6,
+      "nige_4m": 0,
+      "maku_4m": 5,
+      "sashi_4m": 1,
+      "mark_4m": 4
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆永禮美瑠愛知・L1・118期",
+      "race_score": 54.14,
+      "running_style": "両",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 77.0,
+      "s_count": 2,
+      "h_count": 3,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "齊藤由莉神奈川・L1・128期",
+      "race_score": 50.0,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 5,
+      "h_count": 5,
+      "b_count": 1,
+      "nige_4m": 2,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "高本美穂熊本・L1・124期",
+      "race_score": 49.7,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 3,
+      "h_count": 4,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆磯村光舞山口・L1・126期",
+      "race_score": 54.1,
+      "running_style": "両",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 37.0,
+      "top3_rate_4m": 67.0,
+      "s_count": 3,
+      "h_count": 2,
+      "b_count": 0,
+      "nige_4m": 2,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○當銘沙恵美愛知・L1・118期",
+      "race_score": 54.7,
+      "running_style": "両",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 47.0,
+      "top3_rate_4m": 69.0,
+      "s_count": 4,
+      "h_count": 9,
+      "b_count": 8,
+      "nige_4m": 3,
+      "maku_4m": 5,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    }
+  ]
+}
