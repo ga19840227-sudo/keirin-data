@@ -1,0 +1,25 @@
+name: Resell watch bridge tests
+on:
+  push:
+    branches:
+      - feature/resell-watch-ios-bridge-20261110
+    paths:
+      - 'resell-watch/**'
+      - '.github/workflows/resell-watch-tests.yml'
+  pull_request:
+    paths:
+      - 'resell-watch/**'
+      - '.github/workflows/resell-watch-tests.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test notification intake and safe ROI
+        run: node --test resell-watch/tests/*.test.js
