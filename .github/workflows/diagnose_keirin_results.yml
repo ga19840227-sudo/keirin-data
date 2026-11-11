@@ -1,0 +1,29 @@
+name: 競輪予測の的中・外れ要因診断
+on:
+  push:
+    paths:
+      - scripts/diagnose_keirin_results.py
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Audit frozen predictions against actual results
+        run: python scripts/diagnose_keirin_results.py
+      - name: Publish audit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f results/prediction_accuracy/diagnostic_audit.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Save keirin prediction error audit"
+            git fetch origin main
+            git rebase -X theirs origin/main
+            git push origin HEAD:main
+          fi
