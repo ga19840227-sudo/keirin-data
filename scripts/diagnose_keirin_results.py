@@ -1,5 +1,5 @@
 """Audit genuine frozen forecasts by race date, outcome, line finish and rider traits.
-Descriptive diagnosis only; no result is used to change a past forecast.
+Automated descriptive diagnosis only; no result is used to change a past forecast.
 """
 import json,collections
 from pathlib import Path
