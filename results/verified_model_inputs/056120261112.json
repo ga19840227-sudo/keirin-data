@@ -1,0 +1,136 @@
+{
+  "race_id": "056120261112",
+  "source_url": "https://keirinhex.jp/races/20261112/056120261112/",
+  "captured_jst": "2026-11-12T00:27:32.651350+09:00",
+  "start_jst": "2026-11-12T17:40:00+09:00",
+  "line_groups": [
+    [
+      1,
+      6
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      4,
+      2,
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "里見恒平千葉・A3・99期",
+      "race_score": 72.22,
+      "running_style": "逃",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "和泉田喜一千葉・A3・59期",
+      "race_score": 67.16,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆小川辰徳埼玉・A3・100期",
+      "race_score": 69.42,
+      "running_style": "両",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 4,
+      "h_count": 9,
+      "b_count": 8,
+      "nige_4m": 7,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆吉橋秀城埼玉・A3・85期",
+      "race_score": 69.29,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎兒島直樹福岡・A3・129期",
+      "race_score": 81.66,
+      "running_style": "逃",
+      "win_rate_4m": 100.0,
+      "top2_rate_4m": 100.0,
+      "top3_rate_4m": 100.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 5,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○爲田学沖縄・A3・69期",
+      "race_score": 69.87,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 4
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲時松正熊本・A3・67期",
+      "race_score": 69.33,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 18.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    }
+  ]
+}

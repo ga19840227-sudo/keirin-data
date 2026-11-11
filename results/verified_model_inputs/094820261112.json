@@ -1,0 +1,119 @@
+{
+  "race_id": "094820261112",
+  "source_url": "https://keirinhex.jp/races/20261112/094820261112/",
+  "captured_jst": "2026-11-12T00:28:34.150724+09:00",
+  "start_jst": "2026-11-12T19:08:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      4,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "○今村麟太郎高知・S2・111期",
+      "race_score": 98.15,
+      "running_style": "両",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 1,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎門田凌愛媛・S2・111期",
+      "race_score": 97.55,
+      "running_style": "両",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲梅崎隆介長崎・S2・121期",
+      "race_score": 98.6,
+      "running_style": "両",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 2,
+      "h_count": 8,
+      "b_count": 11,
+      "nige_4m": 3,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "島村匠福岡・S2・111期",
+      "race_score": 93.83,
+      "running_style": "両",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 9.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆福田知也神奈川・S1・88期",
+      "race_score": 98.37,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "土屋裕二静岡・S2・81期",
+      "race_score": 95.29,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 3
+    }
+  ]
+}

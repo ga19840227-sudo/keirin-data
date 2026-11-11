@@ -1,0 +1,136 @@
+{
+  "race_id": "114820261112",
+  "source_url": "https://keirinhex.jp/races/20261112/114820261112/",
+  "captured_jst": "2026-11-12T00:28:58.447577+09:00",
+  "start_jst": "2026-11-12T20:01:00+09:00",
+  "line_groups": [
+    [
+      4,
+      2
+    ],
+    [
+      5,
+      1,
+      7
+    ],
+    [
+      6,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 4,
+      "player_name_raw": "☆中村龍吉福島・S2・125期",
+      "race_score": 99.18,
+      "running_style": "逃",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 5,
+      "h_count": 6,
+      "b_count": 7,
+      "nige_4m": 2,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "田中晴基千葉・S2・90期",
+      "race_score": 102.77,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 9,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎青柳靖起佐賀・S1・117期",
+      "race_score": 104.87,
+      "running_style": "逃",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 2,
+      "h_count": 9,
+      "b_count": 10,
+      "nige_4m": 5,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○西村光太地元三重・S1・96期",
+      "race_score": 105.31,
+      "running_style": "追",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲横関裕樹岐阜・S2・99期",
+      "race_score": 101.3,
+      "running_style": "両",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 13,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "永井哉多東京・S2・121期",
+      "race_score": 97.8,
+      "running_style": "逃",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 0,
+      "h_count": 18,
+      "b_count": 15,
+      "nige_4m": 8,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆岸澤賢太埼玉・S2・91期",
+      "race_score": 99.04,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "race_id": "062820261112",
+  "source_url": "https://keirinhex.jp/races/20261112/062820261112/",
+  "captured_jst": "2026-11-12T00:27:39.174285+09:00",
+  "start_jst": "2026-11-12T13:16:00+09:00",
+  "line_groups": [
+    [
+      4
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      6,
+      1
+    ],
+    [
+      7,
+      3
+    ],
+    [
+      8,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 4,
+      "player_name_raw": "窪木一茂福島・S2・119期",
+      "race_score": 96.57,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲堀内俊介神奈川・S2・107期",
+      "race_score": 102.65,
+      "running_style": "両",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 9,
+      "player_name_raw": "佐藤壮千葉・S1・100期",
+      "race_score": 98.9,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆山根慶太岡山・S2・123期",
+      "race_score": 93.94,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 5.0,
+      "top3_rate_4m": 14.0,
+      "s_count": 0,
+      "h_count": 5,
+      "b_count": 5,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "友定祐己岡山・S2・82期",
+      "race_score": 100.36,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 5
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○岸田剛福井・S1・121期",
+      "race_score": 102.4,
+      "running_style": "逃",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 2,
+      "h_count": 9,
+      "b_count": 13,
+      "nige_4m": 2,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "◎山本伸一奈良・S2・101期",
+      "race_score": 107.34,
+      "running_style": "両",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 8,
+      "mark_4m": 2
+    },
+    {
+      "banum": 8,
+      "player_name_raw": "☆柿本大貴地元東京・S2・113期",
+      "race_score": 95.64,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 0,
+      "h_count": 8,
+      "b_count": 5,
+      "nige_4m": 4,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆福田滉栃木・S2・115期",
+      "race_score": 98.05,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    }
+  ]
+}

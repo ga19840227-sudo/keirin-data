@@ -1,0 +1,144 @@
+{
+  "race_id": "024720261112",
+  "source_url": "https://keirinhex.jp/races/20261112/024720261112/",
+  "captured_jst": "2026-11-12T00:26:31.739453+09:00",
+  "start_jst": "2026-11-12T21:10:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "no_fixed_lines_girls",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎尾方真生福岡・L1・118期",
+      "race_score": 57.2,
+      "running_style": "逃",
+      "win_rate_4m": 57.0,
+      "top2_rate_4m": 68.0,
+      "top3_rate_4m": 89.0,
+      "s_count": 2,
+      "h_count": 8,
+      "b_count": 11,
+      "nige_4m": 5,
+      "maku_4m": 7,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲青木美保埼玉・L1・118期",
+      "race_score": 53.41,
+      "running_style": "両",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 47.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 2,
+      "h_count": 5,
+      "b_count": 9,
+      "nige_4m": 3,
+      "maku_4m": 6,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○山口優依愛知・L1・124期",
+      "race_score": 53.2,
+      "running_style": "両",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 11,
+      "h_count": 15,
+      "b_count": 12,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆荒川ひかり茨城・L1・110期",
+      "race_score": 52.47,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆清水美海神奈川・L1・130期",
+      "race_score": 49.75,
+      "running_style": "両",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 4,
+      "h_count": 4,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 4
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "金田舞夏福岡・L1・124期",
+      "race_score": 48.41,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 10.0,
+      "s_count": 2,
+      "h_count": 3,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "寺本愛花徳島・L1・130期",
+      "race_score": 47.85,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 8.0,
+      "s_count": 7,
+      "h_count": 3,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    }
+  ]
+}

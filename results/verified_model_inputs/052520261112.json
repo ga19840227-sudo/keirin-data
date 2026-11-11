@@ -1,0 +1,136 @@
+{
+  "race_id": "052520261112",
+  "source_url": "https://keirinhex.jp/races/20261112/052520261112/",
+  "captured_jst": "2026-11-12T00:27:19.247201+09:00",
+  "start_jst": "2026-11-12T10:13:00+09:00",
+  "line_groups": [
+    [
+      2,
+      5
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      6,
+      1,
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "◎十文字悠真福島・A3・127期",
+      "race_score": 75.88,
+      "running_style": "逃",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 73.0,
+      "s_count": 6,
+      "h_count": 8,
+      "b_count": 8,
+      "nige_4m": 2,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○川村昭弘新潟・A3・81期",
+      "race_score": 74.0,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 69.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆廣田敦士三重・A3・107期",
+      "race_score": 69.4,
+      "running_style": "逃",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 0,
+      "h_count": 12,
+      "b_count": 10,
+      "nige_4m": 4,
+      "maku_4m": 3,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "杉山正和三重・A3・59期",
+      "race_score": 71.61,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 5
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆小林寛弥静岡・A3・101期",
+      "race_score": 67.45,
+      "running_style": "逃",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 1,
+      "h_count": 8,
+      "b_count": 7,
+      "nige_4m": 4,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲安藤宜明神奈川・A3・74期",
+      "race_score": 74.34,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 64.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 6
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "佐藤有輝神奈川・A3・85期",
+      "race_score": 72.82,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 51.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 3
+    }
+  ]
+}

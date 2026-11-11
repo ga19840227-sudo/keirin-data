@@ -1,0 +1,136 @@
+{
+  "race_id": "115120261112",
+  "source_url": "https://keirinhex.jp/races/20261112/115120261112/",
+  "captured_jst": "2026-11-12T00:29:00.616105+09:00",
+  "start_jst": "2026-11-12T15:36:00+09:00",
+  "line_groups": [
+    [
+      3,
+      4
+    ],
+    [
+      6,
+      5,
+      1
+    ],
+    [
+      7,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "☆阿部英斗福岡・S2・125期",
+      "race_score": 106.42,
+      "running_style": "逃",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 3,
+      "h_count": 8,
+      "b_count": 6,
+      "nige_4m": 2,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○中村圭志熊本・S1・86期",
+      "race_score": 106.0,
+      "running_style": "追",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "治田知也新潟・S2・121期",
+      "race_score": 98.76,
+      "running_style": "逃",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 0,
+      "h_count": 13,
+      "b_count": 12,
+      "nige_4m": 4,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎雨谷一樹栃木・S1・96期",
+      "race_score": 109.72,
+      "running_style": "両",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 12,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 8,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲竹村勇祐秋田・S2・96期",
+      "race_score": 103.11,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "小西晴己三重・S2・121期",
+      "race_score": 103.68,
+      "running_style": "両",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 43.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 4,
+      "h_count": 3,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆清水剛志地元福井・S2・103期",
+      "race_score": 103.88,
+      "running_style": "両",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 39.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 12,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    }
+  ]
+}

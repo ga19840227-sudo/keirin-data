@@ -1,0 +1,136 @@
+{
+  "race_id": "104820261112",
+  "source_url": "https://keirinhex.jp/races/20261112/104820261112/",
+  "captured_jst": "2026-11-12T00:28:47.567716+09:00",
+  "start_jst": "2026-11-12T19:34:00+09:00",
+  "line_groups": [
+    [
+      3,
+      5,
+      2
+    ],
+    [
+      4,
+      1,
+      7
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "○南部翔大大阪・S2・125期",
+      "race_score": 101.77,
+      "running_style": "逃",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 12,
+      "h_count": 10,
+      "b_count": 13,
+      "nige_4m": 4,
+      "maku_4m": 5,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎吉本卓仁福岡・S1・89期",
+      "race_score": 103.25,
+      "running_style": "両",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 11,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "阿竹智史徳島・S1・90期",
+      "race_score": 100.85,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 22.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆神田龍地元三重・S2・105期",
+      "race_score": 98.22,
+      "running_style": "逃",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 17.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲川口公太朗岐阜・S1・98期",
+      "race_score": 102.4,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆吉川起也富山・S2・92期",
+      "race_score": 99.15,
+      "running_style": "両",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "平原啓多埼玉・S2・97期",
+      "race_score": 98.06,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    }
+  ]
+}

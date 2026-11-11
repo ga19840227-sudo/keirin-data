@@ -1,0 +1,136 @@
+{
+  "race_id": "124820261112",
+  "source_url": "https://keirinhex.jp/races/20261112/124820261112/",
+  "captured_jst": "2026-11-12T00:29:07.355661+09:00",
+  "start_jst": "2026-11-12T20:30:00+09:00",
+  "line_groups": [
+    [
+      4,
+      2
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      7,
+      1,
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 4,
+      "player_name_raw": "☆藤井昭吾滋賀・S1・99期",
+      "race_score": 104.29,
+      "running_style": "両",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 1,
+      "h_count": 2,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "佐山寛明奈良・S2・113期",
+      "race_score": 100.07,
+      "running_style": "逃",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "後藤悠岩手・S2・115期",
+      "race_score": 94.31,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 5,
+      "h_count": 6,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆望月永悟静岡・S2・77期",
+      "race_score": 98.07,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎木村皆斗茨城・S1・119期",
+      "race_score": 109.53,
+      "running_style": "逃",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 1,
+      "h_count": 15,
+      "b_count": 13,
+      "nige_4m": 6,
+      "maku_4m": 3,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○岡田征陽東京・S2・85期",
+      "race_score": 101.11,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲今井聡東京・S2・113期",
+      "race_score": 98.26,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 2
+    }
+  ]
+}

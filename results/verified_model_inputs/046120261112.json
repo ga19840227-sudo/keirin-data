@@ -1,0 +1,136 @@
+{
+  "race_id": "046120261112",
+  "source_url": "https://keirinhex.jp/races/20261112/046120261112/",
+  "captured_jst": "2026-11-12T00:27:14.889563+09:00",
+  "start_jst": "2026-11-12T17:16:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5,
+      4
+    ],
+    [
+      3,
+      7,
+      2
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎田上晃也地元岡山・A3・115期",
+      "race_score": 79.0,
+      "running_style": "逃",
+      "win_rate_4m": 48.0,
+      "top2_rate_4m": 67.0,
+      "top3_rate_4m": 78.0,
+      "s_count": 7,
+      "h_count": 12,
+      "b_count": 12,
+      "nige_4m": 11,
+      "maku_4m": 4,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "坂本智哉地元岡山・A3・82期",
+      "race_score": 69.5,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "小磯知也徳島・A3・76期",
+      "race_score": 70.25,
+      "running_style": "追",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○榊枝天旺福島・A3・129期",
+      "race_score": 77.04,
+      "running_style": "逃",
+      "win_rate_4m": 42.0,
+      "top2_rate_4m": 63.0,
+      "top3_rate_4m": 67.0,
+      "s_count": 10,
+      "h_count": 13,
+      "b_count": 11,
+      "nige_4m": 8,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲中野良北海道・A3・83期",
+      "race_score": 72.55,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 34.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 5
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆木下章長野・A3・61期",
+      "race_score": 68.87,
+      "running_style": "両",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆久保将史神奈川・A3・95期",
+      "race_score": 65.25,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 10.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    }
+  ]
+}

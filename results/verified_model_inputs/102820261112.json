@@ -1,0 +1,172 @@
+{
+  "race_id": "102820261112",
+  "source_url": "https://keirinhex.jp/races/20261112/102820261112/",
+  "captured_jst": "2026-11-12T00:28:43.011584+09:00",
+  "start_jst": "2026-11-12T15:13:00+09:00",
+  "line_groups": [
+    [
+      1,
+      9
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      7,
+      2,
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "▲伊藤信大阪・S1・92期",
+      "race_score": 105.77,
+      "running_style": "逃",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 2,
+      "h_count": 1,
+      "b_count": 2,
+      "nige_4m": 2,
+      "maku_4m": 9,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 9,
+      "player_name_raw": "☆三谷政史奈良・S2・93期",
+      "race_score": 97.42,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆森山智徳熊本・S2・98期",
+      "race_score": 96.63,
+      "running_style": "両",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 6,
+      "h_count": 7,
+      "b_count": 8,
+      "nige_4m": 3,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆田中誠福岡・S1・89期",
+      "race_score": 101.0,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "中島竜誠山梨・S2・125期",
+      "race_score": 91.35,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 0,
+      "h_count": 8,
+      "b_count": 7,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 8,
+      "player_name_raw": "小榑佑弥群馬・S2・121期",
+      "race_score": 93.76,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 11.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎日高裕太静岡・S2・121期",
+      "race_score": 102.18,
+      "running_style": "逃",
+      "win_rate_4m": 42.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 4,
+      "h_count": 13,
+      "b_count": 12,
+      "nige_4m": 8,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○松坂洋平神奈川・S1・89期",
+      "race_score": 105.19,
+      "running_style": "両",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "荒澤貴史北海道・S2・85期",
+      "race_score": 100.18,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 3
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "race_id": "022520261112",
+  "source_url": "https://keirinhex.jp/races/20261112/022520261112/",
+  "captured_jst": "2026-11-12T00:26:22.424604+09:00",
+  "start_jst": "2026-11-12T09:10:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2,
+      6,
+      7,
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "松尾正人熊本・A3・66期",
+      "race_score": 66.84,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 9.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎松本一成新潟・A3・77期",
+      "race_score": 69.63,
+      "running_style": "逃",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 3,
+      "h_count": 7,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "○長岡豪群馬・A3・91期",
+      "race_score": 65.34,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 10.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲亀井道佳宮城・A3・83期",
+      "race_score": 68.13,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 21.0,
+      "s_count": 9,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "光畑政志岡山・A3・84期",
+      "race_score": 68.85,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆赤星俊光熊本・A3・86期",
+      "race_score": 65.77,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 15.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆檀雄二福岡・A3・66期",
+      "race_score": 68.68,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "074620261112",
+  "source_url": "https://keirinhex.jp/races/20261112/074620261112/",
+  "captured_jst": "2026-11-12T00:27:58.976340+09:00",
+  "start_jst": "2026-11-12T13:50:00+09:00",
+  "line_groups": [
+    [
+      2,
+      7,
+      3
+    ],
+    [
+      5,
+      4,
+      1
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "○末廣快理兵庫・A2・121期",
+      "race_score": 89.91,
+      "running_style": "逃",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 45.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 12,
+      "h_count": 11,
+      "b_count": 11,
+      "nige_4m": 4,
+      "maku_4m": 4,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎橋本英也岐阜・A1・113期",
+      "race_score": 92.44,
+      "running_style": "逃",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲小林信晴愛知・A1・83期",
+      "race_score": 89.23,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆金野俊秋千葉・A1・92期",
+      "race_score": 88.45,
+      "running_style": "両",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 53.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 7,
+      "h_count": 2,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 7,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆工藤政志青森・A2・84期",
+      "race_score": 84.3,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 4
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "宮澤晃山梨・A2・75期",
+      "race_score": 80.27,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "伊藤一貴栃木・A2・72期",
+      "race_score": 78.08,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 3.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    }
+  ]
+}

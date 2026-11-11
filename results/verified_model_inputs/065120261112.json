@@ -1,0 +1,136 @@
+{
+  "race_id": "065120261112",
+  "source_url": "https://keirinhex.jp/races/20261112/065120261112/",
+  "captured_jst": "2026-11-12T00:27:48.094823+09:00",
+  "start_jst": "2026-11-12T13:06:00+09:00",
+  "line_groups": [
+    [
+      4,
+      1,
+      3
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      2,
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 4,
+      "player_name_raw": "☆上杉嘉槻地元福井・S2・119期",
+      "race_score": 94.03,
+      "running_style": "逃",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 20.0,
+      "s_count": 0,
+      "h_count": 18,
+      "b_count": 14,
+      "nige_4m": 2,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲合志正臣熊本・S2・81期",
+      "race_score": 97.08,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆島田竜二熊本・S2・76期",
+      "race_score": 92.96,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 8.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "吉田裕全埼玉・S2・90期",
+      "race_score": 90.0,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎佐々木亮太青森・S2・125期",
+      "race_score": 97.0,
+      "running_style": "逃",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 1,
+      "h_count": 18,
+      "b_count": 16,
+      "nige_4m": 4,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○明田春喜北海道・S2・89期",
+      "race_score": 95.87,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "金成和幸福島・S2・88期",
+      "race_score": 95.2,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 5.0,
+      "top3_rate_4m": 18.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "075120261112",
+  "source_url": "https://keirinhex.jp/races/20261112/075120261112/",
+  "captured_jst": "2026-11-12T00:28:05.480652+09:00",
+  "start_jst": "2026-11-12T13:32:00+09:00",
+  "line_groups": [
+    [
+      2,
+      7,
+      5
+    ],
+    [
+      3
+    ],
+    [
+      6,
+      4,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "◎稲毛知也和歌山・S2・123期",
+      "race_score": 98.04,
+      "running_style": "逃",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 6,
+      "h_count": 10,
+      "b_count": 14,
+      "nige_4m": 4,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲山口泰生岐阜・S2・89期",
+      "race_score": 94.16,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 15.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "谷田泰平岐阜・S2・93期",
+      "race_score": 93.63,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 9.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "野村典嗣愛媛・S2・109期",
+      "race_score": 95.03,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 5.0,
+      "top3_rate_4m": 11.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆邊見光輝福島・S2・119期",
+      "race_score": 90.78,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 7.0,
+      "s_count": 0,
+      "h_count": 10,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○庄子信弘宮城・S2・84期",
+      "race_score": 100.06,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "☆稲葉一真静岡・S2・100期",
+      "race_score": 97.92,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    }
+  ]
+}
