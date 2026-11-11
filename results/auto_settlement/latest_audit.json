@@ -1,12 +1,10 @@
 {
-  "checked_at_jst": "2026-11-12T00:29:22.606027+09:00",
-  "checked": 2,
-  "settled": 1,
+  "checked_at_jst": "2026-11-12T01:25:07.710367+09:00",
+  "checked": 1,
+  "settled": 0,
   "pending": [
     "018420261110"
   ],
   "errors": [],
-  "payout_missing": [
-    "094720261111"
-  ]
+  "payout_missing": []
 }
