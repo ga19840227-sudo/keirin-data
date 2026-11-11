@@ -1,4 +1,4 @@
-"""Date holdout comparison: existing production heuristic vs experimental sashi/makuri.
+"""Automated date holdout comparison: existing production heuristic vs experimental sashi/makuri.
 Train/tuning cutoff 2026-11-10; 2026-11-11 held out. No parameter fitting on holdout.
 """
 import json,sys
