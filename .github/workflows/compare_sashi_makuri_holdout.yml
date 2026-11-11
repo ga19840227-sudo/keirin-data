@@ -1,0 +1,28 @@
+name: 番手差し捲りモデル日付別検証
+on:
+  push:
+    paths:
+      - scripts/compare_sashi_makuri_holdout.py
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python scripts/compare_sashi_makuri_holdout.py
+      - name: Save holdout comparison
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f results/prediction_accuracy/sashi_makuri_holdout.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Save sashi/makuri holdout results"
+            git fetch origin main
+            git rebase -X theirs origin/main
+            git push origin HEAD:main
+          fi
