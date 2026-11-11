@@ -18,7 +18,7 @@ def number(r,key):
     if key not in r or r[key] is None:raise ValueError("missing rider field "+key)
     return float(r[key])
 
-def forecast(data, scenario=True):
+def forecast(data, scenario=True, variant="current"):
     if timestamp(data["captured_jst"])>=timestamp(data["start_jst"]):
         raise ValueError("snapshot was not captured before start")
     riders=data["riders"];nums=[int(r["banum"]) for r in riders]
@@ -49,6 +49,17 @@ def forecast(data, scenario=True):
         second_effect=(.13+.004*number(leader,"race_score")-.32) if second else 0
         solo_effect=-.10 if sz==1 and data.get("line_status")!="no_fixed_lines_girls" else 0
         strength[n]=base+leader_effect+chase+second_effect+solo_effect
+    # Experimental alternative: reward documented sashi/mark ability of second
+    # riders and makuri ability of leaders, without consulting race outcomes.
+    # Coefficients are hypotheses, not calibrated probabilities.
+    if variant=="sashi_makuri_v1":
+        for n,r in bynum.items():
+            gi,pi,sz=positions[n]
+            if pi==1:
+                strength[n]+=.028*number(r,"sashi_4m")+.014*number(r,"mark_4m")
+            if pi==0:
+                strength[n]+=.016*number(r,"maku_4m")
+                strength[n]-=.006*max(0,number(r,"b_count")-8)
     # Sequential Plackett-Luce: first, second and third are conditional draws.
     # The previous product weights were symmetric and could not meaningfully
     # distinguish a-b from b-a except for a small line bonus.
@@ -79,6 +90,12 @@ def forecast(data, scenario=True):
                 synergy*=1.08  # attacking line's makuri
             if ga==gc and pc==2:
                 synergy*=1.08  # third rider stays with winning line
+        if variant=="sashi_makuri_v1" and not girls:
+            ga,pa,_=positions[a];gb,pb,_=positions[b]
+            if ga==gb and pa==1 and pb==0:
+                synergy*=1.20
+            if ga!=gb and pa==0 and number(bynum[a],"maku_4m")>=5:
+                synergy*=1.12
         triples[(a,b,c)]=first*second*third*synergy
     total=sum(triples.values())
     probs={k:v/total for k,v in triples.items()}
@@ -99,7 +116,7 @@ def forecast(data, scenario=True):
                       "cost_yen":100*len(tickets),"hit_probability_uncalibrated":round(sum(ticket_probs),6),
                       "expected_return_ratio_uncalibrated":round(ev,5) if ev is not None else None})
     top_triples=sorted(probs,key=lambda t:(-probs[t],t))[:20]
-    return {"race_id":data["race_id"],"status":"HEURISTIC_NOT_VALIDATED","model_version":"scenario_order_v1",
+    return {"race_id":data["race_id"],"status":"HEURISTIC_NOT_VALIDATED","model_version":"sashi_makuri_v1" if variant=="sashi_makuri_v1" else "scenario_order_v1",
             "top_trifecta":[{"combination":list(t),"uncalibrated_probability":round(probs[t],7)} for t in top_triples],
             "line_groups":groups,"predicted_first_second":[{"pair":list(p),"uncalibrated_probability":round(pairs[p],6)} for p in ranked[:10]],
             "plans":plans,"warning":"Illustrative integrated model; probabilities and EV must be calibrated and tested on genuine pre-race snapshots."}
