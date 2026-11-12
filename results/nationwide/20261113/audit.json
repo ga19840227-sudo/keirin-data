@@ -1,0 +1,17 @@
+{
+  "date": "20261113",
+  "retrieved_jst": "2026-11-13T01:16:56.161024+09:00",
+  "source": "https://keirinhex.jp",
+  "listed": 0,
+  "checked": 0,
+  "result_confirmed": 0,
+  "pending": [],
+  "errors": [
+    {
+      "stage": "index",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "official_payout_confirmed": 0,
+  "warning": "Archived results only; not a pre-race model backtest."
+}
