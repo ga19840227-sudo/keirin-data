@@ -4,6 +4,7 @@ on:
     paths:
       - scripts/collect_postrace_results.py
       - .github/workflows/collect_postrace_results.yml
+      - scripts/daily_learning_review.py
   workflow_dispatch:
   schedule:
     - cron: '*/15 * * * *'
@@ -24,6 +25,8 @@ jobs:
       - run: |
           python scripts/collect_postrace_results.py
           python scripts/evaluate_prediction_accuracy.py
+          python scripts/diagnose_keirin_results.py
+          python scripts/daily_learning_review.py
       - name: Save audit and results
         run: |
           git config user.name "github-actions[bot]"
