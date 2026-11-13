@@ -1,0 +1,140 @@
+{
+  "race_id": "056120261114",
+  "source_url": "https://keirinhex.jp/races/20261114/056120261114/",
+  "captured_jst": "2026-11-14T00:25:10.717852+09:00",
+  "start_jst": "2026-11-14T17:43:00+09:00",
+  "line_groups": [
+    [
+      2,
+      7
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "○眞砂英作香川・A2・121期",
+      "race_score": 83.46,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 5,
+      "h_count": 10,
+      "b_count": 8,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "甲斐下智広島・A2・64期",
+      "race_score": 78.0,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 3.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "◎甲斐康昭群馬・A2・89期",
+      "race_score": 85.28,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲山崎敦雄静岡・A1・70期",
+      "race_score": 85.38,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 5
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "山田和巧神奈川・A2・87期",
+      "race_score": 82.62,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 17.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆勝部貴博福岡・A2・105期",
+      "race_score": 77.2,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 13.0,
+      "s_count": 0,
+      "h_count": 7,
+      "b_count": 6,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "☆田中孝法福岡・A2・91期",
+      "race_score": 79.36,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 21.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    }
+  ]
+}

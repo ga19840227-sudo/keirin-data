@@ -1,0 +1,136 @@
+{
+  "race_id": "034220261114",
+  "source_url": "https://keirinhex.jp/races/20261114/034220261114/",
+  "captured_jst": "2026-11-14T00:24:36.838795+09:00",
+  "start_jst": "2026-11-14T21:30:00+09:00",
+  "line_groups": [
+    [
+      1,
+      3
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      7,
+      5,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎尾崎悠生埼玉・A1・113期",
+      "race_score": 88.74,
+      "running_style": "逃",
+      "win_rate_4m": 43.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 0,
+      "h_count": 12,
+      "b_count": 9,
+      "nige_4m": 7,
+      "maku_4m": 7,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○原田泰志新潟・A1・91期",
+      "race_score": 86.54,
+      "running_style": "追",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 9,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆吉田篤史奈良・A2・109期",
+      "race_score": 85.66,
+      "running_style": "両",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 5,
+      "h_count": 8,
+      "b_count": 9,
+      "nige_4m": 3,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲玉手翔兵庫・A1・91期",
+      "race_score": 87.62,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆山田純也岐阜・A2・99期",
+      "race_score": 78.95,
+      "running_style": "両",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 1,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "後藤彰仁岐阜・A2・92期",
+      "race_score": 84.95,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 17.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "加藤正法地元愛知・A2・96期",
+      "race_score": 79.91,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 15.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    }
+  ]
+}

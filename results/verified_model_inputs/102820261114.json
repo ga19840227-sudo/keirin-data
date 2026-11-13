@@ -1,0 +1,172 @@
+{
+  "race_id": "102820261114",
+  "source_url": "https://keirinhex.jp/races/20261114/102820261114/",
+  "captured_jst": "2026-11-14T00:26:07.980251+09:00",
+  "start_jst": "2026-11-14T15:19:00+09:00",
+  "line_groups": [
+    [
+      3,
+      7,
+      5
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      8
+    ],
+    [
+      9,
+      1,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "☆渡邉雄太静岡・S2・105期",
+      "race_score": 103.96,
+      "running_style": "両",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 39.0,
+      "top3_rate_4m": 61.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 6,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲堀内俊介神奈川・S2・107期",
+      "race_score": 102.65,
+      "running_style": "両",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "佐藤和也青森・S1・95期",
+      "race_score": 105.95,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 10,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆安倍大成埼玉・S2・121期",
+      "race_score": 101.79,
+      "running_style": "逃",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 7,
+      "h_count": 12,
+      "b_count": 12,
+      "nige_4m": 4,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆武田豊樹茨城・S1・88期",
+      "race_score": 103.0,
+      "running_style": "追",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 9,
+      "mark_4m": 1
+    },
+    {
+      "banum": 8,
+      "player_name_raw": "友定祐己岡山・S2・82期",
+      "race_score": 100.36,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 5
+    },
+    {
+      "banum": 9,
+      "player_name_raw": "◎吉田有希岐阜・S1・119期",
+      "race_score": 106.77,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 1,
+      "h_count": 10,
+      "b_count": 11,
+      "nige_4m": 7,
+      "maku_4m": 4,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○岡本総愛知・S1・105期",
+      "race_score": 106.76,
+      "running_style": "追",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "伊藤正樹愛知・S2・71期",
+      "race_score": 100.13,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 3
+    }
+  ]
+}

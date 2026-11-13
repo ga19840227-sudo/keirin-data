@@ -1,0 +1,138 @@
+{
+  "race_id": "012820261114",
+  "source_url": "https://keirinhex.jp/races/20261114/012820261114/",
+  "captured_jst": "2026-11-14T00:23:59.302351+09:00",
+  "start_jst": "2026-11-14T11:05:00+09:00",
+  "line_groups": [
+    [
+      2,
+      7
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      4
+    ],
+    [
+      5,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "小榑佑弥群馬・S2・121期",
+      "race_score": 93.76,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 11.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆松永将茨城・S2・89期",
+      "race_score": 99.65,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲原田翔真和歌山・S2・121期",
+      "race_score": 98.38,
+      "running_style": "逃",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 2,
+      "h_count": 11,
+      "b_count": 8,
+      "nige_4m": 3,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆内山貴裕京都・S2・95期",
+      "race_score": 93.22,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 4.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "高橋広大埼玉・S2・99期",
+      "race_score": 98.35,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎立部楓真佐賀・S1・115期",
+      "race_score": 103.5,
+      "running_style": "逃",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 2,
+      "h_count": 11,
+      "b_count": 11,
+      "nige_4m": 3,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○坂本亮馬福岡・S2・90期",
+      "race_score": 97.65,
+      "running_style": "追",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    }
+  ]
+}

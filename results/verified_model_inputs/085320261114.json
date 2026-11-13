@@ -1,0 +1,136 @@
+{
+  "race_id": "085320261114",
+  "source_url": "https://keirinhex.jp/races/20261114/085320261114/",
+  "captured_jst": "2026-11-14T00:25:52.646881+09:00",
+  "start_jst": "2026-11-14T23:00:00+09:00",
+  "line_groups": [
+    [
+      1,
+      2,
+      4,
+      7
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎杉浦颯太栃木・A2・127期",
+      "race_score": 94.31,
+      "running_style": "逃",
+      "win_rate_4m": 65.0,
+      "top2_rate_4m": 90.0,
+      "top3_rate_4m": 90.0,
+      "s_count": 2,
+      "h_count": 13,
+      "b_count": 15,
+      "nige_4m": 12,
+      "maku_4m": 6,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○伊藤亮埼玉・A1・92期",
+      "race_score": 90.38,
+      "running_style": "追",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 10,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲中西司神奈川・A2・95期",
+      "race_score": 83.38,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 5
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "佐藤明静岡・A2・77期",
+      "race_score": 81.48,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆岩原健馬愛知・A2・127期",
+      "race_score": 82.66,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 1,
+      "h_count": 12,
+      "b_count": 9,
+      "nige_4m": 2,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆山田雅之岐阜・A2・72期",
+      "race_score": 85.72,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "門脇翼秋田・A2・111期",
+      "race_score": 82.09,
+      "running_style": "両",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 21.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    }
+  ]
+}

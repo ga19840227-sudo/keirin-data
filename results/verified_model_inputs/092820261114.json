@@ -1,0 +1,172 @@
+{
+  "race_id": "092820261114",
+  "source_url": "https://keirinhex.jp/races/20261114/092820261114/",
+  "captured_jst": "2026-11-14T00:25:57.137787+09:00",
+  "start_jst": "2026-11-14T14:50:00+09:00",
+  "line_groups": [
+    [
+      3,
+      9,
+      6
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      7,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "◎篠田幸希群馬・S1・123期",
+      "race_score": 107.65,
+      "running_style": "逃",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 6,
+      "h_count": 6,
+      "b_count": 7,
+      "nige_4m": 5,
+      "maku_4m": 6,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 9,
+      "player_name_raw": "○宿口潤平埼玉・S2・91期",
+      "race_score": 100.56,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 49.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "福田滉栃木・S2・115期",
+      "race_score": 98.05,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "伊藤裕貴三重・S2・100期",
+      "race_score": 98.58,
+      "running_style": "両",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 7,
+      "h_count": 3,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 8,
+      "player_name_raw": "中川勝貴福井・S2・109期",
+      "race_score": 98.33,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆久島尚樹宮崎・S2・100期",
+      "race_score": 104.2,
+      "running_style": "両",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 4
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲松岡貴久熊本・S1・90期",
+      "race_score": 104.16,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆太田竜馬徳島・S1・109期",
+      "race_score": 105.41,
+      "running_style": "逃",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 4,
+      "h_count": 4,
+      "b_count": 6,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "☆香川雄介香川・S1・76期",
+      "race_score": 104.52,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    }
+  ]
+}

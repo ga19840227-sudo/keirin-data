@@ -1,0 +1,136 @@
+{
+  "race_id": "036120261114",
+  "source_url": "https://keirinhex.jp/races/20261114/036120261114/",
+  "captured_jst": "2026-11-14T00:24:41.135134+09:00",
+  "start_jst": "2026-11-14T16:55:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5,
+      7
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      4,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "▲大室翔地元岡山・A3・107期",
+      "race_score": 71.2,
+      "running_style": "逃",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 5,
+      "nige_4m": 3,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆高嶋一朗地元岡山・A3・62期",
+      "race_score": 69.11,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 4
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "小磯知也徳島・A3・76期",
+      "race_score": 70.25,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "◎阿部凪汰埼玉・A3・129期",
+      "race_score": 77.38,
+      "running_style": "逃",
+      "win_rate_4m": 41.0,
+      "top2_rate_4m": 62.0,
+      "top3_rate_4m": 79.0,
+      "s_count": 5,
+      "h_count": 11,
+      "b_count": 11,
+      "nige_4m": 6,
+      "maku_4m": 5,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆吉橋秀城埼玉・A3・85期",
+      "race_score": 69.29,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○大本隆也神奈川・A3・127期",
+      "race_score": 75.52,
+      "running_style": "逃",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 0,
+      "h_count": 12,
+      "b_count": 13,
+      "nige_4m": 7,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "奥山雅士静岡・A3・65期",
+      "race_score": 68.53,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 16.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    }
+  ]
+}

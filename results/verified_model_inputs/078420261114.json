@@ -1,0 +1,138 @@
+{
+  "race_id": "078420261114",
+  "source_url": "https://keirinhex.jp/races/20261114/078420261114/",
+  "captured_jst": "2026-11-14T00:25:43.688691+09:00",
+  "start_jst": "2026-11-14T10:50:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "○倉松涼高知・A3・117期",
+      "race_score": 74.19,
+      "running_style": "両",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 2,
+      "h_count": 2,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "吉田彰久香川・A3・80期",
+      "race_score": 70.5,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 11,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 4
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆吉松賢二群馬・A3・90期",
+      "race_score": 69.48,
+      "running_style": "両",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 49.0,
+      "s_count": 9,
+      "h_count": 13,
+      "b_count": 13,
+      "nige_4m": 9,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆齋藤昌太栃木・A3・93期",
+      "race_score": 69.8,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "小林大能千葉・A3・87期",
+      "race_score": 65.05,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎柳沼鼓太朗福島・A3・129期",
+      "race_score": 78.86,
+      "running_style": "逃",
+      "win_rate_4m": 42.0,
+      "top2_rate_4m": 65.0,
+      "top3_rate_4m": 77.0,
+      "s_count": 5,
+      "h_count": 4,
+      "b_count": 8,
+      "nige_4m": 3,
+      "maku_4m": 8,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲齊藤紳一朗青森・A3・82期",
+      "race_score": 70.18,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 20.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    }
+  ]
+}

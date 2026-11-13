@@ -1,0 +1,136 @@
+{
+  "race_id": "094220261114",
+  "source_url": "https://keirinhex.jp/races/20261114/094220261114/",
+  "captured_jst": "2026-11-14T00:26:01.471768+09:00",
+  "start_jst": "2026-11-14T23:30:00+09:00",
+  "line_groups": [
+    [
+      1,
+      2
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      5,
+      3,
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆福田拓也栃木・A1・100期",
+      "race_score": 95.27,
+      "running_style": "両",
+      "win_rate_4m": 33.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 67.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲小田倉勇二埼玉・A1・91期",
+      "race_score": 94.63,
+      "running_style": "両",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 57.0,
+      "top3_rate_4m": 74.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "志田愛希飛富山・A1・125期",
+      "race_score": 93.77,
+      "running_style": "逃",
+      "win_rate_4m": 37.0,
+      "top2_rate_4m": 53.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 0,
+      "h_count": 16,
+      "b_count": 19,
+      "nige_4m": 9,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "出口謙一郎岐阜・A1・123期",
+      "race_score": 92.71,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 0,
+      "h_count": 8,
+      "b_count": 8,
+      "nige_4m": 5,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎菅野航基宮城・A1・119期",
+      "race_score": 93.56,
+      "running_style": "逃",
+      "win_rate_4m": 41.0,
+      "top2_rate_4m": 59.0,
+      "top3_rate_4m": 67.0,
+      "s_count": 9,
+      "h_count": 12,
+      "b_count": 12,
+      "nige_4m": 9,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○山田敦也北海道・A1・88期",
+      "race_score": 94.42,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 73.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 7
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆小埜正義千葉・A1・88期",
+      "race_score": 91.08,
+      "running_style": "追",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 4
+    }
+  ]
+}

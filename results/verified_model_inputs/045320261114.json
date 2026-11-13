@@ -1,0 +1,138 @@
+{
+  "race_id": "045320261114",
+  "source_url": "https://keirinhex.jp/races/20261114/045320261114/",
+  "captured_jst": "2026-11-14T00:24:53.917466+09:00",
+  "start_jst": "2026-11-14T21:40:00+09:00",
+  "line_groups": [
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎福田海響東京・A3・129期",
+      "race_score": 80.77,
+      "running_style": "逃",
+      "win_rate_4m": 67.0,
+      "top2_rate_4m": 86.0,
+      "top3_rate_4m": 100.0,
+      "s_count": 9,
+      "h_count": 15,
+      "b_count": 18,
+      "nige_4m": 14,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○藤野竜也栃木・A3・117期",
+      "race_score": 75.03,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 60.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲今村俊雄山梨・A3・99期",
+      "race_score": 70.92,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆花田雄飛愛知・A3・127期",
+      "race_score": 73.0,
+      "running_style": "逃",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 47.0,
+      "top3_rate_4m": 66.0,
+      "s_count": 2,
+      "h_count": 15,
+      "b_count": 15,
+      "nige_4m": 9,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆樫村伸平兵庫・A3・99期",
+      "race_score": 69.91,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "吉原友彦神奈川・A3・83期",
+      "race_score": 69.53,
+      "running_style": "両",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "梶山大輔神奈川・A3・76期",
+      "race_score": 63.9,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 7.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

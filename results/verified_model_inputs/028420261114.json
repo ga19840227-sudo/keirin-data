@@ -1,0 +1,136 @@
+{
+  "race_id": "028420261114",
+  "source_url": "https://keirinhex.jp/races/20261114/028420261114/",
+  "captured_jst": "2026-11-14T00:24:28.350719+09:00",
+  "start_jst": "2026-11-14T09:10:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4,
+      6
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      7,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎宮本寛大熊本・A3・129期",
+      "race_score": 75.42,
+      "running_style": "逃",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 6,
+      "h_count": 8,
+      "b_count": 8,
+      "nige_4m": 3,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○宮本龍一福岡・A3・92期",
+      "race_score": 72.64,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 39.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 13,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 4
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "川添輝彦沖縄・A3・56期",
+      "race_score": 65.94,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 17.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲山田祐太福島・A3・113期",
+      "race_score": 72.14,
+      "running_style": "逃",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 60.0,
+      "s_count": 2,
+      "h_count": 13,
+      "b_count": 14,
+      "nige_4m": 8,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "煤賀隆幸秋田・A3・75期",
+      "race_score": 69.61,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆伊藤之人東京・A3・90期",
+      "race_score": 70.93,
+      "running_style": "両",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 55.0,
+      "s_count": 10,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆天沼雅貴埼玉・A3・96期",
+      "race_score": 69.56,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 18.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    }
+  ]
+}

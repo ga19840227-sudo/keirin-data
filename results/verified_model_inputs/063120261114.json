@@ -1,0 +1,144 @@
+{
+  "race_id": "063120261114",
+  "source_url": "https://keirinhex.jp/races/20261114/063120261114/",
+  "captured_jst": "2026-11-14T00:25:17.312313+09:00",
+  "start_jst": "2026-11-14T10:40:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "no_fixed_lines_girls",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "▲増茂るるこ東京・L1・102期",
+      "race_score": 52.28,
+      "running_style": "両",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 5,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 3
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎緒方詩央里福岡・L1・130期",
+      "race_score": 54.18,
+      "running_style": "両",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 3,
+      "h_count": 9,
+      "b_count": 14,
+      "nige_4m": 4,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆小林真矢香石川・L1・122期",
+      "race_score": 51.75,
+      "running_style": "両",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 4,
+      "h_count": 4,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○山田南地元千葉・L1・130期",
+      "race_score": 54.6,
+      "running_style": "両",
+      "win_rate_4m": 35.0,
+      "top2_rate_4m": 59.0,
+      "top3_rate_4m": 76.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 3,
+      "nige_4m": 3,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "成海綾香沖縄・L1・128期",
+      "race_score": 50.29,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 21.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆小泉夢菜埼玉・L1・122期",
+      "race_score": 52.33,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "蛯原杏奈北海道・L1・120期",
+      "race_score": 49.33,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    }
+  ]
+}

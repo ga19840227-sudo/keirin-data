@@ -1,0 +1,136 @@
+{
+  "race_id": "038420261114",
+  "source_url": "https://keirinhex.jp/races/20261114/038420261114/",
+  "captured_jst": "2026-11-14T00:24:43.213545+09:00",
+  "start_jst": "2026-11-14T09:30:00+09:00",
+  "line_groups": [
+    [
+      2,
+      6,
+      1
+    ],
+    [
+      4,
+      5,
+      3
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "島田茂希北海道・A3・92期",
+      "race_score": 68.66,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 3,
+      "h_count": 17,
+      "b_count": 14,
+      "nige_4m": 5,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "桂馬将人福島・A3・89期",
+      "race_score": 68.47,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "丸林一孝福岡・A3・81期",
+      "race_score": 69.75,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎山本真神奈川・A3・129期",
+      "race_score": 77.9,
+      "running_style": "逃",
+      "win_rate_4m": 50.0,
+      "top2_rate_4m": 54.0,
+      "top3_rate_4m": 71.0,
+      "s_count": 1,
+      "h_count": 7,
+      "b_count": 3,
+      "nige_4m": 3,
+      "maku_4m": 7,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○櫻川雅彦千葉・A3・99期",
+      "race_score": 72.4,
+      "running_style": "追",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 11,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲藤田晃英千葉・A3・76期",
+      "race_score": 69.62,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆吉成晃一熊本・A3・92期",
+      "race_score": 71.0,
+      "running_style": "両",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 0,
+      "h_count": 3,
+      "b_count": 3,
+      "nige_4m": 3,
+      "maku_4m": 4,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    }
+  ]
+}
