@@ -1,14 +1,11 @@
 {
   "date": "20261113",
-  "retrieved_jst": "2026-11-13T23:26:25.595181+09:00",
+  "retrieved_jst": "2026-11-14T01:02:12.143227+09:00",
   "source": "https://keirinhex.jp",
   "listed": 72,
-  "checked": 72,
-  "result_confirmed": 68,
+  "checked": 4,
+  "result_confirmed": 71,
   "pending": [
-    "084720261113",
-    "094720261113",
-    "098520261113",
     "114820261113"
   ],
   "errors": [],
