@@ -1,0 +1,136 @@
+{
+  "race_id": "106120261113",
+  "source_url": "https://keirinhex.jp/races/20261113/106120261113/",
+  "captured_jst": "2026-11-13T19:04:06.833680+09:00",
+  "start_jst": "2026-11-13T19:47:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2,
+      7,
+      4
+    ],
+    [
+      3,
+      5,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "江守昇千葉・A1・73期",
+      "race_score": 92.55,
+      "running_style": "追",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 68.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "吉田智哉愛媛・A1・111期",
+      "race_score": 94.75,
+      "running_style": "逃",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 68.0,
+      "s_count": 6,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 4,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "守安政雄地元岡山・A2・94期",
+      "race_score": 84.22,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "江連和洋栃木・A1・76期",
+      "race_score": 85.57,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "野津宏介福岡・A2・127期",
+      "race_score": 86.19,
+      "running_style": "逃",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 55.0,
+      "s_count": 8,
+      "h_count": 17,
+      "b_count": 16,
+      "nige_4m": 5,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "池田浩士佐賀・A2・86期",
+      "race_score": 85.58,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "園田鉄兵熊本・A2・93期",
+      "race_score": 82.17,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    }
+  ]
+}

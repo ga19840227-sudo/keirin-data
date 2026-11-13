@@ -1,0 +1,136 @@
+{
+  "race_id": "074720261113",
+  "source_url": "https://keirinhex.jp/races/20261113/074720261113/",
+  "captured_jst": "2026-11-13T19:03:37.419844+09:00",
+  "start_jst": "2026-11-13T22:50:00+09:00",
+  "line_groups": [
+    [
+      2,
+      1
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      7,
+      4,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "平根優大福島・A2・125期",
+      "race_score": 91.04,
+      "running_style": "逃",
+      "win_rate_4m": 35.0,
+      "top2_rate_4m": 58.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 10,
+      "h_count": 11,
+      "b_count": 14,
+      "nige_4m": 9,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "金澤幸司福島・A1・91期",
+      "race_score": 93.47,
+      "running_style": "追",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 45.0,
+      "top3_rate_4m": 55.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "鈴木小次廊静岡・A2・127期",
+      "race_score": 86.62,
+      "running_style": "逃",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 13,
+      "h_count": 12,
+      "b_count": 10,
+      "nige_4m": 7,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "水書義弘千葉・A2・75期",
+      "race_score": 84.72,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "岩城佑典愛知・A2・119期",
+      "race_score": 82.16,
+      "running_style": "逃",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 6,
+      "h_count": 4,
+      "b_count": 5,
+      "nige_4m": 0,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "原真司岐阜・A1・86期",
+      "race_score": 87.54,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 37.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 5
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "川木敬大兵庫・A1・84期",
+      "race_score": 87.62,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 62.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 3
+    }
+  ]
+}

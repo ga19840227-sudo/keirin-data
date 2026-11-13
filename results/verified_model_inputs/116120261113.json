@@ -1,0 +1,136 @@
+{
+  "race_id": "116120261113",
+  "source_url": "https://keirinhex.jp/races/20261113/116120261113/",
+  "captured_jst": "2026-11-13T19:04:11.340738+09:00",
+  "start_jst": "2026-11-13T20:15:00+09:00",
+  "line_groups": [
+    [
+      1,
+      7,
+      5
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      4,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "三木健正地元岡山・A1・125期",
+      "race_score": 82.58,
+      "running_style": "逃",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 5,
+      "h_count": 12,
+      "b_count": 10,
+      "nige_4m": 4,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "滝本泰行地元岡山・A1・107期",
+      "race_score": 93.2,
+      "running_style": "両",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 68.0,
+      "s_count": 10,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 7,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "中石昌芳広島・A1・81期",
+      "race_score": 89.76,
+      "running_style": "追",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 4
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "八谷誠賢福岡・A1・77期",
+      "race_score": 90.61,
+      "running_style": "逃",
+      "win_rate_4m": 36.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 6,
+      "h_count": 3,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 5,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "茅野寛史鹿児島・A1・99期",
+      "race_score": 81.84,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 2,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "小林申太茨城・A2・101期",
+      "race_score": 85.96,
+      "running_style": "両",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 3,
+      "h_count": 8,
+      "b_count": 11,
+      "nige_4m": 6,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "寺沼伊織東京・A1・115期",
+      "race_score": 92.16,
+      "running_style": "両",
+      "win_rate_4m": 40.0,
+      "top2_rate_4m": 52.0,
+      "top3_rate_4m": 68.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 2
+    }
+  ]
+}
