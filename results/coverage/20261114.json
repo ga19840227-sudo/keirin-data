@@ -1,8 +1,8 @@
 {
   "date": "20261114",
   "indexed_races": 67,
-  "visited_in_latest_run": 67,
-  "latest_run_new_snapshots": 67,
+  "visited_in_latest_run": 1,
+  "latest_run_new_snapshots": 1,
   "verified_snapshots": 67,
   "complete_rider_inputs": 62,
   "six_scenario_forecasts": 62,
