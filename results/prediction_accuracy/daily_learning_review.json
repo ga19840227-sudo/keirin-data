@@ -1,14 +1,14 @@
 {
-  "generated_jst": "2026-11-14T17:58:44.965681+09:00",
+  "generated_jst": "2026-11-14T18:39:26.028231+09:00",
   "last_7_days": {
     "20261114": {
-      "races": 33,
+      "races": 36,
       "old_top1": 3,
       "old_top5": 7,
-      "old_top10": 8,
+      "old_top10": 10,
       "experimental_top1": 2,
       "experimental_top5": 6,
-      "experimental_top10": 9,
+      "experimental_top10": 10,
       "pair_top1": 9,
       "errors": [],
       "miss_examples": [
@@ -481,13 +481,13 @@
           ]
         }
       ],
-      "old_top1_rate": 0.0909,
-      "old_top5_rate": 0.2121,
-      "old_top10_rate": 0.2424,
-      "experimental_top1_rate": 0.0606,
-      "experimental_top5_rate": 0.1818,
-      "experimental_top10_rate": 0.2727,
-      "pair_top1_rate": 0.2727
+      "old_top1_rate": 0.0833,
+      "old_top5_rate": 0.1944,
+      "old_top10_rate": 0.2778,
+      "experimental_top1_rate": 0.0556,
+      "experimental_top5_rate": 0.1667,
+      "experimental_top10_rate": 0.2778,
+      "pair_top1_rate": 0.25
     },
     "20261113": {
       "races": 24,
