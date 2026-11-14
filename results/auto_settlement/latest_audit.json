@@ -1,10 +1,10 @@
 {
-  "checked_at_jst": "2026-11-15T07:59:53.012207+09:00",
-  "checked": 1,
+  "checked_at_jst": "2026-11-15T08:30:11.132742+09:00",
+  "checked": 0,
   "settled": 0,
-  "pending": [
-    "114820261113"
+  "pending": [],
+  "errors": [
+    "robots: <urlopen error [Errno 110] Connection timed out>"
   ],
-  "errors": [],
   "payout_missing": []
 }
