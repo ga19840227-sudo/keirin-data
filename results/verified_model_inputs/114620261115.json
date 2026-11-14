@@ -1,0 +1,138 @@
+{
+  "race_id": "114620261115",
+  "source_url": "https://keirinhex.jp/races/20261115/114620261115/",
+  "captured_jst": "2026-11-15T08:42:39.535188+09:00",
+  "start_jst": "2026-11-15T15:27:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆齋藤雄行神奈川・S2・121期",
+      "race_score": 98.06,
+      "running_style": "逃",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 0,
+      "h_count": 10,
+      "b_count": 12,
+      "nige_4m": 3,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆近藤俊明神奈川・S2・87期",
+      "race_score": 98.37,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "河崎正晴熊本・S2・121期",
+      "race_score": 95.5,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 1,
+      "h_count": 5,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲瓜生崇智熊本・S2・109期",
+      "race_score": 102.25,
+      "running_style": "追",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 45.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 14,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 9,
+      "mark_4m": 4
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "小林令山梨・S2・109期",
+      "race_score": 94.11,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 10.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎木村佑来宮城・S2・119期",
+      "race_score": 104.42,
+      "running_style": "逃",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 52.0,
+      "top3_rate_4m": 66.0,
+      "s_count": 13,
+      "h_count": 17,
+      "b_count": 17,
+      "nige_4m": 8,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○大森慶一北海道・S2・88期",
+      "race_score": 105.07,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 55.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 17,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 7,
+      "mark_4m": 7
+    }
+  ]
+}

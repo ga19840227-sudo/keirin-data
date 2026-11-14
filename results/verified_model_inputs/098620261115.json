@@ -1,0 +1,136 @@
+{
+  "race_id": "098620261115",
+  "source_url": "https://keirinhex.jp/races/20261115/098620261115/",
+  "captured_jst": "2026-11-15T08:42:24.336729+09:00",
+  "start_jst": "2026-11-15T19:02:00+09:00",
+  "line_groups": [
+    [
+      3,
+      6
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      7,
+      1,
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "鈴木浩太千葉・S2・119期",
+      "race_score": 97.6,
+      "running_style": "逃",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 5,
+      "h_count": 18,
+      "b_count": 17,
+      "nige_4m": 8,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "花田将司千葉・S2・99期",
+      "race_score": 95.6,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 9,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○荒川達郎埼玉・S2・123期",
+      "race_score": 103.58,
+      "running_style": "逃",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 2,
+      "h_count": 12,
+      "b_count": 8,
+      "nige_4m": 4,
+      "maku_4m": 7,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆武藤篤弘埼玉・S2・95期",
+      "race_score": 101.48,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎平尾一晃長崎・S2・111期",
+      "race_score": 100.17,
+      "running_style": "逃",
+      "win_rate_4m": 36.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 19,
+      "h_count": 7,
+      "b_count": 6,
+      "nige_4m": 2,
+      "maku_4m": 12,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲牧剛央地元大分・S2・80期",
+      "race_score": 99.0,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆高木和仁福岡・S2・76期",
+      "race_score": 97.44,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    }
+  ]
+}

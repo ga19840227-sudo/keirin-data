@@ -1,0 +1,136 @@
+{
+  "race_id": "108620261115",
+  "source_url": "https://keirinhex.jp/races/20261115/108620261115/",
+  "captured_jst": "2026-11-15T08:42:32.928150+09:00",
+  "start_jst": "2026-11-15T19:26:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      5,
+      3,
+      6
+    ],
+    [
+      7,
+      2,
+      4
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆津村洸次郎福岡・S2・101期",
+      "race_score": 97.4,
+      "running_style": "両",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎林昌幸愛媛・S2・119期",
+      "race_score": 103.81,
+      "running_style": "逃",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 43.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 0,
+      "h_count": 14,
+      "b_count": 14,
+      "nige_4m": 8,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○掛水泰範高知・S2・98期",
+      "race_score": 103.57,
+      "running_style": "追",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "児玉慎一郎香川・S2・76期",
+      "race_score": 89.42,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲河合佑弥東京・S2・113期",
+      "race_score": 100.52,
+      "running_style": "逃",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 0,
+      "h_count": 7,
+      "b_count": 8,
+      "nige_4m": 3,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆内田英介東京・S2・91期",
+      "race_score": 97.09,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 24,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "松岡孔明熊本・S2・91期",
+      "race_score": 97.79,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 6,
+      "mark_4m": 0
+    }
+  ]
+}

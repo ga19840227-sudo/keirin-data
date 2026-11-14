@@ -1,0 +1,136 @@
+{
+  "race_id": "078420261115",
+  "source_url": "https://keirinhex.jp/races/20261115/078420261115/",
+  "captured_jst": "2026-11-15T08:42:00.353615+09:00",
+  "start_jst": "2026-11-15T10:50:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5
+    ],
+    [
+      6,
+      2,
+      4
+    ],
+    [
+      7,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎半田莉都熊本・A3・129期",
+      "race_score": 78.11,
+      "running_style": "逃",
+      "win_rate_4m": 42.0,
+      "top2_rate_4m": 63.0,
+      "top3_rate_4m": 84.0,
+      "s_count": 6,
+      "h_count": 6,
+      "b_count": 8,
+      "nige_4m": 6,
+      "maku_4m": 3,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆原司地元佐賀・A3・70期",
+      "race_score": 69.68,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆吉松賢二群馬・A3・90期",
+      "race_score": 69.48,
+      "running_style": "両",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 45.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 9,
+      "h_count": 13,
+      "b_count": 13,
+      "nige_4m": 9,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○中川拓也群馬・A3・94期",
+      "race_score": 75.04,
+      "running_style": "両",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 43.0,
+      "top3_rate_4m": 60.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 4,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "天沼雅貴埼玉・A3・96期",
+      "race_score": 69.56,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 21.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "野見泰要岡山・A3・101期",
+      "race_score": 71.51,
+      "running_style": "逃",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 49.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 2,
+      "h_count": 19,
+      "b_count": 18,
+      "nige_4m": 12,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲宮崎一彰高知・A3・99期",
+      "race_score": 77.31,
+      "running_style": "追",
+      "win_rate_4m": 36.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 64.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 7,
+      "mark_4m": 3
+    }
+  ]
+}

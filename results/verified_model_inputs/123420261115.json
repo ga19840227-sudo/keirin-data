@@ -1,0 +1,136 @@
+{
+  "race_id": "123420261115",
+  "source_url": "https://keirinhex.jp/races/20261115/123420261115/",
+  "captured_jst": "2026-11-15T08:42:46.017884+09:00",
+  "start_jst": "2026-11-15T20:30:00+09:00",
+  "line_groups": [
+    [
+      1,
+      6,
+      4
+    ],
+    [
+      2
+    ],
+    [
+      5,
+      3,
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "▲大石崇晴大阪・S1・109期",
+      "race_score": 101.08,
+      "running_style": "両",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆山本巨樹大阪・S2・100期",
+      "race_score": 97.15,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "山内卓也愛知・S2・77期",
+      "race_score": 100.48,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 34.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆坂本貴史青森・S2・94期",
+      "race_score": 102.75,
+      "running_style": "両",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 2,
+      "h_count": 7,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○佐藤壮志熊本・S2・123期",
+      "race_score": 104.15,
+      "running_style": "逃",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 1,
+      "h_count": 7,
+      "b_count": 13,
+      "nige_4m": 6,
+      "maku_4m": 3,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "◎中川誠一郎熊本・S1・85期",
+      "race_score": 107.38,
+      "running_style": "両",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "菅原晃大分・S2・85期",
+      "race_score": 99.63,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 4
+    }
+  ]
+}
