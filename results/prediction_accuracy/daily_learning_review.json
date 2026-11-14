@@ -1,15 +1,15 @@
 {
-  "generated_jst": "2026-11-14T16:13:26.921991+09:00",
+  "generated_jst": "2026-11-14T17:12:41.246631+09:00",
   "last_7_days": {
     "20261114": {
-      "races": 24,
-      "old_top1": 2,
-      "old_top5": 6,
-      "old_top10": 7,
+      "races": 29,
+      "old_top1": 3,
+      "old_top5": 7,
+      "old_top10": 8,
       "experimental_top1": 2,
-      "experimental_top5": 5,
-      "experimental_top10": 8,
-      "pair_top1": 6,
+      "experimental_top5": 6,
+      "experimental_top10": 9,
+      "pair_top1": 8,
       "errors": [],
       "miss_examples": [
         {
@@ -307,6 +307,63 @@
           ]
         },
         {
+          "race_id": "026120261114",
+          "actual": [
+            5,
+            7,
+            4
+          ],
+          "old_top3": [
+            [
+              5,
+              7,
+              1
+            ],
+            [
+              5,
+              7,
+              2
+            ],
+            [
+              5,
+              2,
+              1
+            ]
+          ],
+          "experimental_top3": [
+            [
+              7,
+              5,
+              1
+            ],
+            [
+              7,
+              5,
+              2
+            ],
+            [
+              4,
+              2,
+              5
+            ]
+          ],
+          "lines": [
+            [
+              2,
+              4,
+              6
+            ],
+            [
+              3
+            ],
+            [
+              5,
+              7,
+              1
+            ]
+          ]
+        },
+        {
           "race_id": "028420261114",
           "actual": [
             1,
@@ -422,72 +479,15 @@
               8
             ]
           ]
-        },
-        {
-          "race_id": "033120261114",
-          "actual": [
-            4,
-            1,
-            6
-          ],
-          "old_top3": [
-            [
-              4,
-              1,
-              3
-            ],
-            [
-              4,
-              1,
-              5
-            ],
-            [
-              4,
-              3,
-              5
-            ]
-          ],
-          "experimental_top3": [
-            [
-              1,
-              4,
-              5
-            ],
-            [
-              5,
-              3,
-              4
-            ],
-            [
-              4,
-              1,
-              5
-            ]
-          ],
-          "lines": [
-            [
-              2,
-              7
-            ],
-            [
-              3,
-              5
-            ],
-            [
-              4,
-              1,
-              6
-            ]
-          ]
         }
       ],
-      "old_top1_rate": 0.0833,
-      "old_top5_rate": 0.25,
-      "old_top10_rate": 0.2917,
-      "experimental_top1_rate": 0.0833,
-      "experimental_top5_rate": 0.2083,
-      "experimental_top10_rate": 0.3333,
-      "pair_top1_rate": 0.25
+      "old_top1_rate": 0.1034,
+      "old_top5_rate": 0.2414,
+      "old_top10_rate": 0.2759,
+      "experimental_top1_rate": 0.069,
+      "experimental_top5_rate": 0.2069,
+      "experimental_top10_rate": 0.3103,
+      "pair_top1_rate": 0.2759
     },
     "20261113": {
       "races": 24,
