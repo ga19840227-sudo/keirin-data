@@ -1,68 +1,12 @@
 {
   "forecasts": 373,
-  "settled_forecasts": 315,
-  "top1_pair_hits": 62,
-  "top3_pair_hits": 129,
-  "top10_pair_hits": 222,
+  "settled_forecasts": 371,
+  "top1_pair_hits": 72,
+  "top3_pair_hits": 149,
+  "top10_pair_hits": 265,
   "missing_results": [
-    "012820261115",
-    "013120261115",
-    "013420261115",
-    "014620261115",
     "018420261110",
-    "018620261115",
-    "022820261115",
-    "023120261115",
-    "023420261115",
-    "024620261115",
-    "028420261115",
-    "028620261115",
-    "033120261115",
-    "033420261115",
-    "038420261115",
-    "038620261115",
-    "042820261115",
-    "043120261115",
-    "043420261115",
-    "044620261115",
-    "048420261115",
-    "052820261115",
-    "053120261115",
-    "053420261115",
-    "054620261115",
-    "058420261115",
-    "058620261115",
-    "062820261115",
-    "063120261115",
-    "063420261115",
-    "064620261115",
-    "068420261115",
-    "068620261115",
-    "072820261115",
-    "073120261115",
-    "073420261115",
-    "074620261115",
-    "078420261115",
-    "078620261115",
-    "083420261115",
-    "084620261115",
-    "092820261115",
-    "093420261115",
-    "094620261115",
-    "098620261115",
-    "102820261115",
-    "103420261115",
-    "104620261115",
-    "108620261115",
-    "112820261115",
-    "113420261115",
-    "114620261115",
-    "114820261113",
-    "118620261115",
-    "122820261115",
-    "123420261115",
-    "124620261115",
-    "128620261115"
+    "114820261113"
   ],
   "per_race": [
     {
@@ -171,6 +115,21 @@
       "top10_hit": false
     },
     {
+      "race_id": "012820261115",
+      "actual": [
+        2,
+        6,
+        5
+      ],
+      "top1_pair": [
+        4,
+        2
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
+    },
+    {
       "race_id": "013120261110",
       "actual": [
         2,
@@ -216,6 +175,21 @@
       "top10_hit": false
     },
     {
+      "race_id": "013120261115",
+      "actual": [
+        1,
+        2,
+        5
+      ],
+      "top1_pair": [
+        2,
+        5
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
       "race_id": "013420261114",
       "actual": [
         5,
@@ -225,6 +199,21 @@
       "top1_pair": [
         5,
         2
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
+      "race_id": "013420261115",
+      "actual": [
+        4,
+        2,
+        7
+      ],
+      "top1_pair": [
+        4,
+        7
       ],
       "top1_hit": false,
       "top3_hit": false,
@@ -289,6 +278,21 @@
       "top1_hit": false,
       "top3_hit": false,
       "top10_hit": true
+    },
+    {
+      "race_id": "014620261115",
+      "actual": [
+        6,
+        4,
+        7
+      ],
+      "top1_pair": [
+        1,
+        4
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
     },
     {
       "race_id": "014720261111",
@@ -516,6 +520,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "018620261115",
+      "actual": [
+        1,
+        5,
+        2
+      ],
+      "top1_pair": [
+        1,
+        5
+      ],
+      "top1_hit": true,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
       "race_id": "021220261110",
       "actual": [
         2,
@@ -621,6 +640,21 @@
       "top10_hit": false
     },
     {
+      "race_id": "022820261115",
+      "actual": [
+        2,
+        5,
+        7
+      ],
+      "top1_pair": [
+        3,
+        4
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
       "race_id": "023120261110",
       "actual": [
         5,
@@ -660,6 +694,36 @@
       "top1_pair": [
         3,
         7
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
+      "race_id": "023120261115",
+      "actual": [
+        5,
+        6,
+        4
+      ],
+      "top1_pair": [
+        3,
+        4
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
+    },
+    {
+      "race_id": "023420261115",
+      "actual": [
+        3,
+        1,
+        2
+      ],
+      "top1_pair": [
+        3,
+        5
       ],
       "top1_hit": false,
       "top3_hit": false,
@@ -720,6 +784,21 @@
       "top1_pair": [
         3,
         5
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
+    },
+    {
+      "race_id": "024620261115",
+      "actual": [
+        6,
+        7,
+        5
+      ],
+      "top1_pair": [
+        2,
+        7
       ],
       "top1_hit": false,
       "top3_hit": false,
@@ -951,6 +1030,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "028420261115",
+      "actual": [
+        5,
+        3,
+        1
+      ],
+      "top1_pair": [
+        3,
+        1
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
       "race_id": "028520261111",
       "actual": [
         2,
@@ -979,6 +1073,21 @@
       "top1_hit": false,
       "top3_hit": false,
       "top10_hit": false
+    },
+    {
+      "race_id": "028620261115",
+      "actual": [
+        3,
+        7,
+        2
+      ],
+      "top1_pair": [
+        7,
+        3
+      ],
+      "top1_hit": false,
+      "top3_hit": true,
+      "top10_hit": true
     },
     {
       "race_id": "031220261110",
@@ -1116,6 +1225,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "033120261115",
+      "actual": [
+        4,
+        7,
+        2
+      ],
+      "top1_pair": [
+        4,
+        5
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
       "race_id": "033420261114",
       "actual": [
         4,
@@ -1128,6 +1252,21 @@
       ],
       "top1_hit": false,
       "top3_hit": true,
+      "top10_hit": true
+    },
+    {
+      "race_id": "033420261115",
+      "actual": [
+        2,
+        4,
+        3
+      ],
+      "top1_pair": [
+        5,
+        4
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
       "top10_hit": true
     },
     {
@@ -1401,6 +1540,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "038420261115",
+      "actual": [
+        2,
+        6,
+        5
+      ],
+      "top1_pair": [
+        1,
+        7
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
       "race_id": "038520261111",
       "actual": [
         1,
@@ -1429,6 +1583,21 @@
       "top1_hit": false,
       "top3_hit": false,
       "top10_hit": false
+    },
+    {
+      "race_id": "038620261115",
+      "actual": [
+        2,
+        5,
+        3
+      ],
+      "top1_pair": [
+        3,
+        5
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
     },
     {
       "race_id": "041220261110",
@@ -1521,6 +1690,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "042820261115",
+      "actual": [
+        3,
+        1,
+        9
+      ],
+      "top1_pair": [
+        2,
+        8
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
+    },
+    {
       "race_id": "043120261110",
       "actual": [
         2,
@@ -1566,6 +1750,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "043120261115",
+      "actual": [
+        7,
+        3,
+        2
+      ],
+      "top1_pair": [
+        2,
+        4
+      ],
+      "top1_hit": false,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
       "race_id": "043420261114",
       "actual": [
         1,
@@ -1578,6 +1777,21 @@
       ],
       "top1_hit": true,
       "top3_hit": true,
+      "top10_hit": true
+    },
+    {
+      "race_id": "043420261115",
+      "actual": [
+        2,
+        1,
+        7
+      ],
+      "top1_pair": [
+        3,
+        4
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
       "top10_hit": true
     },
     {
@@ -1638,6 +1852,21 @@
       ],
       "top1_hit": true,
       "top3_hit": true,
+      "top10_hit": true
+    },
+    {
+      "race_id": "044620261115",
+      "actual": [
+        5,
+        2,
+        7
+      ],
+      "top1_pair": [
+        1,
+        5
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
       "top10_hit": true
     },
     {
@@ -1821,6 +2050,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "048420261115",
+      "actual": [
+        2,
+        5,
+        4
+      ],
+      "top1_pair": [
+        2,
+        5
+      ],
+      "top1_hit": true,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
       "race_id": "048520261111",
       "actual": [
         1,
@@ -1956,6 +2200,21 @@
       "top10_hit": false
     },
     {
+      "race_id": "052820261115",
+      "actual": [
+        4,
+        3,
+        2
+      ],
+      "top1_pair": [
+        5,
+        3
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
+    },
+    {
       "race_id": "053120261110",
       "actual": [
         1,
@@ -2001,6 +2260,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "053120261115",
+      "actual": [
+        5,
+        4,
+        7
+      ],
+      "top1_pair": [
+        5,
+        1
+      ],
+      "top1_hit": false,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
       "race_id": "053420261114",
       "actual": [
         2,
@@ -2014,6 +2288,21 @@
       "top1_hit": false,
       "top3_hit": false,
       "top10_hit": false
+    },
+    {
+      "race_id": "053420261115",
+      "actual": [
+        1,
+        6,
+        7
+      ],
+      "top1_pair": [
+        5,
+        1
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
     },
     {
       "race_id": "054220261114",
@@ -2073,6 +2362,21 @@
       ],
       "top1_hit": false,
       "top3_hit": false,
+      "top10_hit": true
+    },
+    {
+      "race_id": "054620261115",
+      "actual": [
+        4,
+        2,
+        3
+      ],
+      "top1_pair": [
+        4,
+        2
+      ],
+      "top1_hit": true,
+      "top3_hit": true,
       "top10_hit": true
     },
     {
@@ -2286,6 +2590,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "058420261115",
+      "actual": [
+        4,
+        5,
+        3
+      ],
+      "top1_pair": [
+        4,
+        7
+      ],
+      "top1_hit": false,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
       "race_id": "058520261111",
       "actual": [
         3,
@@ -2314,6 +2633,21 @@
       "top1_hit": false,
       "top3_hit": false,
       "top10_hit": false
+    },
+    {
+      "race_id": "058620261115",
+      "actual": [
+        3,
+        6,
+        2
+      ],
+      "top1_pair": [
+        3,
+        6
+      ],
+      "top1_hit": true,
+      "top3_hit": true,
+      "top10_hit": true
     },
     {
       "race_id": "061220261110",
@@ -2421,6 +2755,21 @@
       "top10_hit": false
     },
     {
+      "race_id": "062820261115",
+      "actual": [
+        9,
+        1,
+        3
+      ],
+      "top1_pair": [
+        7,
+        1
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
       "race_id": "063120261110",
       "actual": [
         7,
@@ -2466,6 +2815,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "063120261115",
+      "actual": [
+        4,
+        1,
+        3
+      ],
+      "top1_pair": [
+        4,
+        2
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
       "race_id": "063420261114",
       "actual": [
         4,
@@ -2475,6 +2839,21 @@
       "top1_pair": [
         2,
         3
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
+      "race_id": "063420261115",
+      "actual": [
+        2,
+        5,
+        7
+      ],
+      "top1_pair": [
+        7,
+        4
       ],
       "top1_hit": false,
       "top3_hit": false,
@@ -2534,6 +2913,21 @@
       ],
       "top1_pair": [
         3,
+        5
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
+      "race_id": "064620261115",
+      "actual": [
+        1,
+        4,
+        7
+      ],
+      "top1_pair": [
+        1,
         5
       ],
       "top1_hit": false,
@@ -2751,6 +3145,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "068420261115",
+      "actual": [
+        2,
+        3,
+        1
+      ],
+      "top1_pair": [
+        3,
+        2
+      ],
+      "top1_hit": false,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
       "race_id": "068520261111",
       "actual": [
         5,
@@ -2779,6 +3188,21 @@
       "top1_hit": false,
       "top3_hit": false,
       "top10_hit": false
+    },
+    {
+      "race_id": "068620261115",
+      "actual": [
+        2,
+        4,
+        6
+      ],
+      "top1_pair": [
+        7,
+        2
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
     },
     {
       "race_id": "071220261110",
@@ -2886,6 +3310,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "072820261115",
+      "actual": [
+        5,
+        3,
+        2
+      ],
+      "top1_pair": [
+        2,
+        7
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
+    },
+    {
       "race_id": "073120261110",
       "actual": [
         3,
@@ -2931,6 +3370,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "073120261115",
+      "actual": [
+        1,
+        3,
+        4
+      ],
+      "top1_pair": [
+        3,
+        1
+      ],
+      "top1_hit": false,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
       "race_id": "073420261114",
       "actual": [
         7,
@@ -2943,6 +3397,21 @@
       ],
       "top1_hit": false,
       "top3_hit": true,
+      "top10_hit": true
+    },
+    {
+      "race_id": "073420261115",
+      "actual": [
+        5,
+        7,
+        3
+      ],
+      "top1_pair": [
+        5,
+        1
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
       "top10_hit": true
     },
     {
@@ -2988,6 +3457,21 @@
       ],
       "top1_hit": false,
       "top3_hit": true,
+      "top10_hit": true
+    },
+    {
+      "race_id": "074620261115",
+      "actual": [
+        7,
+        5,
+        1
+      ],
+      "top1_pair": [
+        1,
+        7
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
       "top10_hit": true
     },
     {
@@ -3231,6 +3715,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "078420261115",
+      "actual": [
+        3,
+        6,
+        4
+      ],
+      "top1_pair": [
+        1,
+        3
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
+    },
+    {
       "race_id": "078520261111",
       "actual": [
         2,
@@ -3258,6 +3757,21 @@
       ],
       "top1_hit": false,
       "top3_hit": false,
+      "top10_hit": true
+    },
+    {
+      "race_id": "078620261115",
+      "actual": [
+        1,
+        6,
+        7
+      ],
+      "top1_pair": [
+        6,
+        1
+      ],
+      "top1_hit": false,
+      "top3_hit": true,
       "top10_hit": true
     },
     {
@@ -3336,6 +3850,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "083420261115",
+      "actual": [
+        3,
+        7,
+        1
+      ],
+      "top1_pair": [
+        3,
+        7
+      ],
+      "top1_hit": true,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
       "race_id": "084220261114",
       "actual": [
         2,
@@ -3392,6 +3921,21 @@
         5
       ],
       "top1_hit": true,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
+      "race_id": "084620261115",
+      "actual": [
+        3,
+        5,
+        6
+      ],
+      "top1_pair": [
+        5,
+        3
+      ],
+      "top1_hit": false,
       "top3_hit": true,
       "top10_hit": true
     },
@@ -3666,6 +4210,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "092820261115",
+      "actual": [
+        5,
+        9,
+        2
+      ],
+      "top1_pair": [
+        1,
+        7
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
+    },
+    {
       "race_id": "093120261110",
       "actual": [
         4,
@@ -3707,6 +4266,21 @@
         3
       ],
       "top1_hit": false,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
+      "race_id": "093420261115",
+      "actual": [
+        1,
+        7,
+        5
+      ],
+      "top1_pair": [
+        1,
+        7
+      ],
+      "top1_hit": true,
       "top3_hit": true,
       "top10_hit": true
     },
@@ -3769,6 +4343,21 @@
       "top1_hit": false,
       "top3_hit": false,
       "top10_hit": false
+    },
+    {
+      "race_id": "094620261115",
+      "actual": [
+        1,
+        4,
+        6
+      ],
+      "top1_pair": [
+        4,
+        1
+      ],
+      "top1_hit": false,
+      "top3_hit": true,
+      "top10_hit": true
     },
     {
       "race_id": "094720261111",
@@ -4056,6 +4645,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "098620261115",
+      "actual": [
+        6,
+        1,
+        4
+      ],
+      "top1_pair": [
+        7,
+        4
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
+    },
+    {
       "race_id": "102420261110",
       "actual": [
         1,
@@ -4101,6 +4705,21 @@
       "top10_hit": false
     },
     {
+      "race_id": "102820261115",
+      "actual": [
+        5,
+        9,
+        3
+      ],
+      "top1_pair": [
+        3,
+        5
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
+    },
+    {
       "race_id": "103120261110",
       "actual": [
         2,
@@ -4128,6 +4747,21 @@
       ],
       "top1_hit": false,
       "top3_hit": true,
+      "top10_hit": true
+    },
+    {
+      "race_id": "103420261115",
+      "actual": [
+        2,
+        5,
+        7
+      ],
+      "top1_pair": [
+        2,
+        4
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
       "top10_hit": true
     },
     {
@@ -4174,6 +4808,21 @@
       "top1_hit": false,
       "top3_hit": false,
       "top10_hit": false
+    },
+    {
+      "race_id": "104620261115",
+      "actual": [
+        3,
+        7,
+        1
+      ],
+      "top1_pair": [
+        3,
+        7
+      ],
+      "top1_hit": true,
+      "top3_hit": true,
+      "top10_hit": true
     },
     {
       "race_id": "104820261111",
@@ -4311,6 +4960,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "108620261115",
+      "actual": [
+        5,
+        3,
+        7
+      ],
+      "top1_pair": [
+        5,
+        3
+      ],
+      "top1_hit": true,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
       "race_id": "112420261110",
       "actual": [
         1,
@@ -4350,6 +5014,21 @@
       "top1_pair": [
         4,
         2
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
+      "race_id": "112820261115",
+      "actual": [
+        9,
+        1,
+        7
+      ],
+      "top1_pair": [
+        1,
+        9
       ],
       "top1_hit": false,
       "top3_hit": false,
@@ -4401,6 +5080,21 @@
       "top10_hit": false
     },
     {
+      "race_id": "113420261115",
+      "actual": [
+        3,
+        4,
+        2
+      ],
+      "top1_pair": [
+        4,
+        3
+      ],
+      "top1_hit": false,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
       "race_id": "114620261110",
       "actual": [
         4,
@@ -4443,6 +5137,21 @@
       ],
       "top1_hit": false,
       "top3_hit": false,
+      "top10_hit": true
+    },
+    {
+      "race_id": "114620261115",
+      "actual": [
+        7,
+        2,
+        1
+      ],
+      "top1_pair": [
+        7,
+        2
+      ],
+      "top1_hit": true,
+      "top3_hit": true,
       "top10_hit": true
     },
     {
@@ -4581,6 +5290,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "118620261115",
+      "actual": [
+        2,
+        7,
+        3
+      ],
+      "top1_pair": [
+        2,
+        7
+      ],
+      "top1_hit": true,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
       "race_id": "122820261112",
       "actual": [
         9,
@@ -4605,6 +5329,21 @@
       "top1_pair": [
         6,
         1
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
+    },
+    {
+      "race_id": "122820261115",
+      "actual": [
+        2,
+        8,
+        6
+      ],
+      "top1_pair": [
+        5,
+        7
       ],
       "top1_hit": false,
       "top3_hit": false,
@@ -4669,6 +5408,36 @@
       "top1_hit": false,
       "top3_hit": false,
       "top10_hit": false
+    },
+    {
+      "race_id": "123420261115",
+      "actual": [
+        3,
+        2,
+        7
+      ],
+      "top1_pair": [
+        5,
+        3
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
+      "race_id": "124620261115",
+      "actual": [
+        2,
+        5,
+        1
+      ],
+      "top1_pair": [
+        7,
+        3
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
     },
     {
       "race_id": "124820261111",
@@ -4789,72 +5558,87 @@
       "top1_hit": false,
       "top3_hit": false,
       "top10_hit": false
+    },
+    {
+      "race_id": "128620261115",
+      "actual": [
+        6,
+        4,
+        7
+      ],
+      "top1_pair": [
+        5,
+        2
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
     }
   ],
   "note": "Pre-start forecasts only; pair hit means exact first and second; odds/payout excluded.",
-  "top1_pair_hit_rate": 0.1968,
-  "top3_pair_hit_rate": 0.4095,
-  "top10_pair_hit_rate": 0.7048,
+  "top1_pair_hit_rate": 0.1941,
+  "top3_pair_hit_rate": 0.4016,
+  "top10_pair_hit_rate": 0.7143,
   "trifecta": {
-    "settled_races": 315,
+    "settled_races": 371,
     "ranked": {
       "1": {
-        "races": 249,
-        "hits": 15,
-        "stake_yen": 24900,
-        "hit_rate": 0.0602
+        "races": 305,
+        "hits": 19,
+        "stake_yen": 30500,
+        "hit_rate": 0.0623
       },
       "3": {
-        "races": 249,
-        "hits": 43,
-        "stake_yen": 74700,
-        "hit_rate": 0.1727
+        "races": 305,
+        "hits": 47,
+        "stake_yen": 91500,
+        "hit_rate": 0.1541
       },
       "5": {
-        "races": 249,
-        "hits": 54,
-        "stake_yen": 124500,
-        "hit_rate": 0.2169
+        "races": 305,
+        "hits": 63,
+        "stake_yen": 152500,
+        "hit_rate": 0.2066
       },
       "10": {
-        "races": 249,
-        "hits": 83,
-        "stake_yen": 249000,
-        "hit_rate": 0.3333
+        "races": 305,
+        "hits": 100,
+        "stake_yen": 305000,
+        "hit_rate": 0.3279
       },
       "20": {
-        "races": 249,
-        "hits": 114,
-        "stake_yen": 498000,
-        "hit_rate": 0.4578
+        "races": 305,
+        "hits": 138,
+        "stake_yen": 610000,
+        "hit_rate": 0.4525
       }
     },
     "plans": {
       "1": {
-        "races": 315,
-        "hits": 62,
-        "stake_yen": 159600,
+        "races": 371,
+        "hits": 72,
+        "stake_yen": 189300,
         "verified_payout_yen": 0,
         "payout_verified_races": 0,
-        "hit_rate": 0.1968,
+        "hit_rate": 0.1941,
         "roi": null
       },
       "2": {
-        "races": 315,
-        "hits": 103,
-        "stake_yen": 319200,
+        "races": 371,
+        "hits": 120,
+        "stake_yen": 378600,
         "verified_payout_yen": 0,
         "payout_verified_races": 0,
-        "hit_rate": 0.327,
+        "hit_rate": 0.3235,
         "roi": null
       },
       "3": {
-        "races": 315,
-        "hits": 129,
-        "stake_yen": 478800,
+        "races": 371,
+        "hits": 149,
+        "stake_yen": 567900,
         "verified_payout_yen": 0,
         "payout_verified_races": 0,
-        "hit_rate": 0.4095,
+        "hit_rate": 0.4016,
         "roi": null
       }
     },
@@ -4862,58 +5646,58 @@
   },
   "development_scenarios": {
     "ability": {
-      "races": 315,
-      "top1_hits": 37,
-      "top3_hits": 104,
-      "top10_hits": 192,
-      "top1_hit_rate": 0.1175,
-      "top3_hit_rate": 0.3302,
-      "top10_hit_rate": 0.6095
+      "races": 371,
+      "top1_hits": 47,
+      "top3_hits": 123,
+      "top10_hits": 225,
+      "top1_hit_rate": 0.1267,
+      "top3_hit_rate": 0.3315,
+      "top10_hit_rate": 0.6065
     },
     "front_control": {
-      "races": 315,
-      "top1_hits": 29,
-      "top3_hits": 85,
-      "top10_hits": 184,
-      "top1_hit_rate": 0.0921,
-      "top3_hit_rate": 0.2698,
-      "top10_hit_rate": 0.5841
+      "races": 371,
+      "top1_hits": 37,
+      "top3_hits": 103,
+      "top10_hits": 219,
+      "top1_hit_rate": 0.0997,
+      "top3_hit_rate": 0.2776,
+      "top10_hit_rate": 0.5903
     },
     "makuri": {
-      "races": 315,
-      "top1_hits": 36,
-      "top3_hits": 98,
-      "top10_hits": 194,
-      "top1_hit_rate": 0.1143,
-      "top3_hit_rate": 0.3111,
-      "top10_hit_rate": 0.6159
+      "races": 371,
+      "top1_hits": 47,
+      "top3_hits": 118,
+      "top10_hits": 228,
+      "top1_hit_rate": 0.1267,
+      "top3_hit_rate": 0.3181,
+      "top10_hit_rate": 0.6146
     },
     "second_sashi": {
-      "races": 315,
-      "top1_hits": 32,
-      "top3_hits": 89,
-      "top10_hits": 195,
-      "top1_hit_rate": 0.1016,
-      "top3_hit_rate": 0.2825,
-      "top10_hit_rate": 0.619
+      "races": 371,
+      "top1_hits": 40,
+      "top3_hits": 102,
+      "top10_hits": 232,
+      "top1_hit_rate": 0.1078,
+      "top3_hit_rate": 0.2749,
+      "top10_hit_rate": 0.6253
     },
     "line_cohesion": {
-      "races": 315,
-      "top1_hits": 54,
-      "top3_hits": 120,
-      "top10_hits": 210,
-      "top1_hit_rate": 0.1714,
-      "top3_hit_rate": 0.381,
-      "top10_hit_rate": 0.6667
+      "races": 371,
+      "top1_hits": 67,
+      "top3_hits": 141,
+      "top10_hits": 245,
+      "top1_hit_rate": 0.1806,
+      "top3_hit_rate": 0.3801,
+      "top10_hit_rate": 0.6604
     },
     "mixed": {
-      "races": 315,
-      "top1_hits": 60,
-      "top3_hits": 115,
-      "top10_hits": 208,
-      "top1_hit_rate": 0.1905,
-      "top3_hit_rate": 0.3651,
-      "top10_hit_rate": 0.6603
+      "races": 371,
+      "top1_hits": 72,
+      "top3_hits": 135,
+      "top10_hits": 243,
+      "top1_hit_rate": 0.1941,
+      "top3_hit_rate": 0.3639,
+      "top10_hit_rate": 0.655
     }
   },
   "scenario_warning": "Six fixed hypotheses; no fitting or verified improvement. Small samples cannot establish superiority."
