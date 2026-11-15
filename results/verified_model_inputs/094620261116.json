@@ -1,0 +1,136 @@
+{
+  "race_id": "094620261116",
+  "source_url": "https://keirinhex.jp/races/20261116/094620261116/",
+  "captured_jst": "2026-11-16T08:51:56.903206+09:00",
+  "start_jst": "2026-11-16T14:41:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5,
+      6
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      4,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎菱田浩二京都・S2・97期",
+      "race_score": 97.04,
+      "running_style": "逃",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 7,
+      "h_count": 14,
+      "b_count": 14,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○岩本和也石川・S2・76期",
+      "race_score": 97.07,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "坂上樹大石川・S2・80期",
+      "race_score": 93.73,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 22.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲坂本周輝青森・S2・100期",
+      "race_score": 98.4,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 2,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "丸山啓一静岡・S2・74期",
+      "race_score": 96.5,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆梁島邦友茨城・S2・117期",
+      "race_score": 97.14,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 12.0,
+      "s_count": 2,
+      "h_count": 11,
+      "b_count": 6,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆小林令山梨・S2・109期",
+      "race_score": 94.11,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 9.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

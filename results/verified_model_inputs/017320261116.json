@@ -1,0 +1,136 @@
+{
+  "race_id": "017320261116",
+  "source_url": "https://keirinhex.jp/races/20261116/017320261116/",
+  "captured_jst": "2026-11-16T08:50:15.509677+09:00",
+  "start_jst": "2026-11-16T11:17:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5,
+      3
+    ],
+    [
+      4,
+      2,
+      7
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎與古田龍門沖縄・A3・125期",
+      "race_score": 74.79,
+      "running_style": "逃",
+      "win_rate_4m": 30.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 1,
+      "h_count": 13,
+      "b_count": 13,
+      "nige_4m": 9,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○大竹野裕樹鹿児島・A3・88期",
+      "race_score": 74.09,
+      "running_style": "両",
+      "win_rate_4m": 33.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 4,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "沖本尚織広島・A3・87期",
+      "race_score": 69.07,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆舟山佑京新潟・A3・113期",
+      "race_score": 75.28,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 37.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 2,
+      "h_count": 8,
+      "b_count": 9,
+      "nige_4m": 4,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲湯浅大輔千葉・A3・96期",
+      "race_score": 73.8,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 16,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆安坂洋一神奈川・A3・79期",
+      "race_score": 70.03,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "伊藤司福島・A3・83期",
+      "race_score": 63.08,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 5.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "074620261116",
+  "source_url": "https://keirinhex.jp/races/20261116/074620261116/",
+  "captured_jst": "2026-11-16T08:51:32.506755+09:00",
+  "start_jst": "2026-11-16T13:45:00+09:00",
+  "line_groups": [
+    [
+      4,
+      3
+    ],
+    [
+      5,
+      2,
+      7
+    ],
+    [
+      6,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 4,
+      "player_name_raw": "☆河崎正晴熊本・S2・121期",
+      "race_score": 95.5,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 1,
+      "h_count": 5,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆高市訓但愛媛・S2・97期",
+      "race_score": 98.45,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○中嶋宣成長野・S2・113期",
+      "race_score": 98.72,
+      "running_style": "逃",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 1,
+      "h_count": 16,
+      "b_count": 14,
+      "nige_4m": 6,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎木暮安由群馬・S2・92期",
+      "race_score": 103.18,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 49.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 4
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲房州輝也福島・S2・91期",
+      "race_score": 94.92,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 5.0,
+      "top3_rate_4m": 12.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "竹澤浩司地元富山・S2・90期",
+      "race_score": 91.91,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 5.0,
+      "top3_rate_4m": 14.0,
+      "s_count": 0,
+      "h_count": 11,
+      "b_count": 10,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "水谷良和愛知・S2・70期",
+      "race_score": 95.81,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    }
+  ]
+}

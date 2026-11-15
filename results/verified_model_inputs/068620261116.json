@@ -1,0 +1,144 @@
+{
+  "race_id": "068620261116",
+  "source_url": "https://keirinhex.jp/races/20261116/068620261116/",
+  "captured_jst": "2026-11-16T08:51:28.164735+09:00",
+  "start_jst": "2026-11-16T17:46:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "no_fixed_lines_girls",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆片岡美奈栃木・L1・126期",
+      "race_score": 49.21,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 5.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "森この芽愛知・L1・130期",
+      "race_score": 45.16,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 1,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "◎磯村光舞山口・L1・126期",
+      "race_score": 54.59,
+      "running_style": "両",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 4,
+      "h_count": 3,
+      "b_count": 1,
+      "nige_4m": 3,
+      "maku_4m": 2,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "佐藤友香青森・L1・110期",
+      "race_score": 45.66,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 4.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆向井円大阪・L1・114期",
+      "race_score": 48.14,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 11.0,
+      "s_count": 10,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "○安東莉奈地元大分・L1・122期",
+      "race_score": 52.08,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 49.0,
+      "s_count": 6,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 4,
+      "sashi_4m": 4,
+      "mark_4m": 4
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲石井貴子東京・L1・104期",
+      "race_score": 50.74,
+      "running_style": "逃",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 12,
+      "h_count": 11,
+      "b_count": 9,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    }
+  ]
+}

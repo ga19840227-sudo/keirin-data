@@ -1,0 +1,136 @@
+{
+  "race_id": "118620261116",
+  "source_url": "https://keirinhex.jp/races/20261116/118620261116/",
+  "captured_jst": "2026-11-16T08:52:21.968105+09:00",
+  "start_jst": "2026-11-16T19:51:00+09:00",
+  "line_groups": [
+    [
+      3,
+      5
+    ],
+    [
+      4,
+      2,
+      6
+    ],
+    [
+      7,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "加藤将武埼玉・S2・121期",
+      "race_score": 101.9,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 1,
+      "h_count": 6,
+      "b_count": 7,
+      "nige_4m": 2,
+      "maku_4m": 4,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆河合佑弥東京・S2・113期",
+      "race_score": 100.52,
+      "running_style": "逃",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 0,
+      "h_count": 7,
+      "b_count": 8,
+      "nige_4m": 3,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲林昌幸愛媛・S2・119期",
+      "race_score": 103.81,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 45.0,
+      "top3_rate_4m": 55.0,
+      "s_count": 0,
+      "h_count": 14,
+      "b_count": 14,
+      "nige_4m": 8,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○田尾駿介高知・S1・111期",
+      "race_score": 104.91,
+      "running_style": "追",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "西田雅志広島・S2・82期",
+      "race_score": 99.09,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎酒井雄多福島・S1・109期",
+      "race_score": 109.63,
+      "running_style": "逃",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 43.0,
+      "top3_rate_4m": 61.0,
+      "s_count": 3,
+      "h_count": 3,
+      "b_count": 5,
+      "nige_4m": 2,
+      "maku_4m": 3,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "☆竹内智彦宮城・S1・84期",
+      "race_score": 104.3,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    }
+  ]
+}

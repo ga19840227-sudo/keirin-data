@@ -1,0 +1,136 @@
+{
+  "race_id": "088620261116",
+  "source_url": "https://keirinhex.jp/races/20261116/088620261116/",
+  "captured_jst": "2026-11-16T08:51:52.558652+09:00",
+  "start_jst": "2026-11-16T18:34:00+09:00",
+  "line_groups": [
+    [
+      1,
+      6
+    ],
+    [
+      2,
+      4,
+      5
+    ],
+    [
+      7,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "藤田昌宏岡山・S2・82期",
+      "race_score": 95.56,
+      "running_style": "両",
+      "win_rate_4m": 2.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 2,
+      "h_count": 18,
+      "b_count": 10,
+      "nige_4m": 4,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆児玉慎一郎香川・S2・76期",
+      "race_score": 89.42,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○鈴木浩太千葉・S2・119期",
+      "race_score": 97.6,
+      "running_style": "逃",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 5,
+      "h_count": 18,
+      "b_count": 17,
+      "nige_4m": 8,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎武藤篤弘埼玉・S2・95期",
+      "race_score": 101.48,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲内田英介東京・S2・91期",
+      "race_score": 97.09,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 24,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "川村晃司京都・S2・85期",
+      "race_score": 100.13,
+      "running_style": "両",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 1,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 3,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆鈴木伸之愛知・S2・87期",
+      "race_score": 97.04,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    }
+  ]
+}

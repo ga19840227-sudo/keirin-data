@@ -1,0 +1,138 @@
+{
+  "race_id": "093420261116",
+  "source_url": "https://keirinhex.jp/races/20261116/093420261116/",
+  "captured_jst": "2026-11-16T08:51:54.732137+09:00",
+  "start_jst": "2026-11-16T19:12:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      5,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆小川丈太徳島・S2・111期",
+      "race_score": 100.65,
+      "running_style": "逃",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 3,
+      "h_count": 2,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "木村弘青森・S2・100期",
+      "race_score": 98.5,
+      "running_style": "逃",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 1,
+      "h_count": 13,
+      "b_count": 11,
+      "nige_4m": 3,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎渡邉一成福島・S2・88期",
+      "race_score": 105.14,
+      "running_style": "両",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 45.0,
+      "top3_rate_4m": 69.0,
+      "s_count": 7,
+      "h_count": 7,
+      "b_count": 11,
+      "nige_4m": 6,
+      "maku_4m": 4,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "大石崇晴大阪・S1・109期",
+      "race_score": 101.08,
+      "running_style": "両",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆中村一将兵庫・S2・86期",
+      "race_score": 95.92,
+      "running_style": "両",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 0,
+      "h_count": 3,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲鈴木陸来静岡・S2・117期",
+      "race_score": 102.6,
+      "running_style": "逃",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 16,
+      "h_count": 6,
+      "b_count": 4,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○山下渡茨城・S1・91期",
+      "race_score": 100.68,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 4
+    }
+  ]
+}

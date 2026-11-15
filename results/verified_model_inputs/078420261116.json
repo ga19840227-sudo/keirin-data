@@ -1,0 +1,136 @@
+{
+  "race_id": "078420261116",
+  "source_url": "https://keirinhex.jp/races/20261116/078420261116/",
+  "captured_jst": "2026-11-16T08:51:39.018558+09:00",
+  "start_jst": "2026-11-16T10:55:00+09:00",
+  "line_groups": [
+    [
+      2,
+      5,
+      6
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      7,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "○秋山太洋東京・A3・127期",
+      "race_score": 78.22,
+      "running_style": "逃",
+      "win_rate_4m": 45.0,
+      "top2_rate_4m": 66.0,
+      "top3_rate_4m": 76.0,
+      "s_count": 16,
+      "h_count": 6,
+      "b_count": 11,
+      "nige_4m": 6,
+      "maku_4m": 10,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "伊藤之人東京・A3・90期",
+      "race_score": 70.93,
+      "running_style": "両",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 10,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "吉松賢二群馬・A3・90期",
+      "race_score": 69.48,
+      "running_style": "両",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 9,
+      "h_count": 13,
+      "b_count": 13,
+      "nige_4m": 9,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲柳沼鼓太朗福島・A3・129期",
+      "race_score": 78.86,
+      "running_style": "逃",
+      "win_rate_4m": 46.0,
+      "top2_rate_4m": 68.0,
+      "top3_rate_4m": 79.0,
+      "s_count": 5,
+      "h_count": 4,
+      "b_count": 8,
+      "nige_4m": 3,
+      "maku_4m": 8,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆宮崎一彰高知・A3・99期",
+      "race_score": 77.31,
+      "running_style": "追",
+      "win_rate_4m": 40.0,
+      "top2_rate_4m": 52.0,
+      "top3_rate_4m": 64.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 7,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆宮本寛大熊本・A3・129期",
+      "race_score": 75.42,
+      "running_style": "逃",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 6,
+      "h_count": 8,
+      "b_count": 8,
+      "nige_4m": 3,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "◎横溝貫太福岡・A3・129期",
+      "race_score": 78.82,
+      "running_style": "逃",
+      "win_rate_4m": 68.0,
+      "top2_rate_4m": 77.0,
+      "top3_rate_4m": 86.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 11,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

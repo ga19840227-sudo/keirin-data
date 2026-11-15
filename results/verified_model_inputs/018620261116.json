@@ -1,0 +1,138 @@
+{
+  "race_id": "018620261116",
+  "source_url": "https://keirinhex.jp/races/20261116/018620261116/",
+  "captured_jst": "2026-11-16T08:50:20.211444+09:00",
+  "start_jst": "2026-11-16T15:47:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4
+    ],
+    [
+      2
+    ],
+    [
+      3,
+      7,
+      5
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "▲伊藤太一山梨・A1・91期",
+      "race_score": 85.95,
+      "running_style": "追",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 8,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆伊藤大理長野・A2・85期",
+      "race_score": 81.16,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆猪俣康一愛知・A1・99期",
+      "race_score": 85.59,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○土井慎二岡山・A2・127期",
+      "race_score": 84.62,
+      "running_style": "逃",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 6,
+      "h_count": 10,
+      "b_count": 9,
+      "nige_4m": 4,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎三好陽一愛媛・A1・88期",
+      "race_score": 83.46,
+      "running_style": "両",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "阿部功高知・A2・93期",
+      "race_score": 82.13,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "阿部宏之宮城・A2・82期",
+      "race_score": 79.95,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 14.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    }
+  ]
+}

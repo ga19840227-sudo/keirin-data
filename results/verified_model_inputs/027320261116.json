@@ -1,0 +1,136 @@
+{
+  "race_id": "027320261116",
+  "source_url": "https://keirinhex.jp/races/20261116/027320261116/",
+  "captured_jst": "2026-11-16T08:50:29.481809+09:00",
+  "start_jst": "2026-11-16T11:41:00+09:00",
+  "line_groups": [
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      5,
+      3,
+      7
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆門馬琢麿北海道・A3・105期",
+      "race_score": 69.35,
+      "running_style": "逃",
+      "win_rate_4m": 35.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 0,
+      "h_count": 3,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆阿部利光宮城・A3・77期",
+      "race_score": 72.33,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "長田彰人宮城・A3・95期",
+      "race_score": 67.7,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎入田龍馬鹿児島・A3・125期",
+      "race_score": 76.95,
+      "running_style": "逃",
+      "win_rate_4m": 38.0,
+      "top2_rate_4m": 58.0,
+      "top3_rate_4m": 62.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 9,
+      "nige_4m": 5,
+      "maku_4m": 5,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○南部亮太長崎・A3・93期",
+      "race_score": 75.33,
+      "running_style": "追",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 67.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲丸山勝也静岡・A3・85期",
+      "race_score": 68.63,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "落合豊茨城・A3・69期",
+      "race_score": 63.96,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

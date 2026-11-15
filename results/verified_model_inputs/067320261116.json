@@ -1,0 +1,138 @@
+{
+  "race_id": "067320261116",
+  "source_url": "https://keirinhex.jp/races/20261116/067320261116/",
+  "captured_jst": "2026-11-16T08:51:23.822472+09:00",
+  "start_jst": "2026-11-16T13:31:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5
+    ],
+    [
+      2
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      3,
+      4
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "▲下沖功児宮崎・A1・95期",
+      "race_score": 86.92,
+      "running_style": "逃",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 2,
+      "h_count": 7,
+      "b_count": 8,
+      "nige_4m": 4,
+      "maku_4m": 4,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○松尾玄太佐賀・A1・93期",
+      "race_score": 85.35,
+      "running_style": "両",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "藤原悠斗岡山・A2・91期",
+      "race_score": 84.32,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 5
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆高山雄丞愛媛・A2・109期",
+      "race_score": 81.91,
+      "running_style": "両",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 4,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆神山尚栃木・A1・109期",
+      "race_score": 82.82,
+      "running_style": "両",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 4,
+      "h_count": 5,
+      "b_count": 5,
+      "nige_4m": 2,
+      "maku_4m": 2,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "◎土屋仁茨城・A1・84期",
+      "race_score": 88.42,
+      "running_style": "追",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 62.0,
+      "s_count": 12,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "堀政美茨城・A2・65期",
+      "race_score": 83.44,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    }
+  ]
+}
