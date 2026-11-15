@@ -1,17 +1,17 @@
 {
-  "captured_jst": "2026-11-15T22:57:11.882060+09:00",
+  "captured_jst": "2026-11-15T23:48:43.037870+09:00",
   "date": "20261115",
   "source": "https://keirinhex.jp",
-  "visited": 5,
-  "snapshot_count": 2,
+  "visited": 3,
+  "snapshot_count": 0,
   "errors": [
-    "https://keirinhex.jp/races/20261115/044220261115/: no verified future start time",
-    "https://keirinhex.jp/races/20261115/054220261115/: no verified future start time",
-    "https://keirinhex.jp/races/20261115/064220261115/: no verified future start time"
+    "https://keirinhex.jp/races/20261115/074220261115/: no verified future start time",
+    "https://keirinhex.jp/races/20261115/084220261115/: no verified future start time",
+    "https://keirinhex.jp/races/20261115/094220261115/: no verified future start time"
   ],
-  "indexed_races": 77,
-  "skipped_known_started": 11,
+  "indexed_races": 80,
+  "skipped_known_started": 16,
   "already_saved": 61,
   "verified_saved_total": 71,
-  "missing_verified_count": 6
+  "missing_verified_count": 9
 }
