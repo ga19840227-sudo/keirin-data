@@ -1,14 +1,11 @@
 {
   "date": "20261115",
-  "retrieved_jst": "2026-11-15T23:03:13.510405+09:00",
+  "retrieved_jst": "2026-11-16T00:54:57.885053+09:00",
   "source": "https://keirinhex.jp",
-  "listed": 77,
-  "checked": 77,
-  "result_confirmed": 75,
-  "pending": [
-    "085320261115",
-    "095320261115"
-  ],
+  "listed": 80,
+  "checked": 5,
+  "result_confirmed": 80,
+  "pending": [],
   "errors": [],
   "official_payout_confirmed": 0,
   "warning": "Archived results only; not a pre-race model backtest."
