@@ -1,13 +1,13 @@
 {
-  "captured_jst": "2026-11-16T08:50:03.761273+09:00",
+  "captured_jst": "2026-11-16T10:27:09.457950+09:00",
   "date": "20261116",
   "source": "https://keirinhex.jp",
-  "visited": 63,
-  "snapshot_count": 62,
-  "errors": [
-    "https://keirinhex.jp/races/20261116/018420261116/: no verified future start time"
-  ],
+  "visited": 9,
+  "snapshot_count": 9,
+  "errors": [],
   "indexed_races": 63,
+  "already_saved": 53,
+  "skipped_known_started": 1,
   "verified_saved_total": 62,
   "missing_verified_count": 1
 }
