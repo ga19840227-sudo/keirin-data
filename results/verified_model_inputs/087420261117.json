@@ -1,0 +1,136 @@
+{
+  "race_id": "087420261117",
+  "source_url": "https://keirinhex.jp/races/20261117/087420261117/",
+  "captured_jst": "2026-11-17T00:43:32.336140+09:00",
+  "start_jst": "2026-11-17T23:00:00+09:00",
+  "line_groups": [
+    [
+      1,
+      2,
+      5
+    ],
+    [
+      6,
+      4
+    ],
+    [
+      7,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎下岡優季愛知・A1・105期",
+      "race_score": 90.78,
+      "running_style": "逃",
+      "win_rate_4m": 31.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 5,
+      "h_count": 17,
+      "b_count": 17,
+      "nige_4m": 8,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○二條祐也徳島・A1・97期",
+      "race_score": 85.12,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 37.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 2,
+      "mark_4m": 5
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲山原利秀地元高知・A2・63期",
+      "race_score": 81.37,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 15.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "米村光星熊本・A2・121期",
+      "race_score": 79.9,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 22.0,
+      "s_count": 2,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆平総一熊本・A2・76期",
+      "race_score": 83.66,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "中野真吾佐賀・A2・111期",
+      "race_score": 78.15,
+      "running_style": "逃",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 9.0,
+      "s_count": 0,
+      "h_count": 3,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆山崎岳志佐賀・A2・74期",
+      "race_score": 83.95,
+      "running_style": "追",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 37.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    }
+  ]
+}

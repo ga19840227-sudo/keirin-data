@@ -1,0 +1,144 @@
+{
+  "race_id": "017520261117",
+  "source_url": "https://keirinhex.jp/races/20261117/017520261117/",
+  "captured_jst": "2026-11-17T00:41:39.866216+09:00",
+  "start_jst": "2026-11-17T08:50:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "no_fixed_lines_girls",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "▲篠崎新純千葉・L1・102期",
+      "race_score": 51.0,
+      "running_style": "両",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 15,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 3
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "佐伯智恵地元愛媛・L1・114期",
+      "race_score": 47.81,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 22.0,
+      "s_count": 7,
+      "h_count": 3,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "菅原ななこ宮城・L1・120期",
+      "race_score": 49.54,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎永禮美瑠愛知・L1・118期",
+      "race_score": 54.16,
+      "running_style": "両",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 74.0,
+      "s_count": 2,
+      "h_count": 3,
+      "b_count": 4,
+      "nige_4m": 0,
+      "maku_4m": 4,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆長澤彩福岡・L1・106期",
+      "race_score": 50.12,
+      "running_style": "両",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆高橋朋恵東京・L1・108期",
+      "race_score": 49.75,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 4,
+      "h_count": 3,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○宇野紅音岐阜・L1・124期",
+      "race_score": 53.19,
+      "running_style": "両",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 3,
+      "h_count": 10,
+      "b_count": 8,
+      "nige_4m": 4,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    }
+  ]
+}

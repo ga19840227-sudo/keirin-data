@@ -1,0 +1,136 @@
+{
+  "race_id": "117320261117",
+  "source_url": "https://keirinhex.jp/races/20261117/117320261117/",
+  "captured_jst": "2026-11-17T00:44:02.715073+09:00",
+  "start_jst": "2026-11-17T15:54:00+09:00",
+  "line_groups": [
+    [
+      4,
+      1,
+      6
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      7,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 4,
+      "player_name_raw": "○野村賢山口・A1・125期",
+      "race_score": 89.51,
+      "running_style": "逃",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 2,
+      "h_count": 21,
+      "b_count": 21,
+      "nige_4m": 11,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "◎小原周祐高知・A1・99期",
+      "race_score": 95.77,
+      "running_style": "追",
+      "win_rate_4m": 32.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 64.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 7,
+      "mark_4m": 3
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "吉岡篤志地元徳島・A1・82期",
+      "race_score": 82.62,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 4
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲上川直紀栃木・A1・117期",
+      "race_score": 93.7,
+      "running_style": "両",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 74.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 5,
+      "nige_4m": 4,
+      "maku_4m": 5,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "長井優斗東京・A1・95期",
+      "race_score": 89.44,
+      "running_style": "追",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆下沖功児宮崎・A1・95期",
+      "race_score": 86.92,
+      "running_style": "逃",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 2,
+      "h_count": 7,
+      "b_count": 8,
+      "nige_4m": 4,
+      "maku_4m": 4,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆小原亮哉大分・A1・113期",
+      "race_score": 88.25,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 43.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 7
+    }
+  ]
+}

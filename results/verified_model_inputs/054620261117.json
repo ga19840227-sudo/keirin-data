@@ -1,0 +1,119 @@
+{
+  "race_id": "054620261117",
+  "source_url": "https://keirinhex.jp/races/20261117/054620261117/",
+  "captured_jst": "2026-11-17T00:42:41.192901+09:00",
+  "start_jst": "2026-11-17T12:49:00+09:00",
+  "line_groups": [
+    [
+      2,
+      6
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      5,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "▲望月湧世静岡・S2・123期",
+      "race_score": 97.0,
+      "running_style": "逃",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 22.0,
+      "s_count": 0,
+      "h_count": 10,
+      "b_count": 7,
+      "nige_4m": 3,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "◎木暮安由群馬・S2・92期",
+      "race_score": 103.18,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "竹澤浩司地元富山・S2・90期",
+      "race_score": 91.91,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 5.0,
+      "top3_rate_4m": 14.0,
+      "s_count": 0,
+      "h_count": 11,
+      "b_count": 10,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "岩本和也石川・S2・76期",
+      "race_score": 97.07,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆河崎正晴熊本・S2・121期",
+      "race_score": 95.5,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 1,
+      "h_count": 5,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○瀬戸栄作長崎・S2・109期",
+      "race_score": 97.62,
+      "running_style": "両",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 0,
+      "h_count": 3,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 3,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    }
+  ]
+}

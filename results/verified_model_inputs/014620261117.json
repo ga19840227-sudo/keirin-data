@@ -1,0 +1,121 @@
+{
+  "race_id": "014620261117",
+  "source_url": "https://keirinhex.jp/races/20261117/014620261117/",
+  "captured_jst": "2026-11-17T00:41:32.869313+09:00",
+  "start_jst": "2026-11-17T11:05:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎川田忍神奈川・A2・87期",
+      "race_score": 83.68,
+      "running_style": "両",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 1,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "小坂敏之栃木・A2・74期",
+      "race_score": 81.4,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 13.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○山田祥明岐阜・A1・97期",
+      "race_score": 83.3,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "北川紋部福井・A2・78期",
+      "race_score": 78.61,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆連佛康浩岡山・A1・93期",
+      "race_score": 81.96,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 3
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "▲土井勲岡山・A2・82期",
+      "race_score": 82.17,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    }
+  ]
+}

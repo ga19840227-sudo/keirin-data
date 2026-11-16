@@ -1,0 +1,136 @@
+{
+  "race_id": "067320261117",
+  "source_url": "https://keirinhex.jp/races/20261117/067320261117/",
+  "captured_jst": "2026-11-17T00:42:59.251759+09:00",
+  "start_jst": "2026-11-17T13:31:00+09:00",
+  "line_groups": [
+    [
+      2,
+      7,
+      3
+    ],
+    [
+      4,
+      1,
+      6
+    ],
+    [
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "○神山尚栃木・A1・109期",
+      "race_score": 82.82,
+      "running_style": "両",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 4,
+      "h_count": 5,
+      "b_count": 5,
+      "nige_4m": 2,
+      "maku_4m": 2,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎瀧野勝太群馬・A2・92期",
+      "race_score": 85.83,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆河野要神奈川・A2・94期",
+      "race_score": 82.32,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 8,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "山本康旗大分・A2・127期",
+      "race_score": 81.38,
+      "running_style": "逃",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 0,
+      "h_count": 8,
+      "b_count": 7,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲竹内真一福岡・A2・89期",
+      "race_score": 84.11,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 3
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "田口守山口・A2・94期",
+      "race_score": 78.42,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 10.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆藤原悠斗岡山・A2・91期",
+      "race_score": 84.32,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 5
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "057420261117",
+  "source_url": "https://keirinhex.jp/races/20261117/057420261117/",
+  "captured_jst": "2026-11-17T00:42:45.529262+09:00",
+  "start_jst": "2026-11-17T22:00:00+09:00",
+  "line_groups": [
+    [
+      3,
+      1
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      2,
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "▲後藤祐貴兵庫・A2・103期",
+      "race_score": 84.16,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 1,
+      "h_count": 5,
+      "b_count": 7,
+      "nige_4m": 3,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "◎片山弘城大阪・A1・75期",
+      "race_score": 88.7,
+      "running_style": "追",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆富安保充愛知・A2・91期",
+      "race_score": 81.93,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆小西誠也三重・A2・80期",
+      "race_score": 81.5,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "増田仁広島・A2・113期",
+      "race_score": 80.65,
+      "running_style": "逃",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 2,
+      "h_count": 16,
+      "b_count": 16,
+      "nige_4m": 6,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○近藤範昌岡山・A1・82期",
+      "race_score": 85.16,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "渡邉満福岡・A2・73期",
+      "race_score": 77.92,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 4.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    }
+  ]
+}

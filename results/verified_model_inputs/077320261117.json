@@ -1,0 +1,138 @@
+{
+  "race_id": "077320261117",
+  "source_url": "https://keirinhex.jp/races/20261117/077320261117/",
+  "captured_jst": "2026-11-17T00:43:14.591507+09:00",
+  "start_jst": "2026-11-17T13:59:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5,
+      4
+    ],
+    [
+      3
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎相笠翔太福島・A2・96期",
+      "race_score": 83.54,
+      "running_style": "両",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 0,
+      "h_count": 3,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 5,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○小谷田公則福島・A1・88期",
+      "race_score": 84.82,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲原岡泰志郎千葉・A2・100期",
+      "race_score": 85.16,
+      "running_style": "両",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 9,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆齋藤昌弘群馬・A2・90期",
+      "race_score": 82.2,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "久保光司佐賀・A2・119期",
+      "race_score": 80.91,
+      "running_style": "逃",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 2,
+      "h_count": 11,
+      "b_count": 10,
+      "nige_4m": 3,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "関根彰人沖縄・A2・94期",
+      "race_score": 83.91,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆山崎充央東京・A2・79期",
+      "race_score": 83.25,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    }
+  ]
+}

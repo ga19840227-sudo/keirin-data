@@ -1,0 +1,136 @@
+{
+  "race_id": "074620261117",
+  "source_url": "https://keirinhex.jp/races/20261117/074620261117/",
+  "captured_jst": "2026-11-17T00:43:12.422731+09:00",
+  "start_jst": "2026-11-17T13:45:00+09:00",
+  "line_groups": [
+    [
+      3,
+      7
+    ],
+    [
+      5,
+      4,
+      2
+    ],
+    [
+      6,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "☆坂本周作青森・S2・105期",
+      "race_score": 94.59,
+      "running_style": "逃",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 0,
+      "h_count": 7,
+      "b_count": 7,
+      "nige_4m": 4,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆谷津田将吾福島・S2・83期",
+      "race_score": 95.07,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○菱田浩二京都・S2・97期",
+      "race_score": 97.04,
+      "running_style": "逃",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 7,
+      "h_count": 14,
+      "b_count": 14,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎柴崎俊光三重・S2・91期",
+      "race_score": 101.17,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲坂上樹大石川・S2・80期",
+      "race_score": 93.73,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 21.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "栗本武典千葉・S2・119期",
+      "race_score": 93.07,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 13.0,
+      "s_count": 3,
+      "h_count": 4,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "丸山啓一静岡・S2・74期",
+      "race_score": 96.5,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 3
+    }
+  ]
+}
