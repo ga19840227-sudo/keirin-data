@@ -1,8 +1,8 @@
 {
-  "generated_jst": "2026-11-16T08:35:02.738186+09:00",
+  "generated_jst": "2026-11-16T09:30:52.179383+09:00",
   "last_7_days": {
     "20261116": {
-      "races": 0,
+      "races": 1,
       "old_top1": 0,
       "old_top5": 0,
       "old_top10": 0,
@@ -11,7 +11,74 @@
       "experimental_top10": 0,
       "pair_top1": 0,
       "errors": [],
-      "miss_examples": []
+      "miss_examples": [
+        {
+          "race_id": "028420261116",
+          "actual": [
+            3,
+            4,
+            5
+          ],
+          "old_top3": [
+            [
+              3,
+              7,
+              4
+            ],
+            [
+              7,
+              3,
+              4
+            ],
+            [
+              3,
+              7,
+              5
+            ]
+          ],
+          "experimental_top3": [
+            [
+              3,
+              7,
+              4
+            ],
+            [
+              3,
+              7,
+              5
+            ],
+            [
+              3,
+              7,
+              2
+            ]
+          ],
+          "lines": [
+            [
+              1,
+              5
+            ],
+            [
+              4
+            ],
+            [
+              6,
+              2
+            ],
+            [
+              7,
+              3
+            ]
+          ]
+        }
+      ],
+      "old_top1_rate": 0.0,
+      "old_top5_rate": 0.0,
+      "old_top10_rate": 0.0,
+      "experimental_top1_rate": 0.0,
+      "experimental_top5_rate": 0.0,
+      "experimental_top10_rate": 0.0,
+      "pair_top1_rate": 0.0
     },
     "20261115": {
       "races": 56,
