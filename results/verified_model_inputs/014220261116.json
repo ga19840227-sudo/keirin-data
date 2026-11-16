@@ -1,0 +1,144 @@
+{
+  "race_id": "014220261116",
+  "source_url": "https://keirinhex.jp/races/20261116/014220261116/",
+  "captured_jst": "2026-11-16T19:43:50.637722+09:00",
+  "start_jst": "2026-11-16T20:50:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "no_fixed_lines_girls",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎加藤恵青森・L1・112期",
+      "race_score": 51.88,
+      "running_style": "両",
+      "win_rate_4m": 2.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 10,
+      "h_count": 10,
+      "b_count": 8,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○三森彩桜福島・L1・116期",
+      "race_score": 50.89,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲土井柚姫岡山・L1・128期",
+      "race_score": 50.0,
+      "running_style": "両",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 8,
+      "h_count": 2,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆青木美優栃木・L1・106期",
+      "race_score": 49.16,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆浜地晴帆三重・L1・122期",
+      "race_score": 47.86,
+      "running_style": "両",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 1,
+      "h_count": 3,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 3
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "林香穂岐阜・L1・130期",
+      "race_score": 47.14,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 8.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "刈込奈那千葉・L1・120期",
+      "race_score": 46.0,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 6.0,
+      "s_count": 3,
+      "h_count": 10,
+      "b_count": 7,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

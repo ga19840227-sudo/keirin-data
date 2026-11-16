@@ -1,0 +1,136 @@
+{
+  "race_id": "035320261116",
+  "source_url": "https://keirinhex.jp/races/20261116/035320261116/",
+  "captured_jst": "2026-11-16T19:43:34.645579+09:00",
+  "start_jst": "2026-11-16T21:20:00+09:00",
+  "line_groups": [
+    [
+      2,
+      3,
+      1
+    ],
+    [
+      6,
+      4,
+      5
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "◎花田雄飛愛知・A3・127期",
+      "race_score": 73.0,
+      "running_style": "逃",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 47.0,
+      "top3_rate_4m": 66.0,
+      "s_count": 2,
+      "h_count": 15,
+      "b_count": 15,
+      "nige_4m": 9,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○西川弘資三重・A3・66期",
+      "race_score": 72.52,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 3
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲藤野竜也栃木・A3・117期",
+      "race_score": 75.03,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 4
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆牧田賢也福島・A3・111期",
+      "race_score": 70.71,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 1,
+      "h_count": 6,
+      "b_count": 6,
+      "nige_4m": 1,
+      "maku_4m": 3,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆小田桐義継北海道・A3・81期",
+      "race_score": 71.5,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 4
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "富澤洋祐静岡・A3・81期",
+      "race_score": 70.8,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 4
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "近内三孝栃木・A3・129期",
+      "race_score": 66.0,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 7.0,
+      "s_count": 7,
+      "h_count": 6,
+      "b_count": 6,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    }
+  ]
+}
