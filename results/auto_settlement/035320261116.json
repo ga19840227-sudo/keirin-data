@@ -1,0 +1,14 @@
+{
+  "race_id": "035320261116",
+  "source_url": "https://keirinhex.jp/races/20261116/035320261116/",
+  "result_retrieved_jst": "2026-11-17T00:34:29.678473+09:00",
+  "status": "result_confirmed",
+  "actual_first_second_third": [
+    3,
+    1,
+    2
+  ],
+  "official_trifecta_payout_per_100_yen": null,
+  "payout_status": "unverified",
+  "prerace_snapshot": "snapshots/20261116/035320261116.json"
+}
