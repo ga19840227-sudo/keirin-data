@@ -1,0 +1,136 @@
+{
+  "race_id": "107320261118",
+  "source_url": "https://keirinhex.jp/races/20261118/107320261118/",
+  "captured_jst": "2026-11-18T00:02:28.809144+09:00",
+  "start_jst": "2026-11-18T15:21:00+09:00",
+  "line_groups": [
+    [
+      2,
+      7,
+      5
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      4,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "○入田龍馬鹿児島・A3・125期",
+      "race_score": 76.95,
+      "running_style": "逃",
+      "win_rate_4m": 36.0,
+      "top2_rate_4m": 57.0,
+      "top3_rate_4m": 64.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 9,
+      "nige_4m": 5,
+      "maku_4m": 5,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲大竹野裕樹鹿児島・A3・88期",
+      "race_score": 74.09,
+      "running_style": "両",
+      "win_rate_4m": 35.0,
+      "top2_rate_4m": 54.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 4,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆南部亮太長崎・A3・93期",
+      "race_score": 75.33,
+      "running_style": "追",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 70.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "才迫勇馬広島・A3・95期",
+      "race_score": 78.81,
+      "running_style": "逃",
+      "win_rate_4m": 34.0,
+      "top2_rate_4m": 69.0,
+      "top3_rate_4m": 78.0,
+      "s_count": 19,
+      "h_count": 18,
+      "b_count": 19,
+      "nige_4m": 14,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "井上剛岡山・A3・85期",
+      "race_score": 69.95,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎松本悠平高知・A3・129期",
+      "race_score": 80.47,
+      "running_style": "逃",
+      "win_rate_4m": 69.0,
+      "top2_rate_4m": 88.0,
+      "top3_rate_4m": 96.0,
+      "s_count": 12,
+      "h_count": 11,
+      "b_count": 14,
+      "nige_4m": 8,
+      "maku_4m": 6,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "☆岡崎昭次愛媛・A3・67期",
+      "race_score": 74.05,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 6
+    }
+  ]
+}

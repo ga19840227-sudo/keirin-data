@@ -1,0 +1,136 @@
+{
+  "race_id": "094420261118",
+  "source_url": "https://keirinhex.jp/races/20261118/094420261118/",
+  "captured_jst": "2026-11-18T00:02:15.808975+09:00",
+  "start_jst": "2026-11-18T14:20:00+09:00",
+  "line_groups": [
+    [
+      3,
+      5
+    ],
+    [
+      6,
+      1,
+      4
+    ],
+    [
+      7,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "▲朝倉智仁茨城・S2・115期",
+      "race_score": 103.24,
+      "running_style": "逃",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 4,
+      "h_count": 6,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 4,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "内田玄希東京・S2・94期",
+      "race_score": 96.32,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 18,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆上杉嘉槻福井・S2・119期",
+      "race_score": 93.81,
+      "running_style": "逃",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 17.0,
+      "s_count": 0,
+      "h_count": 20,
+      "b_count": 15,
+      "nige_4m": 2,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "☆稲毛健太和歌山・S2・97期",
+      "race_score": 98.75,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 5,
+      "h_count": 2,
+      "b_count": 5,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "松岡健介兵庫・S2・87期",
+      "race_score": 94.17,
+      "running_style": "両",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 17.0,
+      "s_count": 2,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎角宗哉山口・S2・125期",
+      "race_score": 104.24,
+      "running_style": "逃",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 3,
+      "h_count": 16,
+      "b_count": 15,
+      "nige_4m": 9,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○池田良広島・S2・91期",
+      "race_score": 104.03,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 8
+    }
+  ]
+}

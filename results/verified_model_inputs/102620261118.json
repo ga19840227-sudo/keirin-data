@@ -1,0 +1,136 @@
+{
+  "race_id": "102620261118",
+  "source_url": "https://keirinhex.jp/races/20261118/102620261118/",
+  "captured_jst": "2026-11-18T00:02:22.441676+09:00",
+  "start_jst": "2026-11-18T15:05:00+09:00",
+  "line_groups": [
+    [
+      5,
+      2,
+      3
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      1,
+      4
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 5,
+      "player_name_raw": "☆東矢圭吾熊本・S1・121期",
+      "race_score": 104.48,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 7,
+      "h_count": 8,
+      "b_count": 7,
+      "nige_4m": 3,
+      "maku_4m": 4,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○小岩大介大分・S1・90期",
+      "race_score": 109.04,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "田中勇二岡山・S1・95期",
+      "race_score": 105.2,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 4
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆橋本優己岐阜・S1・117期",
+      "race_score": 102.96,
+      "running_style": "逃",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 5,
+      "h_count": 6,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 5,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎櫻井祐太郎宮城・S1・117期",
+      "race_score": 104.15,
+      "running_style": "逃",
+      "win_rate_4m": 30.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 60.0,
+      "s_count": 4,
+      "h_count": 16,
+      "b_count": 17,
+      "nige_4m": 10,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲小松崎大地福島・S1・99期",
+      "race_score": 104.52,
+      "running_style": "両",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 7,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "石毛克幸千葉・S1・84期",
+      "race_score": 106.6,
+      "running_style": "追",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 1
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "037520261118",
+  "source_url": "https://keirinhex.jp/races/20261118/037520261118/",
+  "captured_jst": "2026-11-18T00:01:06.474413+09:00",
+  "start_jst": "2026-11-18T09:31:00+09:00",
+  "line_groups": [
+    [
+      1,
+      7,
+      5
+    ],
+    [
+      2
+    ],
+    [
+      4,
+      3,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆在本直樹岡山・A2・93期",
+      "race_score": 81.59,
+      "running_style": "両",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲廣川泰昭地元愛媛・A2・90期",
+      "race_score": 83.64,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "船曳義之香川・A2・83期",
+      "race_score": 79.07,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆原田礼福岡・A2・90期",
+      "race_score": 85.13,
+      "running_style": "追",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎村瀬大和岐阜・A2・119期",
+      "race_score": 82.95,
+      "running_style": "逃",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 6,
+      "h_count": 9,
+      "b_count": 8,
+      "nige_4m": 5,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○田中秀治岐阜・A2・82期",
+      "race_score": 83.75,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "佐野洋継京都・A2・97期",
+      "race_score": 78.7,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 17.0,
+      "s_count": 5,
+      "h_count": 2,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    }
+  ]
+}
