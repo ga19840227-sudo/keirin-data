@@ -1,5 +1,5 @@
 {
-  "files": 619,
+  "files": 637,
   "verified": 588,
   "parsed_riders": 4154,
   "complete_integrated_inputs": 567,
@@ -12271,6 +12271,56 @@
       ]
     },
     {
+      "file": "snapshots/20261118/012420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "file": "snapshots/20261118/017420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/022420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/027420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
       "file": "snapshots/20261118/028120261118.json",
       "parsed": [
         1,
@@ -12292,6 +12342,188 @@
         7,
         8,
         9
+      ]
+    },
+    {
+      "file": "snapshots/20261118/032420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/037420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/042420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/047420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/052420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/057420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/062420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/067420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/072420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/077420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/082420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/087420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/092420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261118/097420261118.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
       ]
     }
   ]
