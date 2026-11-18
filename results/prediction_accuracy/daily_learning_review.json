@@ -1,8 +1,8 @@
 {
-  "generated_jst": "2026-11-18T13:41:08.843427+09:00",
+  "generated_jst": "2026-11-18T14:42:04.145038+09:00",
   "last_7_days": {
     "20261118": {
-      "races": 26,
+      "races": 32,
       "old_top1": 2,
       "old_top5": 5,
       "old_top10": 6,
@@ -483,13 +483,13 @@
           ]
         }
       ],
-      "old_top1_rate": 0.0769,
-      "old_top5_rate": 0.1923,
-      "old_top10_rate": 0.2308,
-      "experimental_top1_rate": 0.1154,
-      "experimental_top5_rate": 0.2308,
-      "experimental_top10_rate": 0.2692,
-      "pair_top1_rate": 0.1923
+      "old_top1_rate": 0.0625,
+      "old_top5_rate": 0.1562,
+      "old_top10_rate": 0.1875,
+      "experimental_top1_rate": 0.0938,
+      "experimental_top5_rate": 0.1875,
+      "experimental_top10_rate": 0.2188,
+      "pair_top1_rate": 0.1562
     },
     "20261117": {
       "races": 67,
