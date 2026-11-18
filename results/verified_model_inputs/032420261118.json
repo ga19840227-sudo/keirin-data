@@ -1,0 +1,136 @@
+{
+  "race_id": "032420261118",
+  "source_url": "https://keirinhex.jp/races/20261118/032420261118/",
+  "captured_jst": "2026-11-18T19:37:26.667463+09:00",
+  "start_jst": "2026-11-18T21:30:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      6,
+      7
+    ],
+    [
+      3,
+      4
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎鈴木那樹静岡・A3・129期",
+      "race_score": 79.65,
+      "running_style": "逃",
+      "win_rate_4m": 64.0,
+      "top2_rate_4m": 80.0,
+      "top3_rate_4m": 84.0,
+      "s_count": 6,
+      "h_count": 14,
+      "b_count": 16,
+      "nige_4m": 14,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲相樂修千葉・A3・78期",
+      "race_score": 70.66,
+      "running_style": "両",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 3
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○中川飛隆新潟・A3・127期",
+      "race_score": 76.19,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 62.0,
+      "s_count": 8,
+      "h_count": 4,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆中川昌久茨城・A3・94期",
+      "race_score": 69.04,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "渡邊政幸埼玉・A3・90期",
+      "race_score": 68.0,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆高橋明久宮城・A3・98期",
+      "race_score": 72.82,
+      "running_style": "逃",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 43.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 6,
+      "h_count": 9,
+      "b_count": 5,
+      "nige_4m": 5,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "相澤恵一宮城・A3・95期",
+      "race_score": 70.92,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    }
+  ]
+}

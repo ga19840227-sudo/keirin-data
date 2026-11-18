@@ -1,0 +1,136 @@
+{
+  "race_id": "062420261118",
+  "source_url": "https://keirinhex.jp/races/20261118/062420261118/",
+  "captured_jst": "2026-11-18T19:37:40.369886+09:00",
+  "start_jst": "2026-11-18T22:30:00+09:00",
+  "line_groups": [
+    [
+      2,
+      6,
+      1
+    ],
+    [
+      4
+    ],
+    [
+      7,
+      3,
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "◎伊藤彰規神奈川・A2・96期",
+      "race_score": 84.5,
+      "running_style": "両",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "▲佐藤清之千葉・A2・93期",
+      "race_score": 79.28,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○大橋徹地元栃木・A1・72期",
+      "race_score": 85.76,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆樋口絢土東京・A2・96期",
+      "race_score": 80.5,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 21.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "林佳宗依富山・A2・127期",
+      "race_score": 79.11,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 5.0,
+      "top3_rate_4m": 20.0,
+      "s_count": 3,
+      "h_count": 8,
+      "b_count": 6,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "疋田敏愛知・A2・59期",
+      "race_score": 83.58,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 20.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "有馬雄二奈良・A2・90期",
+      "race_score": 80.03,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 18.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    }
+  ]
+}
