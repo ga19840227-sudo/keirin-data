@@ -1,0 +1,144 @@
+{
+  "race_id": "103820261119",
+  "source_url": "https://keirinhex.jp/races/20261119/103820261119/",
+  "captured_jst": "2026-11-19T00:36:02.444468+09:00",
+  "start_jst": "2026-11-19T19:45:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "no_fixed_lines_girls",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "○村田奈穂熊本・L1・116期",
+      "race_score": 54.52,
+      "running_style": "両",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 57.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 10,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆中野咲愛知・L1・110期",
+      "race_score": 51.73,
+      "running_style": "両",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 5
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲渡口まりあ山口・L1・114期",
+      "race_score": 53.5,
+      "running_style": "両",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 37.0,
+      "top3_rate_4m": 68.0,
+      "s_count": 7,
+      "h_count": 19,
+      "b_count": 21,
+      "nige_4m": 5,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "豊岡英子大阪・L1・114期",
+      "race_score": 52.48,
+      "running_style": "両",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 6,
+      "h_count": 2,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 5
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆河内桜雪群馬・L1・122期",
+      "race_score": 54.0,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "◎熊谷芽緯岩手・L1・124期",
+      "race_score": 56.37,
+      "running_style": "逃",
+      "win_rate_4m": 31.0,
+      "top2_rate_4m": 59.0,
+      "top3_rate_4m": 75.0,
+      "s_count": 9,
+      "h_count": 8,
+      "b_count": 13,
+      "nige_4m": 6,
+      "maku_4m": 10,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "高崎千賀神奈川・L1・128期",
+      "race_score": 46.95,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 15.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "034420261119",
+  "source_url": "https://keirinhex.jp/races/20261119/034420261119/",
+  "captured_jst": "2026-11-19T00:34:11.466472+09:00",
+  "start_jst": "2026-11-19T11:36:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5,
+      6
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      7,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎吉川希望石川・A1・111期",
+      "race_score": 93.42,
+      "running_style": "逃",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 4,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 2,
+      "maku_4m": 5,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○山口聖矢地元岐阜・A1・115期",
+      "race_score": 87.0,
+      "running_style": "両",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "山田隼司地元岐阜・A2・91期",
+      "race_score": 81.5,
+      "running_style": "両",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 1,
+      "h_count": 8,
+      "b_count": 7,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆一ノ瀬匠佐賀・A1・92期",
+      "race_score": 88.7,
+      "running_style": "逃",
+      "win_rate_4m": 35.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 55.0,
+      "s_count": 0,
+      "h_count": 11,
+      "b_count": 10,
+      "nige_4m": 8,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆好永晃佐賀・A1・98期",
+      "race_score": 88.16,
+      "running_style": "追",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 39.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "高本和也神奈川・A1・121期",
+      "race_score": 89.59,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 55.0,
+      "s_count": 1,
+      "h_count": 12,
+      "b_count": 13,
+      "nige_4m": 5,
+      "maku_4m": 6,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲長田祐弥神奈川・A1・87期",
+      "race_score": 93.93,
+      "running_style": "追",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 37.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    }
+  ]
+}

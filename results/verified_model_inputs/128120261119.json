@@ -1,0 +1,144 @@
+{
+  "race_id": "128120261119",
+  "source_url": "https://keirinhex.jp/races/20261119/128120261119/",
+  "captured_jst": "2026-11-19T00:36:14.347774+09:00",
+  "start_jst": "2026-11-19T20:30:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "no_fixed_lines_girls",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎佐藤水菜神奈川・L1・114期",
+      "race_score": 67.66,
+      "running_style": "逃",
+      "win_rate_4m": 100.0,
+      "top2_rate_4m": 100.0,
+      "top3_rate_4m": 100.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 2,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○梅川風子東京・L1・112期",
+      "race_score": 58.52,
+      "running_style": "逃",
+      "win_rate_4m": 84.0,
+      "top2_rate_4m": 88.0,
+      "top3_rate_4m": 92.0,
+      "s_count": 0,
+      "h_count": 3,
+      "b_count": 15,
+      "nige_4m": 5,
+      "maku_4m": 11,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲酒井亜樹大阪・L1・128期",
+      "race_score": 57.5,
+      "running_style": "両",
+      "win_rate_4m": 38.0,
+      "top2_rate_4m": 63.0,
+      "top3_rate_4m": 75.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "小林莉子東京・L1・102期",
+      "race_score": 56.81,
+      "running_style": "両",
+      "win_rate_4m": 39.0,
+      "top2_rate_4m": 74.0,
+      "top3_rate_4m": 90.0,
+      "s_count": 3,
+      "h_count": 2,
+      "b_count": 5,
+      "nige_4m": 2,
+      "maku_4m": 10,
+      "sashi_4m": 1,
+      "mark_4m": 6
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆吉川美穂和歌山・L1・120期",
+      "race_score": 57.1,
+      "running_style": "両",
+      "win_rate_4m": 56.0,
+      "top2_rate_4m": 76.0,
+      "top3_rate_4m": 82.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 6,
+      "nige_4m": 2,
+      "maku_4m": 11,
+      "sashi_4m": 9,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "尾方真生地元福岡・L1・118期",
+      "race_score": 57.18,
+      "running_style": "逃",
+      "win_rate_4m": 55.0,
+      "top2_rate_4m": 65.0,
+      "top3_rate_4m": 90.0,
+      "s_count": 2,
+      "h_count": 8,
+      "b_count": 12,
+      "nige_4m": 5,
+      "maku_4m": 9,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆小林優香地元福岡・L1・106期",
+      "race_score": 57.86,
+      "running_style": "逃",
+      "win_rate_4m": 53.0,
+      "top2_rate_4m": 68.0,
+      "top3_rate_4m": 79.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 7,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    }
+  ]
+}
