@@ -1,10 +1,14 @@
 {
-  "checked_at_jst": "2026-11-18T08:31:28.681254+09:00",
-  "checked": 1,
-  "settled": 0,
+  "checked_at_jst": "2026-11-18T09:32:16.938869+09:00",
+  "checked": 4,
+  "settled": 2,
   "pending": [
+    "037520261118",
     "087320261116"
   ],
   "errors": [],
-  "payout_missing": []
+  "payout_missing": [
+    "017520261118",
+    "027520261118"
+  ]
 }
