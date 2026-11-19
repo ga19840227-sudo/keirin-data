@@ -1,8 +1,8 @@
 {
   "files": 712,
-  "verified": 662,
-  "parsed_riders": 4682,
-  "complete_integrated_inputs": 639,
+  "verified": 679,
+  "parsed_riders": 4800,
+  "complete_integrated_inputs": 655,
   "examples": [
     {
       "race_id": "075320261109",
@@ -11772,6 +11772,25 @@
       "riders": 9
     },
     {
+      "race_id": "012420261119",
+      "line_groups": [
+        [
+          1,
+          4,
+          6,
+          2
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          7
+        ]
+      ],
+      "riders": 7
+    },
+    {
       "race_id": "012620261119",
       "line_groups": [
         [
@@ -11992,6 +12011,25 @@
       "riders": 7
     },
     {
+      "race_id": "027420261119",
+      "line_groups": [
+        [
+          2,
+          3,
+          5
+        ],
+        [
+          4
+        ],
+        [
+          6,
+          1,
+          7
+        ]
+      ],
+      "riders": 7
+    },
+    {
       "race_id": "027520261119",
       "line_groups": [
         [
@@ -12030,6 +12068,23 @@
         ]
       ],
       "riders": 9
+    },
+    {
+      "race_id": "032420261119",
+      "line_groups": [
+        [
+          1,
+          4,
+          3
+        ],
+        [
+          5,
+          2,
+          6,
+          7
+        ]
+      ],
+      "riders": 7
     },
     {
       "race_id": "032620261119",
@@ -12112,6 +12167,25 @@
       "riders": 7
     },
     {
+      "race_id": "037420261119",
+      "line_groups": [
+        [
+          1,
+          4,
+          3
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          6,
+          5
+        ]
+      ],
+      "riders": 7
+    },
+    {
       "race_id": "037520261119",
       "line_groups": [
         [
@@ -12152,6 +12226,27 @@
         ]
       ],
       "riders": 9
+    },
+    {
+      "race_id": "042420261119",
+      "line_groups": [
+        [
+          2
+        ],
+        [
+          4
+        ],
+        [
+          6,
+          1,
+          3
+        ],
+        [
+          7,
+          5
+        ]
+      ],
+      "riders": 7
     },
     {
       "race_id": "042620261119",
@@ -12240,6 +12335,27 @@
       "riders": 7
     },
     {
+      "race_id": "047420261119",
+      "line_groups": [
+        [
+          2,
+          7
+        ],
+        [
+          4
+        ],
+        [
+          5,
+          3,
+          1
+        ],
+        [
+          6
+        ]
+      ],
+      "riders": 7
+    },
+    {
       "race_id": "047520261119",
       "line_groups": [
         [
@@ -12282,6 +12398,27 @@
         ]
       ],
       "riders": 9
+    },
+    {
+      "race_id": "052420261119",
+      "line_groups": [
+        [
+          1,
+          3,
+          2,
+          4
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ],
+        [
+          7
+        ]
+      ],
+      "riders": 7
     },
     {
       "race_id": "052620261119",
@@ -12360,6 +12497,25 @@
       "riders": 7
     },
     {
+      "race_id": "057420261119",
+      "line_groups": [
+        [
+          1,
+          3,
+          4
+        ],
+        [
+          5,
+          2,
+          6
+        ],
+        [
+          7
+        ]
+      ],
+      "riders": 7
+    },
+    {
       "race_id": "057520261119",
       "line_groups": [
         [
@@ -12401,6 +12557,27 @@
         ],
         [
           7
+        ]
+      ],
+      "riders": 7
+    },
+    {
+      "race_id": "062420261119",
+      "line_groups": [
+        [
+          2,
+          4,
+          3
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ],
+        [
+          7,
+          1
         ]
       ],
       "riders": 7
@@ -12480,6 +12657,25 @@
       "riders": 7
     },
     {
+      "race_id": "067420261119",
+      "line_groups": [
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          5,
+          2,
+          6
+        ]
+      ],
+      "riders": 7
+    },
+    {
       "race_id": "067520261119",
       "line_groups": [
         [
@@ -12528,6 +12724,25 @@
           6
         ],
         [
+          7
+        ]
+      ],
+      "riders": 7
+    },
+    {
+      "race_id": "072420261119",
+      "line_groups": [
+        [
+          2,
+          1,
+          5
+        ],
+        [
+          3
+        ],
+        [
+          6,
+          4,
           7
         ]
       ],
@@ -12591,6 +12806,27 @@
       "riders": 7
     },
     {
+      "race_id": "077420261119",
+      "line_groups": [
+        [
+          1,
+          3,
+          6
+        ],
+        [
+          2
+        ],
+        [
+          4
+        ],
+        [
+          7,
+          5
+        ]
+      ],
+      "riders": 7
+    },
+    {
       "race_id": "077520261119",
       "line_groups": [
         [
@@ -12628,6 +12864,25 @@
         ]
       ],
       "riders": 8
+    },
+    {
+      "race_id": "082420261119",
+      "line_groups": [
+        [
+          1,
+          5
+        ],
+        [
+          2
+        ],
+        [
+          6,
+          4,
+          3,
+          7
+        ]
+      ],
+      "riders": 7
     },
     {
       "race_id": "082620261119",
@@ -12689,6 +12944,25 @@
       "riders": 7
     },
     {
+      "race_id": "087420261119",
+      "line_groups": [
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          5,
+          3,
+          4
+        ],
+        [
+          7
+        ]
+      ],
+      "riders": 7
+    },
+    {
       "race_id": "088120261119",
       "line_groups": [
         [
@@ -12707,6 +12981,27 @@
         ]
       ],
       "riders": 8
+    },
+    {
+      "race_id": "092420261119",
+      "line_groups": [
+        [
+          2,
+          1
+        ],
+        [
+          3
+        ],
+        [
+          5,
+          4,
+          7
+        ],
+        [
+          6
+        ]
+      ],
+      "riders": 7
     },
     {
       "race_id": "092620261119",
@@ -12761,6 +13056,27 @@
           5,
           2,
           4
+        ]
+      ],
+      "riders": 7
+    },
+    {
+      "race_id": "097420261119",
+      "line_groups": [
+        [
+          2
+        ],
+        [
+          5,
+          4,
+          3
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          7
         ]
       ],
       "riders": 7
@@ -13789,19 +14105,6 @@
       ]
     },
     {
-      "file": "snapshots/20261119/012420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
       "file": "snapshots/20261119/017420261119.json",
       "reason": "line_unavailable",
       "parsed": [
@@ -13815,138 +14118,15 @@
     },
     {
       "file": "snapshots/20261119/022420261119.json",
-      "reason": "line_unavailable",
       "parsed": [
         1,
         2,
-        3,
         4,
         5,
         6,
         7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/027420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/032420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/037420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/042420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/047420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/052420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/057420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/062420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/067420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/072420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
+      ],
+      "expected": [
         1,
         2,
         3,
@@ -13958,71 +14138,6 @@
     },
     {
       "file": "snapshots/20261119/073820261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/077420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/082420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/087420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/092420261119.json",
-      "reason": "line_unavailable",
-      "parsed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "file": "snapshots/20261119/097420261119.json",
       "reason": "line_unavailable",
       "parsed": [
         1,

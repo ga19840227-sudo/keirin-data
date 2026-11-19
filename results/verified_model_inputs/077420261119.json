@@ -1,0 +1,138 @@
+{
+  "race_id": "077420261119",
+  "source_url": "https://keirinhex.jp/races/20261119/077420261119/",
+  "captured_jst": "2026-11-19T19:34:18.282503+09:00",
+  "start_jst": "2026-11-19T22:40:00+09:00",
+  "line_groups": [
+    [
+      1,
+      3,
+      6
+    ],
+    [
+      2
+    ],
+    [
+      4
+    ],
+    [
+      7,
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎下岡優季愛知・A1・105期",
+      "race_score": 90.78,
+      "running_style": "逃",
+      "win_rate_4m": 32.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 5,
+      "h_count": 17,
+      "b_count": 17,
+      "nige_4m": 8,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○舛井幹雄三重・A1・71期",
+      "race_score": 84.5,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 4
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "▲野本翔太地元高知・A1・91期",
+      "race_score": 83.27,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "近藤範昌岡山・A1・82期",
+      "race_score": 85.16,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆後藤祐貴兵庫・A2・103期",
+      "race_score": 84.16,
+      "running_style": "逃",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 1,
+      "h_count": 5,
+      "b_count": 7,
+      "nige_4m": 3,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "米村光星熊本・A2・121期",
+      "race_score": 79.9,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 2,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆平総一熊本・A2・76期",
+      "race_score": 83.66,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    }
+  ]
+}
