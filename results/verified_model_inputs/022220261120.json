@@ -1,0 +1,136 @@
+{
+  "race_id": "022220261120",
+  "source_url": "https://keirinhex.jp/races/20261120/022220261120/",
+  "captured_jst": "2026-11-20T00:36:33.233707+09:00",
+  "start_jst": "2026-11-20T21:10:00+09:00",
+  "line_groups": [
+    [
+      2,
+      1,
+      3
+    ],
+    [
+      5,
+      4
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "◎阿部凪汰埼玉・A3・129期",
+      "race_score": 76.87,
+      "running_style": "逃",
+      "win_rate_4m": 44.0,
+      "top2_rate_4m": 59.0,
+      "top3_rate_4m": 78.0,
+      "s_count": 6,
+      "h_count": 13,
+      "b_count": 13,
+      "nige_4m": 6,
+      "maku_4m": 5,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○山本恵太郎東京・A3・71期",
+      "race_score": 77.46,
+      "running_style": "追",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 61.0,
+      "top3_rate_4m": 82.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 11
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲坂本英一栃木・A3・59期",
+      "race_score": 75.03,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 8
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆楠本政明福岡・A3・123期",
+      "race_score": 69.7,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 6,
+      "h_count": 8,
+      "b_count": 5,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "秋永昂人福岡・A3・98期",
+      "race_score": 71.96,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 11,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 4
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "右近陸人山口・A3・127期",
+      "race_score": 67.6,
+      "running_style": "逃",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 15,
+      "h_count": 17,
+      "b_count": 14,
+      "nige_4m": 4,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆井山和裕山口・A3・84期",
+      "race_score": 67.0,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    }
+  ]
+}

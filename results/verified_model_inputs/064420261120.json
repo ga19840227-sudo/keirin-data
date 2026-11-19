@@ -1,0 +1,138 @@
+{
+  "race_id": "064420261120",
+  "source_url": "https://keirinhex.jp/races/20261120/064420261120/",
+  "captured_jst": "2026-11-20T00:37:27.820022+09:00",
+  "start_jst": "2026-11-20T12:49:00+09:00",
+  "line_groups": [
+    [
+      2
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      4,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "▲長井妙樹東京・S2・96期",
+      "race_score": 99.02,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 17.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆長松空吾大分・S2・123期",
+      "race_score": 94.8,
+      "running_style": "逃",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 1,
+      "h_count": 3,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆島村匠福岡・S2・111期",
+      "race_score": 94.0,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 8.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "佐藤龍二神奈川・S2・94期",
+      "race_score": 89.4,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 22.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎稲毛健太和歌山・S2・97期",
+      "race_score": 98.75,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 5,
+      "h_count": 2,
+      "b_count": 5,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○大洞翔平地元岐阜・S2・100期",
+      "race_score": 96.52,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "伊藤世哉三重・S2・87期",
+      "race_score": 95.3,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 14.0,
+      "s_count": 8,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    }
+  ]
+}

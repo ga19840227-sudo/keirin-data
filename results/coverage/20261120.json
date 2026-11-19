@@ -1,0 +1,14 @@
+{
+  "date": "20261120",
+  "indexed_races": 57,
+  "visited_in_latest_run": 57,
+  "latest_run_new_snapshots": 57,
+  "verified_snapshots": 57,
+  "complete_rider_inputs": 57,
+  "six_scenario_forecasts": 57,
+  "integrated_forecasts": 57,
+  "missing_rider_inputs": [],
+  "missing_scenarios": [],
+  "missing_integrated": [],
+  "warning": "Coverage is not accuracy; a forecast is counted only when saved before the race."
+}

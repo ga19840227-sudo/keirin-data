@@ -1,0 +1,136 @@
+{
+  "race_id": "044220261120",
+  "source_url": "https://keirinhex.jp/races/20261120/044220261120/",
+  "captured_jst": "2026-11-20T00:37:01.606192+09:00",
+  "start_jst": "2026-11-20T21:40:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4
+    ],
+    [
+      3,
+      2,
+      6
+    ],
+    [
+      5,
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎高橋奏多大阪・A3・129期",
+      "race_score": 80.0,
+      "running_style": "逃",
+      "win_rate_4m": 57.0,
+      "top2_rate_4m": 79.0,
+      "top3_rate_4m": 86.0,
+      "s_count": 6,
+      "h_count": 3,
+      "b_count": 8,
+      "nige_4m": 4,
+      "maku_4m": 4,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○石貞有基兵庫・A3・100期",
+      "race_score": 70.57,
+      "running_style": "両",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "猪野泰介山形・A3・111期",
+      "race_score": 71.21,
+      "running_style": "逃",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 51.0,
+      "s_count": 4,
+      "h_count": 11,
+      "b_count": 13,
+      "nige_4m": 5,
+      "maku_4m": 4,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲及川裕奨岩手・A3・86期",
+      "race_score": 73.13,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 3
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "志村正洋神奈川・A3・77期",
+      "race_score": 68.45,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆山崎寛巳新潟・A3・93期",
+      "race_score": 68.8,
+      "running_style": "逃",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 1,
+      "h_count": 5,
+      "b_count": 7,
+      "nige_4m": 4,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆長谷川辰徳埼玉・A3・89期",
+      "race_score": 66.22,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 15.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    }
+  ]
+}

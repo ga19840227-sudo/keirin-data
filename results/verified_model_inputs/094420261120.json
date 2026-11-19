@@ -1,0 +1,138 @@
+{
+  "race_id": "094420261120",
+  "source_url": "https://keirinhex.jp/races/20261120/094420261120/",
+  "captured_jst": "2026-11-20T00:38:02.148411+09:00",
+  "start_jst": "2026-11-20T14:19:00+09:00",
+  "line_groups": [
+    [
+      1,
+      6
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "一ノ瀬匠佐賀・A1・92期",
+      "race_score": 88.7,
+      "running_style": "逃",
+      "win_rate_4m": 35.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 55.0,
+      "s_count": 0,
+      "h_count": 11,
+      "b_count": 10,
+      "nige_4m": 8,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆好永晃佐賀・A1・98期",
+      "race_score": 88.16,
+      "running_style": "追",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆田中和磨岡山・A1・113期",
+      "race_score": 94.1,
+      "running_style": "逃",
+      "win_rate_4m": 36.0,
+      "top2_rate_4m": 60.0,
+      "top3_rate_4m": 72.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 5,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "福島栄一香川・A1・93期",
+      "race_score": 89.85,
+      "running_style": "追",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 11,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲池田充槻秋田・A2・127期",
+      "race_score": 91.41,
+      "running_style": "逃",
+      "win_rate_4m": 52.0,
+      "top2_rate_4m": 62.0,
+      "top3_rate_4m": 72.0,
+      "s_count": 1,
+      "h_count": 10,
+      "b_count": 16,
+      "nige_4m": 11,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎菊地圭宮城・A1・123期",
+      "race_score": 92.5,
+      "running_style": "逃",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 69.0,
+      "s_count": 16,
+      "h_count": 14,
+      "b_count": 12,
+      "nige_4m": 5,
+      "maku_4m": 3,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○一守大葵兵庫・A2・127期",
+      "race_score": 91.75,
+      "running_style": "逃",
+      "win_rate_4m": 48.0,
+      "top2_rate_4m": 68.0,
+      "top3_rate_4m": 80.0,
+      "s_count": 3,
+      "h_count": 13,
+      "b_count": 13,
+      "nige_4m": 9,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

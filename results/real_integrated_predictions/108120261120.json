@@ -1,0 +1,312 @@
+{
+  "race_id": "108120261120",
+  "status": "HEURISTIC_NOT_VALIDATED",
+  "model_version": "scenario_order_v1",
+  "top_trifecta": [
+    {
+      "combination": [
+        9,
+        7,
+        5
+      ],
+      "uncalibrated_probability": 0.0079985
+    },
+    {
+      "combination": [
+        9,
+        5,
+        7
+      ],
+      "uncalibrated_probability": 0.007433
+    },
+    {
+      "combination": [
+        7,
+        9,
+        5
+      ],
+      "uncalibrated_probability": 0.0071039
+    },
+    {
+      "combination": [
+        7,
+        2,
+        9
+      ],
+      "uncalibrated_probability": 0.0068403
+    },
+    {
+      "combination": [
+        9,
+        3,
+        7
+      ],
+      "uncalibrated_probability": 0.0067359
+    },
+    {
+      "combination": [
+        9,
+        7,
+        2
+      ],
+      "uncalibrated_probability": 0.0065699
+    },
+    {
+      "combination": [
+        2,
+        7,
+        9
+      ],
+      "uncalibrated_probability": 0.0063368
+    },
+    {
+      "combination": [
+        7,
+        5,
+        9
+      ],
+      "uncalibrated_probability": 0.0062874
+    },
+    {
+      "combination": [
+        5,
+        9,
+        7
+      ],
+      "uncalibrated_probability": 0.0062415
+    },
+    {
+      "combination": [
+        9,
+        7,
+        6
+      ],
+      "uncalibrated_probability": 0.0060089
+    },
+    {
+      "combination": [
+        9,
+        7,
+        3
+      ],
+      "uncalibrated_probability": 0.005973
+    },
+    {
+      "combination": [
+        5,
+        7,
+        9
+      ],
+      "uncalibrated_probability": 0.0059444
+    },
+    {
+      "combination": [
+        9,
+        2,
+        7
+      ],
+      "uncalibrated_probability": 0.00592
+    },
+    {
+      "combination": [
+        3,
+        9,
+        7
+      ],
+      "uncalibrated_probability": 0.0058856
+    },
+    {
+      "combination": [
+        7,
+        9,
+        2
+      ],
+      "uncalibrated_probability": 0.0058351
+    },
+    {
+      "combination": [
+        9,
+        7,
+        1
+      ],
+      "uncalibrated_probability": 0.0057244
+    },
+    {
+      "combination": [
+        9,
+        6,
+        7
+      ],
+      "uncalibrated_probability": 0.0053507
+    },
+    {
+      "combination": [
+        7,
+        9,
+        6
+      ],
+      "uncalibrated_probability": 0.0053369
+    },
+    {
+      "combination": [
+        7,
+        9,
+        3
+      ],
+      "uncalibrated_probability": 0.0053049
+    },
+    {
+      "combination": [
+        9,
+        7,
+        8
+      ],
+      "uncalibrated_probability": 0.0052947
+    }
+  ],
+  "line_groups": [
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      9,
+      3,
+      4
+    ]
+  ],
+  "predicted_first_second": [
+    {
+      "pair": [
+        9,
+        7
+      ],
+      "uncalibrated_probability": 0.042783
+    },
+    {
+      "pair": [
+        7,
+        9
+      ],
+      "uncalibrated_probability": 0.037655
+    },
+    {
+      "pair": [
+        9,
+        5
+      ],
+      "uncalibrated_probability": 0.030468
+    },
+    {
+      "pair": [
+        9,
+        3
+      ],
+      "uncalibrated_probability": 0.029515
+    },
+    {
+      "pair": [
+        3,
+        9
+      ],
+      "uncalibrated_probability": 0.025789
+    },
+    {
+      "pair": [
+        5,
+        9
+      ],
+      "uncalibrated_probability": 0.02537
+    },
+    {
+      "pair": [
+        9,
+        2
+      ],
+      "uncalibrated_probability": 0.02502
+    },
+    {
+      "pair": [
+        7,
+        2
+      ],
+      "uncalibrated_probability": 0.024988
+    },
+    {
+      "pair": [
+        2,
+        7
+      ],
+      "uncalibrated_probability": 0.023148
+    },
+    {
+      "pair": [
+        9,
+        6
+      ],
+      "uncalibrated_probability": 0.022882
+    }
+  ],
+  "plans": [
+    {
+      "first_second_pairs": [
+        [
+          9,
+          7
+        ]
+      ],
+      "third": "ALL_EXCEPT_FIRST_SECOND",
+      "ticket_count": 7,
+      "cost_yen": 700,
+      "hit_probability_uncalibrated": 0.042783,
+      "expected_return_ratio_uncalibrated": null
+    },
+    {
+      "first_second_pairs": [
+        [
+          9,
+          7
+        ],
+        [
+          7,
+          9
+        ]
+      ],
+      "third": "ALL_EXCEPT_FIRST_SECOND",
+      "ticket_count": 14,
+      "cost_yen": 1400,
+      "hit_probability_uncalibrated": 0.080437,
+      "expected_return_ratio_uncalibrated": null
+    },
+    {
+      "first_second_pairs": [
+        [
+          9,
+          7
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "third": "ALL_EXCEPT_FIRST_SECOND",
+      "ticket_count": 21,
+      "cost_yen": 2100,
+      "hit_probability_uncalibrated": 0.110906,
+      "expected_return_ratio_uncalibrated": null
+    }
+  ],
+  "warning": "Illustrative integrated model; probabilities and EV must be calibrated and tested on genuine pre-race snapshots."
+}

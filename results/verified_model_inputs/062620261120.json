@@ -1,0 +1,136 @@
+{
+  "race_id": "062620261120",
+  "source_url": "https://keirinhex.jp/races/20261120/062620261120/",
+  "captured_jst": "2026-11-20T00:37:23.755233+09:00",
+  "start_jst": "2026-11-20T13:04:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4
+    ],
+    [
+      2,
+      3,
+      7,
+      5
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎橋本宇宙佐賀・S2・123期",
+      "race_score": 101.4,
+      "running_style": "逃",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 51.0,
+      "s_count": 0,
+      "h_count": 14,
+      "b_count": 13,
+      "nige_4m": 6,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "三ツ石康洋徳島・S2・86期",
+      "race_score": 94.12,
+      "running_style": "両",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 15.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲植原琢也地元埼玉・S2・113期",
+      "race_score": 94.41,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 14,
+      "h_count": 9,
+      "b_count": 6,
+      "nige_4m": 3,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○早坂秀悟茨城・S2・90期",
+      "race_score": 96.46,
+      "running_style": "逃",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 5,
+      "h_count": 10,
+      "b_count": 8,
+      "nige_4m": 0,
+      "maku_4m": 4,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆大矢将大地元埼玉・S2・81期",
+      "race_score": 97.68,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆岡光良地元埼玉・S2・94期",
+      "race_score": 96.79,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "邊見光輝福島・S2・119期",
+      "race_score": 91.11,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 11.0,
+      "s_count": 0,
+      "h_count": 11,
+      "b_count": 6,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

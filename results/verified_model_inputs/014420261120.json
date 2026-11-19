@@ -1,0 +1,138 @@
+{
+  "race_id": "014420261120",
+  "source_url": "https://keirinhex.jp/races/20261120/014420261120/",
+  "captured_jst": "2026-11-20T00:36:27.180541+09:00",
+  "start_jst": "2026-11-20T10:40:00+09:00",
+  "line_groups": [
+    [
+      1,
+      6
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "坂木田雄介千葉・A2・78期",
+      "race_score": 81.05,
+      "running_style": "逃",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 0,
+      "h_count": 17,
+      "b_count": 14,
+      "nige_4m": 3,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "篠崎高志栃木・A2・72期",
+      "race_score": 78.07,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 6.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎山田哲也愛知・A2・99期",
+      "race_score": 84.22,
+      "running_style": "追",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 9,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲辻力石川・A2・71期",
+      "race_score": 80.96,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆高鍋邦彰福岡・A2・95期",
+      "race_score": 80.66,
+      "running_style": "両",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 1,
+      "h_count": 5,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○楢原由将福岡・A2・94期",
+      "race_score": 82.88,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆宮崎康司香川・A2・94期",
+      "race_score": 81.37,
+      "running_style": "両",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    }
+  ]
+}
