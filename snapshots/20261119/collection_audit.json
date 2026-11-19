@@ -1,13 +1,13 @@
 {
-  "captured_jst": "2026-11-19T20:32:49.041095+09:00",
+  "captured_jst": "2026-11-19T21:39:06.595353+09:00",
   "date": "20261119",
   "source": "https://keirinhex.jp",
-  "visited": 1,
-  "snapshot_count": 1,
+  "visited": 0,
+  "snapshot_count": 0,
   "errors": [],
   "indexed_races": 75,
   "already_saved": 73,
-  "skipped_known_started": 1,
+  "skipped_known_started": 2,
   "verified_saved_total": 75,
   "missing_verified_count": 0
 }
