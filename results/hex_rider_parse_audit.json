@@ -1,5 +1,5 @@
 {
-  "files": 808,
+  "files": 826,
   "verified": 775,
   "parsed_riders": 5506,
   "complete_integrated_inputs": 747,
@@ -16081,6 +16081,32 @@
       ]
     },
     {
+      "file": "snapshots/20261121/012220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261121/014220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
       "file": "snapshots/20261121/018120261121.json",
       "parsed": [
         1,
@@ -16105,6 +16131,58 @@
       ]
     },
     {
+      "file": "snapshots/20261121/022220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261121/024220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261121/032220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261121/034220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
       "file": "snapshots/20261121/038120261121.json",
       "parsed": [
         1,
@@ -16125,6 +16203,32 @@
         7,
         8,
         9
+      ]
+    },
+    {
+      "file": "snapshots/20261121/042220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261121/044220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
       ]
     },
     {
@@ -16152,6 +16256,32 @@
       ]
     },
     {
+      "file": "snapshots/20261121/052220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261121/054220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
       "file": "snapshots/20261121/058120261121.json",
       "parsed": [
         1,
@@ -16173,6 +16303,110 @@
         7,
         8,
         9
+      ]
+    },
+    {
+      "file": "snapshots/20261121/062220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261121/064220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261121/072220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261121/074220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261121/082220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261121/084220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261121/092220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "snapshots/20261121/094220261121.json",
+      "reason": "line_unavailable",
+      "parsed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
       ]
     }
   ]
