@@ -1,0 +1,172 @@
+{
+  "race_id": "128120261121",
+  "source_url": "https://keirinhex.jp/races/20261121/128120261121/",
+  "captured_jst": "2026-11-21T00:01:41.630665+09:00",
+  "start_jst": "2026-11-21T20:30:00+09:00",
+  "line_groups": [
+    [
+      3,
+      8,
+      6
+    ],
+    [
+      4
+    ],
+    [
+      5,
+      7,
+      2
+    ],
+    [
+      9,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "☆眞杉匠栃木・SS・113期",
+      "race_score": 117.41,
+      "running_style": "逃",
+      "win_rate_4m": 32.0,
+      "top2_rate_4m": 47.0,
+      "top3_rate_4m": 68.0,
+      "s_count": 2,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 8,
+      "player_name_raw": "☆坂井洋栃木・S1・115期",
+      "race_score": 113.29,
+      "running_style": "両",
+      "win_rate_4m": 33.0,
+      "top2_rate_4m": 47.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 6,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 5,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "吉澤純平茨城・S1・101期",
+      "race_score": 112.07,
+      "running_style": "両",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 47.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 10,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "荒井崇博長崎・S1・82期",
+      "race_score": 114.66,
+      "running_style": "両",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 39.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎石原颯香川・S1・117期",
+      "race_score": 116.79,
+      "running_style": "逃",
+      "win_rate_4m": 50.0,
+      "top2_rate_4m": 62.0,
+      "top3_rate_4m": 73.0,
+      "s_count": 0,
+      "h_count": 10,
+      "b_count": 15,
+      "nige_4m": 8,
+      "maku_4m": 6,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○清水裕友山口・S1・105期",
+      "race_score": 116.47,
+      "running_style": "両",
+      "win_rate_4m": 43.0,
+      "top2_rate_4m": 52.0,
+      "top3_rate_4m": 62.0,
+      "s_count": 2,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 5,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "松浦悠士広島・S1・98期",
+      "race_score": 115.0,
+      "running_style": "両",
+      "win_rate_4m": 44.0,
+      "top2_rate_4m": 63.0,
+      "top3_rate_4m": 67.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 12,
+      "mark_4m": 2
+    },
+    {
+      "banum": 9,
+      "player_name_raw": "☆深谷知広静岡・S1・96期",
+      "race_score": 116.61,
+      "running_style": "逃",
+      "win_rate_4m": 50.0,
+      "top2_rate_4m": 66.0,
+      "top3_rate_4m": 75.0,
+      "s_count": 7,
+      "h_count": 11,
+      "b_count": 12,
+      "nige_4m": 7,
+      "maku_4m": 9,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲郡司浩平神奈川・SS・99期",
+      "race_score": 116.0,
+      "running_style": "両",
+      "win_rate_4m": 37.0,
+      "top2_rate_4m": 59.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 10,
+      "h_count": 7,
+      "b_count": 11,
+      "nige_4m": 5,
+      "maku_4m": 9,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

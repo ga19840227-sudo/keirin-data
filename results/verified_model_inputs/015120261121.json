@@ -1,0 +1,144 @@
+{
+  "race_id": "015120261121",
+  "source_url": "https://keirinhex.jp/races/20261121/015120261121/",
+  "captured_jst": "2026-11-21T00:00:16.774768+09:00",
+  "start_jst": "2026-11-21T08:50:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "no_fixed_lines_girls",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎奥井迪東京・L1・106期",
+      "race_score": 54.15,
+      "running_style": "逃",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 68.0,
+      "s_count": 2,
+      "h_count": 10,
+      "b_count": 8,
+      "nige_4m": 5,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○赤池七虹静岡・L1・128期",
+      "race_score": 51.85,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 8,
+      "h_count": 5,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆佐々木恵理愛知・L1・110期",
+      "race_score": 47.22,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 12.0,
+      "s_count": 3,
+      "h_count": 3,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲高木佑真神奈川・L1・116期",
+      "race_score": 51.72,
+      "running_style": "両",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 6,
+      "h_count": 4,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 5
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "田口梓乃山口・L1・102期",
+      "race_score": 47.53,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 12.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆田中千尋愛知・L1・114期",
+      "race_score": 48.25,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 20.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "仲井リコ岐阜・L1・130期",
+      "race_score": 44.95,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "date": "20261121",
+  "indexed_races": 39,
+  "visited_in_latest_run": 39,
+  "latest_run_new_snapshots": 39,
+  "verified_snapshots": 39,
+  "complete_rider_inputs": 35,
+  "six_scenario_forecasts": 35,
+  "integrated_forecasts": 35,
+  "missing_rider_inputs": [
+    "018120261121",
+    "038120261121",
+    "048120261121",
+    "058120261121"
+  ],
+  "missing_scenarios": [],
+  "missing_integrated": [],
+  "warning": "Coverage is not accuracy; a forecast is counted only when saved before the race."
+}

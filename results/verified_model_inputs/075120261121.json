@@ -1,0 +1,138 @@
+{
+  "race_id": "075120261121",
+  "source_url": "https://keirinhex.jp/races/20261121/075120261121/",
+  "captured_jst": "2026-11-21T00:01:14.842938+09:00",
+  "start_jst": "2026-11-21T10:55:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5,
+      6
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎高佐龍太郎宮崎・A3・129期",
+      "race_score": 79.9,
+      "running_style": "逃",
+      "win_rate_4m": 58.0,
+      "top2_rate_4m": 92.0,
+      "top3_rate_4m": 96.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 8,
+      "nige_4m": 4,
+      "maku_4m": 10,
+      "sashi_4m": 2,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○下山聖斗鹿児島・A3・127期",
+      "race_score": 78.44,
+      "running_style": "逃",
+      "win_rate_4m": 44.0,
+      "top2_rate_4m": 69.0,
+      "top3_rate_4m": 75.0,
+      "s_count": 14,
+      "h_count": 10,
+      "b_count": 15,
+      "nige_4m": 8,
+      "maku_4m": 9,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "加藤大輔大分・A3・87期",
+      "race_score": 73.29,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 55.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 4
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆西澤優聖岐阜・A3・129期",
+      "race_score": 79.25,
+      "running_style": "逃",
+      "win_rate_4m": 47.0,
+      "top2_rate_4m": 72.0,
+      "top3_rate_4m": 88.0,
+      "s_count": 2,
+      "h_count": 8,
+      "b_count": 11,
+      "nige_4m": 6,
+      "maku_4m": 13,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆山村慮太大阪・A3・97期",
+      "race_score": 76.84,
+      "running_style": "両",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 47.0,
+      "top3_rate_4m": 71.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 11,
+      "mark_4m": 4
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "中西勇福岡・A3・125期",
+      "race_score": 75.08,
+      "running_style": "逃",
+      "win_rate_4m": 39.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 61.0,
+      "s_count": 18,
+      "h_count": 15,
+      "b_count": 12,
+      "nige_4m": 8,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲近藤雄太岡山・A3・121期",
+      "race_score": 78.96,
+      "running_style": "逃",
+      "win_rate_4m": 59.0,
+      "top2_rate_4m": 81.0,
+      "top3_rate_4m": 84.0,
+      "s_count": 12,
+      "h_count": 2,
+      "b_count": 6,
+      "nige_4m": 2,
+      "maku_4m": 17,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    }
+  ]
+}
