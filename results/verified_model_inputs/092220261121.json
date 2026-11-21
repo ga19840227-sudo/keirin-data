@@ -1,0 +1,136 @@
+{
+  "race_id": "092220261121",
+  "source_url": "https://keirinhex.jp/races/20261121/092220261121/",
+  "captured_jst": "2026-11-21T19:28:35.101059+09:00",
+  "start_jst": "2026-11-21T23:30:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      4,
+      2,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎藤田祐大茨城・A1・125期",
+      "race_score": 95.68,
+      "running_style": "逃",
+      "win_rate_4m": 52.0,
+      "top2_rate_4m": 74.0,
+      "top3_rate_4m": 78.0,
+      "s_count": 10,
+      "h_count": 11,
+      "b_count": 14,
+      "nige_4m": 9,
+      "maku_4m": 11,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆田村真広地元群馬・A1・83期",
+      "race_score": 86.57,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "中田拓也広島・A2・127期",
+      "race_score": 89.5,
+      "running_style": "逃",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 76.0,
+      "s_count": 0,
+      "h_count": 19,
+      "b_count": 22,
+      "nige_4m": 13,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "守安政雄岡山・A2・94期",
+      "race_score": 84.42,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲吉田航大分・A2・127期",
+      "race_score": 88.17,
+      "running_style": "逃",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 39.0,
+      "top3_rate_4m": 61.0,
+      "s_count": 16,
+      "h_count": 15,
+      "b_count": 14,
+      "nige_4m": 7,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○野口大誠熊本・A1・105期",
+      "race_score": 92.07,
+      "running_style": "両",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 9,
+      "mark_4m": 4
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆松尾大樹長崎・A2・87期",
+      "race_score": 85.0,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    }
+  ]
+}

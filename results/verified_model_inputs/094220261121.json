@@ -1,0 +1,138 @@
+{
+  "race_id": "094220261121",
+  "source_url": "https://keirinhex.jp/races/20261121/094220261121/",
+  "captured_jst": "2026-11-21T19:28:32.928117+09:00",
+  "start_jst": "2026-11-21T23:20:00+09:00",
+  "line_groups": [
+    [
+      1,
+      7
+    ],
+    [
+      2,
+      3,
+      5
+    ],
+    [
+      4
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "▲片桐善也新潟・A1・117期",
+      "race_score": 92.37,
+      "running_style": "逃",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 3,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 6,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆北野良栄茨城・A2・95期",
+      "race_score": 82.74,
+      "running_style": "両",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 2,
+      "h_count": 11,
+      "b_count": 11,
+      "nige_4m": 6,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎伊藤京介三重・A2・129期",
+      "race_score": 90.75,
+      "running_style": "逃",
+      "win_rate_4m": 77.0,
+      "top2_rate_4m": 91.0,
+      "top3_rate_4m": 91.0,
+      "s_count": 1,
+      "h_count": 9,
+      "b_count": 12,
+      "nige_4m": 10,
+      "maku_4m": 5,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○西村豊三重・A1・84期",
+      "race_score": 90.42,
+      "running_style": "追",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 6,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "宮司周郎地元愛知・A1・82期",
+      "race_score": 85.95,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆森田康嗣北海道・A2・89期",
+      "race_score": 89.81,
+      "running_style": "両",
+      "win_rate_4m": 37.0,
+      "top2_rate_4m": 63.0,
+      "top3_rate_4m": 73.0,
+      "s_count": 18,
+      "h_count": 6,
+      "b_count": 9,
+      "nige_4m": 4,
+      "maku_4m": 8,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "田中俊充福井・A1・76期",
+      "race_score": 85.5,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 4
+    }
+  ]
+}
