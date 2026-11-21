@@ -1,0 +1,136 @@
+{
+  "race_id": "033620261122",
+  "source_url": "https://keirinhex.jp/races/20261122/033620261122/",
+  "captured_jst": "2026-11-22T08:45:06.946113+09:00",
+  "start_jst": "2026-11-22T11:45:00+09:00",
+  "line_groups": [
+    [
+      5,
+      1
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      7,
+      4,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 5,
+      "player_name_raw": "▲馬場和広埼玉・A1・98期",
+      "race_score": 91.88,
+      "running_style": "両",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 8,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 5,
+      "mark_4m": 5
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "稲村好将群馬・A1・81期",
+      "race_score": 89.07,
+      "running_style": "追",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆前田義和鹿児島・A1・94期",
+      "race_score": 87.92,
+      "running_style": "逃",
+      "win_rate_4m": 39.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 1,
+      "h_count": 9,
+      "b_count": 8,
+      "nige_4m": 6,
+      "maku_4m": 6,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆寺崎祐樹熊本・A1・97期",
+      "race_score": 88.08,
+      "running_style": "追",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 60.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 5
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○真木寛斗愛知・A2・127期",
+      "race_score": 92.09,
+      "running_style": "逃",
+      "win_rate_4m": 31.0,
+      "top2_rate_4m": 62.0,
+      "top3_rate_4m": 73.0,
+      "s_count": 5,
+      "h_count": 16,
+      "b_count": 15,
+      "nige_4m": 11,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎佐藤亙愛知・A1・85期",
+      "race_score": 93.08,
+      "running_style": "追",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 64.0,
+      "top3_rate_4m": 76.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 6
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "舘泰守愛知・A1・80期",
+      "race_score": 88.71,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 22.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

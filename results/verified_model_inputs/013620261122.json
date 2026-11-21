@@ -1,0 +1,138 @@
+{
+  "race_id": "013620261122",
+  "source_url": "https://keirinhex.jp/races/20261122/013620261122/",
+  "captured_jst": "2026-11-22T08:44:34.951564+09:00",
+  "start_jst": "2026-11-22T10:50:00+09:00",
+  "line_groups": [
+    [
+      2,
+      7
+    ],
+    [
+      4
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      6,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "▲大関祐也千葉・A2・107期",
+      "race_score": 80.33,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 5,
+      "h_count": 18,
+      "b_count": 15,
+      "nige_4m": 2,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆赤井学千葉・A2・77期",
+      "race_score": 81.33,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 8,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆吉成貴博熊本・A2・97期",
+      "race_score": 82.63,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎橋谷成海埼玉・A1・125期",
+      "race_score": 84.79,
+      "running_style": "逃",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 5,
+      "h_count": 13,
+      "b_count": 11,
+      "nige_4m": 6,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○橋本紀彰茨城・A2・90期",
+      "race_score": 82.76,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "堀僚介大阪・A2・109期",
+      "race_score": 77.55,
+      "running_style": "逃",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 13.0,
+      "s_count": 1,
+      "h_count": 6,
+      "b_count": 4,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "河村章憲京都・A2・83期",
+      "race_score": 81.11,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 4
+    }
+  ]
+}

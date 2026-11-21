@@ -1,0 +1,138 @@
+{
+  "race_id": "073620261122",
+  "source_url": "https://keirinhex.jp/races/20261122/073620261122/",
+  "captured_jst": "2026-11-22T08:46:09.619651+09:00",
+  "start_jst": "2026-11-22T13:33:00+09:00",
+  "line_groups": [
+    [
+      1,
+      7,
+      5
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎河合佑弥東京・S2・113期",
+      "race_score": 100.6,
+      "running_style": "逃",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 0,
+      "h_count": 7,
+      "b_count": 8,
+      "nige_4m": 3,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○片折亮太埼玉・S2・92期",
+      "race_score": 98.5,
+      "running_style": "両",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲小榑佑弥群馬・S2・121期",
+      "race_score": 93.68,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 10.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆伊藤裕貴三重・S2・100期",
+      "race_score": 98.84,
+      "running_style": "両",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 8,
+      "h_count": 3,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "小酒大勇宮崎・S2・103期",
+      "race_score": 97.08,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 20.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "伊藤成紀大阪・S2・90期",
+      "race_score": 96.1,
+      "running_style": "両",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆内山貴裕京都・S2・95期",
+      "race_score": 93.46,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 7.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    }
+  ]
+}

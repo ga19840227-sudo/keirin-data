@@ -1,0 +1,174 @@
+{
+  "race_id": "058120261122",
+  "source_url": "https://keirinhex.jp/races/20261122/058120261122/",
+  "captured_jst": "2026-11-22T08:45:49.535325+09:00",
+  "start_jst": "2026-11-22T16:57:00+09:00",
+  "line_groups": [
+    [
+      2,
+      5
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      7
+    ],
+    [
+      8,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "▲杉浦侑吾栃木・S1・115期",
+      "race_score": 111.82,
+      "running_style": "逃",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 0,
+      "h_count": 15,
+      "b_count": 12,
+      "nige_4m": 7,
+      "maku_4m": 7,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○小林泰正群馬・S1・113期",
+      "race_score": 110.6,
+      "running_style": "逃",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 1,
+      "h_count": 3,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 4,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "三谷竜生奈良・S1・101期",
+      "race_score": 109.25,
+      "running_style": "両",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 45.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 7,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 7,
+      "sashi_4m": 1,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "笠松信幸愛知・S1・84期",
+      "race_score": 106.87,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 4
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆菅原大也神奈川・S1・107期",
+      "race_score": 104.09,
+      "running_style": "両",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 4,
+      "h_count": 11,
+      "b_count": 10,
+      "nige_4m": 1,
+      "maku_4m": 7,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 9,
+      "player_name_raw": "◎岩本俊介千葉・S1・94期",
+      "race_score": 112.88,
+      "running_style": "両",
+      "win_rate_4m": 36.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 1,
+      "h_count": 7,
+      "b_count": 7,
+      "nige_4m": 4,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "柏野智典岡山・S1・88期",
+      "race_score": 108.78,
+      "running_style": "追",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 49.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 3
+    },
+    {
+      "banum": 8,
+      "player_name_raw": "☆阿部将大大分・S1・117期",
+      "race_score": 106.24,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 11,
+      "h_count": 5,
+      "b_count": 6,
+      "nige_4m": 0,
+      "maku_4m": 4,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "☆園田匠地元福岡・S1・87期",
+      "race_score": 108.0,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    }
+  ]
+}

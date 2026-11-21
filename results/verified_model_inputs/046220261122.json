@@ -1,0 +1,136 @@
+{
+  "race_id": "046220261122",
+  "source_url": "https://keirinhex.jp/races/20261122/046220261122/",
+  "captured_jst": "2026-11-22T08:45:31.919630+09:00",
+  "start_jst": "2026-11-22T09:52:00+09:00",
+  "line_groups": [
+    [
+      2,
+      4,
+      7
+    ],
+    [
+      5,
+      3,
+      1
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "▲松本卓也徳島・A1・98期",
+      "race_score": 85.87,
+      "running_style": "両",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎青井賢治徳島・A1・81期",
+      "race_score": 91.78,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆行成大祐香川・A2・80期",
+      "race_score": 80.0,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○高橋幸司沖縄・A1・99期",
+      "race_score": 87.33,
+      "running_style": "逃",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 1,
+      "h_count": 13,
+      "b_count": 16,
+      "nige_4m": 9,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "安東英博大分・A2・87期",
+      "race_score": 83.44,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "鈴木誠福島・A1・84期",
+      "race_score": 84.23,
+      "running_style": "追",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 11,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆佐藤啓斗青森・A2・119期",
+      "race_score": 79.03,
+      "running_style": "逃",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 14.0,
+      "s_count": 0,
+      "h_count": 8,
+      "b_count": 5,
+      "nige_4m": 0,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

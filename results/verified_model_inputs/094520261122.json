@@ -1,0 +1,136 @@
+{
+  "race_id": "094520261122",
+  "source_url": "https://keirinhex.jp/races/20261122/094520261122/",
+  "captured_jst": "2026-11-22T08:46:42.257821+09:00",
+  "start_jst": "2026-11-22T14:20:00+09:00",
+  "line_groups": [
+    [
+      2,
+      7
+    ],
+    [
+      5,
+      1,
+      4
+    ],
+    [
+      6,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "☆一戸康宏埼玉・S2・101期",
+      "race_score": 101.6,
+      "running_style": "両",
+      "win_rate_4m": 33.0,
+      "top2_rate_4m": 37.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 8,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "佐藤壮千葉・S1・100期",
+      "race_score": 101.78,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎伊藤信大阪・S1・92期",
+      "race_score": 105.64,
+      "running_style": "逃",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 60.0,
+      "s_count": 2,
+      "h_count": 1,
+      "b_count": 2,
+      "nige_4m": 2,
+      "maku_4m": 11,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "○岡本総地元愛知・S1・105期",
+      "race_score": 106.86,
+      "running_style": "追",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲吉川起也富山・S2・92期",
+      "race_score": 99.13,
+      "running_style": "両",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "後藤悠岩手・S2・115期",
+      "race_score": 94.77,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 6,
+      "h_count": 8,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆坂本周輝青森・S2・100期",
+      "race_score": 98.67,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 2,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    }
+  ]
+}

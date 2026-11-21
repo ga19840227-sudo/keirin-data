@@ -1,0 +1,138 @@
+{
+  "race_id": "074520261122",
+  "source_url": "https://keirinhex.jp/races/20261122/074520261122/",
+  "captured_jst": "2026-11-22T08:46:13.922728+09:00",
+  "start_jst": "2026-11-22T13:24:00+09:00",
+  "line_groups": [
+    [
+      1,
+      7
+    ],
+    [
+      2,
+      6,
+      4
+    ],
+    [
+      3
+    ],
+    [
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎川上隆義栃木・S2・125期",
+      "race_score": 102.12,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 1,
+      "h_count": 14,
+      "b_count": 13,
+      "nige_4m": 5,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○古川尚耶栃木・S2・92期",
+      "race_score": 95.81,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆山根慶太岡山・S2・123期",
+      "race_score": 93.95,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 16.0,
+      "s_count": 0,
+      "h_count": 6,
+      "b_count": 6,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆棚橋勉岡山・S2・96期",
+      "race_score": 93.8,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 10.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "吉松直人高知・S2・90期",
+      "race_score": 96.23,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲山内卓也地元愛知・S2・77期",
+      "race_score": 100.57,
+      "running_style": "追",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 9,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "今藤康裕岐阜・S2・99期",
+      "race_score": 95.87,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 8,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    }
+  ]
+}

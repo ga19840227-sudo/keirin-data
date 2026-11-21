@@ -1,0 +1,172 @@
+{
+  "race_id": "108120261122",
+  "source_url": "https://keirinhex.jp/races/20261122/108120261122/",
+  "captured_jst": "2026-11-22T08:46:55.339027+09:00",
+  "start_jst": "2026-11-22T19:21:00+09:00",
+  "line_groups": [
+    [
+      4,
+      2,
+      6
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      7,
+      3
+    ],
+    [
+      8,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 4,
+      "player_name_raw": "☆新田祐大福島・S1・90期",
+      "race_score": 112.94,
+      "running_style": "両",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲阿部拓真宮城・SS・107期",
+      "race_score": 115.75,
+      "running_style": "両",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 8,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 8,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "和田圭宮城・S1・92期",
+      "race_score": 109.67,
+      "running_style": "追",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 47.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 9,
+      "mark_4m": 6
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆坂井洋栃木・S1・115期",
+      "race_score": 113.29,
+      "running_style": "両",
+      "win_rate_4m": 32.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 6,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 5,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 9,
+      "player_name_raw": "☆武藤龍生埼玉・S1・98期",
+      "race_score": 113.88,
+      "running_style": "追",
+      "win_rate_4m": 30.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 9,
+      "mark_4m": 5
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎犬伏湧也徳島・S1・119期",
+      "race_score": 120.31,
+      "running_style": "逃",
+      "win_rate_4m": 37.0,
+      "top2_rate_4m": 63.0,
+      "top3_rate_4m": 79.0,
+      "s_count": 0,
+      "h_count": 6,
+      "b_count": 10,
+      "nige_4m": 4,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○清水裕友山口・S1・105期",
+      "race_score": 116.47,
+      "running_style": "両",
+      "win_rate_4m": 41.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 2,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 5,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 8,
+      "player_name_raw": "山崎賢人長崎・S1・111期",
+      "race_score": 112.89,
+      "running_style": "逃",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 55.0,
+      "top3_rate_4m": 67.0,
+      "s_count": 4,
+      "h_count": 11,
+      "b_count": 16,
+      "nige_4m": 7,
+      "maku_4m": 8,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "荒井崇博長崎・S1・82期",
+      "race_score": 114.66,
+      "running_style": "両",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 67.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    }
+  ]
+}
