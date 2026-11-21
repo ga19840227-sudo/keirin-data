@@ -1,17 +1,13 @@
 {
   "date": "20261121",
-  "retrieved_jst": "2026-11-21T23:12:53.089834+09:00",
+  "retrieved_jst": "2026-11-22T00:59:28.844909+09:00",
   "source": "https://keirinhex.jp",
   "listed": 57,
-  "checked": 57,
-  "result_confirmed": 51,
+  "checked": 6,
+  "result_confirmed": 55,
   "pending": [
     "045120261121",
-    "055120261121",
-    "082220261121",
-    "084220261121",
-    "092220261121",
-    "094220261121"
+    "055120261121"
   ],
   "errors": [],
   "official_payout_confirmed": 0,
