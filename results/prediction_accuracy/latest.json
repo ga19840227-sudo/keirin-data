@@ -1,9 +1,9 @@
 {
   "forecasts": 764,
-  "settled_forecasts": 740,
+  "settled_forecasts": 742,
   "top1_pair_hits": 151,
-  "top3_pair_hits": 306,
-  "top10_pair_hits": 534,
+  "top3_pair_hits": 307,
+  "top10_pair_hits": 536,
   "missing_results": [
     "012220261121",
     "014220261121",
@@ -26,9 +26,7 @@
     "087320261116",
     "092220261121",
     "094220261121",
-    "114820261113",
-    "118120261121",
-    "128120261121"
+    "114820261113"
   ],
   "per_race": [
     {
@@ -10667,6 +10665,21 @@
       "top10_hit": false
     },
     {
+      "race_id": "118120261121",
+      "actual": [
+        3,
+        1,
+        7
+      ],
+      "top1_pair": [
+        3,
+        7
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
       "race_id": "118420261110",
       "actual": [
         1,
@@ -11057,6 +11070,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "128120261121",
+      "actual": [
+        1,
+        9,
+        4
+      ],
+      "top1_pair": [
+        9,
+        1
+      ],
+      "top1_hit": false,
+      "top3_hit": true,
+      "top10_hit": true
+    },
+    {
       "race_id": "128420261110",
       "actual": [
         4,
@@ -11133,69 +11161,69 @@
     }
   ],
   "note": "Pre-start forecasts only; pair hit means exact first and second; odds/payout excluded.",
-  "top1_pair_hit_rate": 0.2041,
-  "top3_pair_hit_rate": 0.4135,
-  "top10_pair_hit_rate": 0.7216,
+  "top1_pair_hit_rate": 0.2035,
+  "top3_pair_hit_rate": 0.4137,
+  "top10_pair_hit_rate": 0.7224,
   "trifecta": {
-    "settled_races": 740,
+    "settled_races": 742,
     "ranked": {
       "1": {
-        "races": 674,
+        "races": 676,
         "hits": 49,
-        "stake_yen": 67400,
-        "hit_rate": 0.0727
+        "stake_yen": 67600,
+        "hit_rate": 0.0725
       },
       "3": {
-        "races": 674,
+        "races": 676,
         "hits": 116,
-        "stake_yen": 202200,
-        "hit_rate": 0.1721
+        "stake_yen": 202800,
+        "hit_rate": 0.1716
       },
       "5": {
-        "races": 674,
-        "hits": 161,
-        "stake_yen": 337000,
-        "hit_rate": 0.2389
+        "races": 676,
+        "hits": 162,
+        "stake_yen": 338000,
+        "hit_rate": 0.2396
       },
       "10": {
-        "races": 674,
-        "hits": 237,
-        "stake_yen": 674000,
-        "hit_rate": 0.3516
+        "races": 676,
+        "hits": 238,
+        "stake_yen": 676000,
+        "hit_rate": 0.3521
       },
       "20": {
-        "races": 674,
-        "hits": 333,
-        "stake_yen": 1348000,
+        "races": 676,
+        "hits": 334,
+        "stake_yen": 1352000,
         "hit_rate": 0.4941
       }
     },
     "plans": {
       "1": {
-        "races": 740,
+        "races": 742,
         "hits": 151,
-        "stake_yen": 378500,
+        "stake_yen": 379900,
         "verified_payout_yen": 0,
         "payout_verified_races": 0,
-        "hit_rate": 0.2041,
+        "hit_rate": 0.2035,
         "roi": null
       },
       "2": {
-        "races": 740,
-        "hits": 243,
-        "stake_yen": 757000,
+        "races": 742,
+        "hits": 244,
+        "stake_yen": 759800,
         "verified_payout_yen": 0,
         "payout_verified_races": 0,
-        "hit_rate": 0.3284,
+        "hit_rate": 0.3288,
         "roi": null
       },
       "3": {
-        "races": 740,
-        "hits": 306,
-        "stake_yen": 1135500,
+        "races": 742,
+        "hits": 307,
+        "stake_yen": 1139700,
         "verified_payout_yen": 0,
         "payout_verified_races": 0,
-        "hit_rate": 0.4135,
+        "hit_rate": 0.4137,
         "roi": null
       }
     },
@@ -11203,58 +11231,58 @@
   },
   "development_scenarios": {
     "ability": {
-      "races": 740,
+      "races": 742,
       "top1_hits": 91,
       "top3_hits": 245,
-      "top10_hits": 461,
-      "top1_hit_rate": 0.123,
-      "top3_hit_rate": 0.3311,
-      "top10_hit_rate": 0.623
+      "top10_hits": 462,
+      "top1_hit_rate": 0.1226,
+      "top3_hit_rate": 0.3302,
+      "top10_hit_rate": 0.6226
     },
     "front_control": {
-      "races": 740,
+      "races": 742,
       "top1_hits": 76,
-      "top3_hits": 214,
-      "top10_hits": 459,
-      "top1_hit_rate": 0.1027,
-      "top3_hit_rate": 0.2892,
-      "top10_hit_rate": 0.6203
+      "top3_hits": 215,
+      "top10_hits": 460,
+      "top1_hit_rate": 0.1024,
+      "top3_hit_rate": 0.2898,
+      "top10_hit_rate": 0.6199
     },
     "makuri": {
-      "races": 740,
+      "races": 742,
       "top1_hits": 89,
-      "top3_hits": 241,
-      "top10_hits": 467,
-      "top1_hit_rate": 0.1203,
-      "top3_hit_rate": 0.3257,
-      "top10_hit_rate": 0.6311
+      "top3_hits": 242,
+      "top10_hits": 469,
+      "top1_hit_rate": 0.1199,
+      "top3_hit_rate": 0.3261,
+      "top10_hit_rate": 0.6321
     },
     "second_sashi": {
-      "races": 740,
+      "races": 742,
       "top1_hits": 78,
       "top3_hits": 197,
       "top10_hits": 444,
-      "top1_hit_rate": 0.1054,
-      "top3_hit_rate": 0.2662,
-      "top10_hit_rate": 0.6
+      "top1_hit_rate": 0.1051,
+      "top3_hit_rate": 0.2655,
+      "top10_hit_rate": 0.5984
     },
     "line_cohesion": {
-      "races": 740,
+      "races": 742,
       "top1_hits": 121,
-      "top3_hits": 277,
-      "top10_hits": 511,
-      "top1_hit_rate": 0.1635,
-      "top3_hit_rate": 0.3743,
-      "top10_hit_rate": 0.6905
+      "top3_hits": 278,
+      "top10_hits": 512,
+      "top1_hit_rate": 0.1631,
+      "top3_hit_rate": 0.3747,
+      "top10_hit_rate": 0.69
     },
     "mixed": {
-      "races": 740,
+      "races": 742,
       "top1_hits": 134,
       "top3_hits": 275,
-      "top10_hits": 504,
-      "top1_hit_rate": 0.1811,
-      "top3_hit_rate": 0.3716,
-      "top10_hit_rate": 0.6811
+      "top10_hits": 506,
+      "top1_hit_rate": 0.1806,
+      "top3_hit_rate": 0.3706,
+      "top10_hit_rate": 0.6819
     }
   },
   "scenario_warning": "Six fixed hypotheses; no fitting or verified improvement. Small samples cannot establish superiority."
