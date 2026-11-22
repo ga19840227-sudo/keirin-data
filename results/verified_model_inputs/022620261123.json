@@ -1,0 +1,136 @@
+{
+  "race_id": "022620261123",
+  "source_url": "https://keirinhex.jp/races/20261123/022620261123/",
+  "captured_jst": "2026-11-23T08:48:24.742773+09:00",
+  "start_jst": "2026-11-23T15:52:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      4,
+      3,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎森川康輔岐阜・A3・111期",
+      "race_score": 75.03,
+      "running_style": "両",
+      "win_rate_4m": 37.0,
+      "top2_rate_4m": 57.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 6,
+      "h_count": 1,
+      "b_count": 2,
+      "nige_4m": 2,
+      "maku_4m": 10,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲藤縄洋介兵庫・A3・89期",
+      "race_score": 70.09,
+      "running_style": "両",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 11,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆平川雅晃長野・A3・107期",
+      "race_score": 70.66,
+      "running_style": "逃",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 7,
+      "h_count": 15,
+      "b_count": 11,
+      "nige_4m": 6,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆菅藤智群馬・A3・95期",
+      "race_score": 72.44,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○藤岡祐馬神奈川・A3・129期",
+      "race_score": 73.87,
+      "running_style": "逃",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 5,
+      "h_count": 14,
+      "b_count": 11,
+      "nige_4m": 9,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "畠山裕行神奈川・A3・82期",
+      "race_score": 68.8,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "齋藤輝彦神奈川・A3・93期",
+      "race_score": 68.58,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    }
+  ]
+}

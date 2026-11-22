@@ -1,0 +1,136 @@
+{
+  "race_id": "036220261123",
+  "source_url": "https://keirinhex.jp/races/20261123/036220261123/",
+  "captured_jst": "2026-11-23T08:49:02.038189+09:00",
+  "start_jst": "2026-11-23T09:30:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4,
+      3
+    ],
+    [
+      5,
+      2,
+      7
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "夏目新吾静岡・A2・103期",
+      "race_score": 83.41,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 1,
+      "h_count": 13,
+      "b_count": 12,
+      "nige_4m": 2,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲江本博明千葉・A2・90期",
+      "race_score": 84.44,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "鈴木誠福島・A1・84期",
+      "race_score": 84.23,
+      "running_style": "追",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 11,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎長松大祐大分・A2・121期",
+      "race_score": 84.95,
+      "running_style": "逃",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 2,
+      "h_count": 7,
+      "b_count": 7,
+      "nige_4m": 4,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○井寺亮太長崎・A1・113期",
+      "race_score": 83.12,
+      "running_style": "両",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆米嶋賢二長崎・A2・77期",
+      "race_score": 78.46,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 16.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆佐伯辰哉地元広島・A1・109期",
+      "race_score": 78.38,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 9.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

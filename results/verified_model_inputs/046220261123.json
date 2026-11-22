@@ -1,0 +1,138 @@
+{
+  "race_id": "046220261123",
+  "source_url": "https://keirinhex.jp/races/20261123/046220261123/",
+  "captured_jst": "2026-11-23T08:49:26.526681+09:00",
+  "start_jst": "2026-11-23T09:50:00+09:00",
+  "line_groups": [
+    [
+      1,
+      6
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      4
+    ],
+    [
+      7,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "○松本卓也徳島・A1・98期",
+      "race_score": 85.87,
+      "running_style": "両",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆行成大祐香川・A2・80期",
+      "race_score": 80.0,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 22.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲松岡孝高熊本・A1・98期",
+      "race_score": 83.61,
+      "running_style": "両",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 1,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎福田要宮崎・A2・121期",
+      "race_score": 89.04,
+      "running_style": "両",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 2,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 6,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆小島雅章埼玉・A2・83期",
+      "race_score": 82.8,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "田頭寛之千葉・A1・109期",
+      "race_score": 84.29,
+      "running_style": "両",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 5,
+      "h_count": 5,
+      "b_count": 4,
+      "nige_4m": 3,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "中曽直彦千葉・A2・74期",
+      "race_score": 83.92,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    }
+  ]
+}

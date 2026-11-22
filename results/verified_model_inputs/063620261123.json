@@ -1,0 +1,138 @@
+{
+  "race_id": "063620261123",
+  "source_url": "https://keirinhex.jp/races/20261123/063620261123/",
+  "captured_jst": "2026-11-23T08:49:59.522602+09:00",
+  "start_jst": "2026-11-23T13:11:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2,
+      7,
+      6
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      4
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆伊藤成紀大阪・S2・90期",
+      "race_score": 96.1,
+      "running_style": "両",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎河合佑弥東京・S2・113期",
+      "race_score": 100.6,
+      "running_style": "逃",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 0,
+      "h_count": 7,
+      "b_count": 8,
+      "nige_4m": 3,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲植原琢也埼玉・S2・113期",
+      "race_score": 94.18,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 15,
+      "h_count": 9,
+      "b_count": 6,
+      "nige_4m": 3,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "小榑佑弥群馬・S2・121期",
+      "race_score": 93.68,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 9.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "荒川仁千葉・S2・121期",
+      "race_score": 93.92,
+      "running_style": "逃",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 1,
+      "h_count": 4,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆野崎将史岡山・S2・109期",
+      "race_score": 97.52,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○横関裕樹岐阜・S2・99期",
+      "race_score": 101.55,
+      "running_style": "両",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 15,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 1
+    }
+  ]
+}

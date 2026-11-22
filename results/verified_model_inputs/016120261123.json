@@ -1,0 +1,144 @@
+{
+  "race_id": "016120261123",
+  "source_url": "https://keirinhex.jp/races/20261123/016120261123/",
+  "captured_jst": "2026-11-23T08:48:15.945614+09:00",
+  "start_jst": "2026-11-23T20:57:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "no_fixed_lines_girls",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎渡口まりあ山口・L1・114期",
+      "race_score": 53.93,
+      "running_style": "両",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 68.0,
+      "s_count": 7,
+      "h_count": 21,
+      "b_count": 24,
+      "nige_4m": 7,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲林真奈美福岡・L1・110期",
+      "race_score": 53.42,
+      "running_style": "両",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 55.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 3
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○山口優依愛知・L1・124期",
+      "race_score": 52.92,
+      "running_style": "両",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 17.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 13,
+      "h_count": 17,
+      "b_count": 14,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆古山稀絵静岡・L1・130期",
+      "race_score": 51.96,
+      "running_style": "両",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 2,
+      "h_count": 3,
+      "b_count": 4,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆佐々木綾東京・L1・116期",
+      "race_score": 49.52,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "三宅玲奈地元岡山・L1・108期",
+      "race_score": 47.63,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "岡村育子埼玉・L1・102期",
+      "race_score": 46.82,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

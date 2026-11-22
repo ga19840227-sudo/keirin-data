@@ -1,0 +1,136 @@
+{
+  "race_id": "072620261123",
+  "source_url": "https://keirinhex.jp/races/20261123/072620261123/",
+  "captured_jst": "2026-11-23T08:50:16.814022+09:00",
+  "start_jst": "2026-11-23T18:05:00+09:00",
+  "line_groups": [
+    [
+      2,
+      5,
+      4
+    ],
+    [
+      3,
+      7,
+      1
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "☆樋口開土東京・A1・113期",
+      "race_score": 84.0,
+      "running_style": "逃",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 0,
+      "h_count": 4,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆塚本和宏栃木・A2・90期",
+      "race_score": 85.61,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "齋藤昌弘群馬・A2・90期",
+      "race_score": 81.82,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "◎辻田祥大三重・A2・127期",
+      "race_score": 89.91,
+      "running_style": "逃",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 71.0,
+      "s_count": 0,
+      "h_count": 12,
+      "b_count": 16,
+      "nige_4m": 7,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○水谷将司愛知・A2・105期",
+      "race_score": 90.29,
+      "running_style": "追",
+      "win_rate_4m": 33.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 9,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲加藤正法愛知・A2・96期",
+      "race_score": 79.92,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "佐野洋継京都・A2・97期",
+      "race_score": 79.18,
+      "running_style": "両",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 20.0,
+      "s_count": 6,
+      "h_count": 2,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    }
+  ]
+}
