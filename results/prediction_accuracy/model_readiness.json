@@ -1,24 +1,24 @@
 {
-  "generated_jst": "2026-11-22T15:02:35.688104+09:00",
+  "generated_jst": "2026-11-22T16:16:37.585790+09:00",
   "production_model": "scenario_order_v1",
   "experimental_model": "sashi_makuri_v1",
   "prospective_from_date": "20261112",
-  "prospective_comparable_races": 421,
+  "prospective_comparable_races": 424,
   "prospective_old_top5_hits": 110,
-  "prospective_experimental_top5_hits": 106,
+  "prospective_experimental_top5_hits": 107,
   "payout_coverage": {
     "1": {
-      "races": 792,
+      "races": 795,
       "payout_verified_races": 0,
       "roi": null
     },
     "2": {
-      "races": 792,
+      "races": 795,
       "payout_verified_races": 0,
       "roi": null
     },
     "3": {
-      "races": 792,
+      "races": 795,
       "payout_verified_races": 0,
       "roi": null
     }
