@@ -1,0 +1,136 @@
+{
+  "race_id": "012220261122",
+  "source_url": "https://keirinhex.jp/races/20261122/012220261122/",
+  "captured_jst": "2026-11-22T19:27:24.559251+09:00",
+  "start_jst": "2026-11-22T20:50:00+09:00",
+  "line_groups": [
+    [
+      2,
+      4
+    ],
+    [
+      5,
+      3,
+      1,
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "◎鶴健志福岡・A3・129期",
+      "race_score": 73.5,
+      "running_style": "逃",
+      "win_rate_4m": 31.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 1,
+      "h_count": 9,
+      "b_count": 10,
+      "nige_4m": 5,
+      "maku_4m": 6,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "齋藤仁徳島・A3・83期",
+      "race_score": 70.03,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆菅原洋輔岩手・A3・98期",
+      "race_score": 68.87,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 5.0,
+      "top3_rate_4m": 21.0,
+      "s_count": 6,
+      "h_count": 6,
+      "b_count": 7,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○中野良北海道・A3・83期",
+      "race_score": 72.96,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 5
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲坂本英一栃木・A3・59期",
+      "race_score": 75.03,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 8
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆長崎達也神奈川・A3・89期",
+      "race_score": 67.37,
+      "running_style": "両",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 22.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "山内大作静岡・A3・75期",
+      "race_score": 65.0,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 8.0,
+      "s_count": 1,
+      "h_count": 2,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

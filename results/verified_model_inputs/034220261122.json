@@ -1,0 +1,136 @@
+{
+  "race_id": "034220261122",
+  "source_url": "https://keirinhex.jp/races/20261122/034220261122/",
+  "captured_jst": "2026-11-22T19:27:30.980336+09:00",
+  "start_jst": "2026-11-22T21:20:00+09:00",
+  "line_groups": [
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      7,
+      5
+    ],
+    [
+      6,
+      4
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎北村翔太群馬・A3・129期",
+      "race_score": 78.44,
+      "running_style": "逃",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 70.0,
+      "top3_rate_4m": 74.0,
+      "s_count": 4,
+      "h_count": 5,
+      "b_count": 7,
+      "nige_4m": 2,
+      "maku_4m": 6,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○小川大地地元愛知・A3・98期",
+      "race_score": 76.03,
+      "running_style": "追",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 15,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 8,
+      "mark_4m": 3
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲大本隆也神奈川・A3・127期",
+      "race_score": 75.08,
+      "running_style": "逃",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 0,
+      "h_count": 13,
+      "b_count": 15,
+      "nige_4m": 7,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "志村正洋神奈川・A3・77期",
+      "race_score": 68.45,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "藤田晃英千葉・A3・76期",
+      "race_score": 70.0,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆三浦綾宮城・A3・105期",
+      "race_score": 69.46,
+      "running_style": "逃",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 1,
+      "h_count": 9,
+      "b_count": 8,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆及川裕奨岩手・A3・86期",
+      "race_score": 73.13,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 3
+    }
+  ]
+}
