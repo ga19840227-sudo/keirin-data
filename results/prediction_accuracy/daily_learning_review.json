@@ -1,15 +1,15 @@
 {
-  "generated_jst": "2026-11-23T11:54:45.333726+09:00",
+  "generated_jst": "2026-11-23T12:50:45.528009+09:00",
   "last_7_days": {
     "20261123": {
-      "races": 19,
-      "old_top1": 2,
-      "old_top5": 6,
-      "old_top10": 8,
+      "races": 25,
+      "old_top1": 3,
+      "old_top5": 7,
+      "old_top10": 10,
       "experimental_top1": 1,
-      "experimental_top5": 6,
-      "experimental_top10": 10,
-      "pair_top1": 6,
+      "experimental_top5": 7,
+      "experimental_top10": 12,
+      "pair_top1": 7,
       "errors": [],
       "miss_examples": [
         {
@@ -354,127 +354,129 @@
           ]
         },
         {
-          "race_id": "036220261123",
+          "race_id": "033620261123",
           "actual": [
-            4,
             3,
+            1,
             2
           ],
           "old_top3": [
             [
-              4,
-              1,
-              3
+              7,
+              3,
+              1
             ],
             [
-              5,
-              2,
-              4
+              3,
+              7,
+              1
             ],
             [
-              1,
-              4,
-              3
+              7,
+              3,
+              5
             ]
           ],
           "experimental_top3": [
             [
-              4,
-              1,
-              3
+              7,
+              3,
+              1
             ],
             [
-              4,
-              1,
+              7,
+              3,
               5
             ],
             [
-              2,
-              5,
-              4
+              3,
+              7,
+              1
             ]
           ],
           "lines": [
             [
               1,
-              4,
-              3
+              5
             ],
             [
-              5,
-              2,
-              7
+              2
             ],
             [
+              3,
+              7,
               6
+            ],
+            [
+              4
             ]
           ]
         },
         {
-          "race_id": "038420261123",
+          "race_id": "034520261123",
           "actual": [
-            3,
-            5,
-            1
+            7,
+            1,
+            3
           ],
           "old_top3": [
             [
-              3,
-              5,
-              2
-            ],
-            [
-              3,
               2,
-              5
+              5,
+              3
+            ],
+            [
+              2,
+              5,
+              1
             ],
             [
               5,
-              3,
-              2
+              2,
+              3
             ]
           ],
           "experimental_top3": [
             [
-              3,
               5,
-              2
-            ],
-            [
-              5,
-              3,
-              2
-            ],
-            [
-              3,
               2,
-              5
+              1
+            ],
+            [
+              5,
+              2,
+              3
+            ],
+            [
+              2,
+              5,
+              1
             ]
           ],
           "lines": [
             [
               2,
-              7
+              5
             ],
             [
               3,
-              5,
               6
             ],
             [
-              4,
-              1
+              7,
+              1,
+              4
             ]
           ]
         }
       ],
-      "old_top1_rate": 0.1053,
-      "old_top5_rate": 0.3158,
-      "old_top10_rate": 0.4211,
-      "experimental_top1_rate": 0.0526,
-      "experimental_top5_rate": 0.3158,
-      "experimental_top10_rate": 0.5263,
-      "pair_top1_rate": 0.3158
+      "old_top1_rate": 0.12,
+      "old_top5_rate": 0.28,
+      "old_top10_rate": 0.4,
+      "experimental_top1_rate": 0.04,
+      "experimental_top5_rate": 0.28,
+      "experimental_top10_rate": 0.48,
+      "pair_top1_rate": 0.28
     },
     "20261122": {
       "races": 62,
