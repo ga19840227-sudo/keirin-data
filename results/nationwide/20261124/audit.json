@@ -1,0 +1,17 @@
+{
+  "date": "20261124",
+  "retrieved_jst": "2026-11-24T01:21:43.804531+09:00",
+  "source": "https://keirinhex.jp",
+  "listed": 0,
+  "checked": 0,
+  "result_confirmed": 0,
+  "pending": [],
+  "errors": [
+    {
+      "stage": "index",
+      "error": "<urlopen error [Errno 110] Connection timed out>"
+    }
+  ],
+  "official_payout_confirmed": 0,
+  "warning": "Archived results only; not a pre-race model backtest."
+}

@@ -1,15 +1,17 @@
 {
   "date": "20261123",
-  "retrieved_jst": "2026-11-23T23:33:41.134681+09:00",
+  "retrieved_jst": "2026-11-24T01:23:59.939625+09:00",
   "source": "https://keirinhex.jp",
-  "listed": 89,
-  "checked": 89,
-  "result_confirmed": 87,
-  "pending": [
-    "076120261123",
-    "073420261123"
+  "listed": 0,
+  "checked": 0,
+  "result_confirmed": 0,
+  "pending": [],
+  "errors": [
+    {
+      "stage": "index",
+      "error": "<urlopen error [Errno 110] Connection timed out>"
+    }
   ],
-  "errors": [],
   "official_payout_confirmed": 0,
   "warning": "Archived results only; not a pre-race model backtest."
 }
