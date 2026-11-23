@@ -1,0 +1,119 @@
+{
+  "race_id": "025320261124",
+  "source_url": "https://keirinhex.jp/races/20261124/025320261124/",
+  "captured_jst": "2026-11-24T08:56:04.865335+09:00",
+  "start_jst": "2026-11-24T11:41:00+09:00",
+  "line_groups": [
+    [
+      2,
+      4
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      5,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "☆鈴木雄一朗東京・A3・94期",
+      "race_score": 63.85,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 4.0,
+      "s_count": 0,
+      "h_count": 7,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲関戸努宮城・A3・82期",
+      "race_score": 68.88,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "木下章長野・A3・61期",
+      "race_score": 69.07,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "○高橋由記群馬・A3・88期",
+      "race_score": 69.86,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎富永昌久佐賀・A3・88期",
+      "race_score": 69.9,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "藤原義浩徳島・A3・76期",
+      "race_score": 66.47,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 16.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    }
+  ]
+}

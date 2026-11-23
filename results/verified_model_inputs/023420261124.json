@@ -1,0 +1,144 @@
+{
+  "race_id": "023420261124",
+  "source_url": "https://keirinhex.jp/races/20261124/023420261124/",
+  "captured_jst": "2026-11-24T08:55:57.855177+09:00",
+  "start_jst": "2026-11-24T21:13:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "no_fixed_lines_girls",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎川上いちご千葉・L1・130期",
+      "race_score": 57.95,
+      "running_style": "両",
+      "win_rate_4m": 83.0,
+      "top2_rate_4m": 96.0,
+      "top3_rate_4m": 100.0,
+      "s_count": 1,
+      "h_count": 6,
+      "b_count": 16,
+      "nige_4m": 12,
+      "maku_4m": 9,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○杉浦菜留愛知・L1・118期",
+      "race_score": 52.33,
+      "running_style": "両",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 2,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 5
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲是永ゆうき大分・L1・126期",
+      "race_score": 50.78,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 8,
+      "h_count": 3,
+      "b_count": 2,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆三森彩桜福島・L1・116期",
+      "race_score": 50.68,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 17.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆藤原春陽徳島・L1・122期",
+      "race_score": 50.2,
+      "running_style": "両",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 5,
+      "h_count": 3,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "野口諭実可大分・L1・102期",
+      "race_score": 49.83,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 0,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "佐藤乃愛北海道・L1・126期",
+      "race_score": 47.58,
+      "running_style": "両",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 16.0,
+      "s_count": 5,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    }
+  ]
+}

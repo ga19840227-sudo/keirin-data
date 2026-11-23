@@ -1,0 +1,136 @@
+{
+  "race_id": "063820261124",
+  "source_url": "https://keirinhex.jp/races/20261124/063820261124/",
+  "captured_jst": "2026-11-24T08:57:21.925171+09:00",
+  "start_jst": "2026-11-24T13:15:00+09:00",
+  "line_groups": [
+    [
+      3,
+      6
+    ],
+    [
+      4,
+      5,
+      1
+    ],
+    [
+      7,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "▲斉藤樂宮城・S2・123期",
+      "race_score": 102.6,
+      "running_style": "逃",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 3,
+      "h_count": 6,
+      "b_count": 6,
+      "nige_4m": 2,
+      "maku_4m": 3,
+      "sashi_4m": 5,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆齋藤登志信宮城・S2・80期",
+      "race_score": 96.63,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 21.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○才迫開広島・S2・101期",
+      "race_score": 102.27,
+      "running_style": "両",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 3,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 2,
+      "sashi_4m": 4,
+      "mark_4m": 4
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎掛水泰範高知・S2・98期",
+      "race_score": 103.72,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 7,
+      "mark_4m": 2
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "☆佐々木翔一佐賀・S2・93期",
+      "race_score": 99.25,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "野口裕史千葉・S2・111期",
+      "race_score": 99.85,
+      "running_style": "逃",
+      "win_rate_4m": 30.0,
+      "top2_rate_4m": 47.0,
+      "top3_rate_4m": 49.0,
+      "s_count": 0,
+      "h_count": 28,
+      "b_count": 24,
+      "nige_4m": 17,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "山本紳貴千葉・S2・107期",
+      "race_score": 96.83,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    }
+  ]
+}

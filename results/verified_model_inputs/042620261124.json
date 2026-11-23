@@ -1,0 +1,136 @@
+{
+  "race_id": "042620261124",
+  "source_url": "https://keirinhex.jp/races/20261124/042620261124/",
+  "captured_jst": "2026-11-24T08:56:36.574286+09:00",
+  "start_jst": "2026-11-24T17:11:00+09:00",
+  "line_groups": [
+    [
+      2,
+      7
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      5,
+      4,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "○森川康輔岐阜・A3・111期",
+      "race_score": 75.03,
+      "running_style": "両",
+      "win_rate_4m": 33.0,
+      "top2_rate_4m": 57.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 6,
+      "h_count": 1,
+      "b_count": 2,
+      "nige_4m": 2,
+      "maku_4m": 10,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆永橋武司大阪・A3・90期",
+      "race_score": 70.0,
+      "running_style": "両",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 3,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "國井裕樹神奈川・A3・113期",
+      "race_score": 74.16,
+      "running_style": "逃",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 2,
+      "h_count": 5,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆浦崎貴史北海道・A3・75期",
+      "race_score": 68.37,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 4
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎田沼龍弥群馬・A3・129期",
+      "race_score": 78.44,
+      "running_style": "逃",
+      "win_rate_4m": 50.0,
+      "top2_rate_4m": 64.0,
+      "top3_rate_4m": 82.0,
+      "s_count": 10,
+      "h_count": 8,
+      "b_count": 13,
+      "nige_4m": 6,
+      "maku_4m": 7,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲天沼雅貴地元埼玉・A3・96期",
+      "race_score": 70.02,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "吉田英二東京・A3・76期",
+      "race_score": 69.93,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    }
+  ]
+}

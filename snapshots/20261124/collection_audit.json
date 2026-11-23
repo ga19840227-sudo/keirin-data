@@ -1,0 +1,13 @@
+{
+  "captured_jst": "2026-11-24T08:55:30.956922+09:00",
+  "date": "20261124",
+  "source": "https://keirinhex.jp",
+  "visited": 81,
+  "snapshot_count": 80,
+  "errors": [
+    "https://keirinhex.jp/races/20261124/016220261124/: no verified future start time"
+  ],
+  "indexed_races": 81,
+  "verified_saved_total": 80,
+  "missing_verified_count": 1
+}

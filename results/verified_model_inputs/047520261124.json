@@ -1,0 +1,136 @@
+{
+  "race_id": "047520261124",
+  "source_url": "https://keirinhex.jp/races/20261124/047520261124/",
+  "captured_jst": "2026-11-24T08:56:52.522915+09:00",
+  "start_jst": "2026-11-24T16:58:00+09:00",
+  "line_groups": [
+    [
+      1,
+      7,
+      6
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      5,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎中山拓人埼玉・A2・121期",
+      "race_score": 89.81,
+      "running_style": "逃",
+      "win_rate_4m": 30.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 60.0,
+      "s_count": 5,
+      "h_count": 12,
+      "b_count": 14,
+      "nige_4m": 7,
+      "maku_4m": 4,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○成田直喜青森・A1・81期",
+      "race_score": 87.43,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 5
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "亀井久幸千葉・A2・95期",
+      "race_score": 80.48,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆松岡晋乃介岐阜・A2・109期",
+      "race_score": 82.94,
+      "running_style": "逃",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 8,
+      "h_count": 7,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "坂元洋行三重・A2・88期",
+      "race_score": 84.08,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲三木健正岡山・A1・125期",
+      "race_score": 83.14,
+      "running_style": "逃",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 5,
+      "h_count": 14,
+      "b_count": 12,
+      "nige_4m": 4,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆櫻井太士岡山・A1・94期",
+      "race_score": 83.9,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "073820261124",
+  "source_url": "https://keirinhex.jp/races/20261124/073820261124/",
+  "captured_jst": "2026-11-24T08:57:42.773415+09:00",
+  "start_jst": "2026-11-24T13:43:00+09:00",
+  "line_groups": [
+    [
+      3,
+      4
+    ],
+    [
+      5,
+      2,
+      7
+    ],
+    [
+      6,
+      1
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "▲貴志修己和歌山・S2・117期",
+      "race_score": 103.19,
+      "running_style": "逃",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 51.0,
+      "s_count": 5,
+      "h_count": 13,
+      "b_count": 18,
+      "nige_4m": 5,
+      "maku_4m": 8,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆大洞翔平岐阜・S2・100期",
+      "race_score": 96.83,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎梶原海斗福岡・S1・123期",
+      "race_score": 102.58,
+      "running_style": "逃",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 0,
+      "h_count": 15,
+      "b_count": 15,
+      "nige_4m": 6,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○小林弘和佐賀・S2・91期",
+      "race_score": 102.56,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 7
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "中本匠栄熊本・S1・97期",
+      "race_score": 99.62,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆鈴木謙太郎茨城・S2・90期",
+      "race_score": 94.92,
+      "running_style": "両",
+      "win_rate_4m": 2.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 20.0,
+      "s_count": 3,
+      "h_count": 6,
+      "b_count": 6,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "内藤高裕東京・S2・96期",
+      "race_score": 98.12,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    }
+  ]
+}

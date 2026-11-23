@@ -1,0 +1,32 @@
+{
+  "date": "20261124",
+  "indexed_races": 81,
+  "visited_in_latest_run": 81,
+  "latest_run_new_snapshots": 80,
+  "verified_snapshots": 80,
+  "complete_rider_inputs": 63,
+  "six_scenario_forecasts": 63,
+  "integrated_forecasts": 63,
+  "missing_rider_inputs": [
+    "033420261124",
+    "033820261124",
+    "034820261124",
+    "036120261124",
+    "043420261124",
+    "044820261124",
+    "046120261124",
+    "053420261124",
+    "054820261124",
+    "056120261124",
+    "063420261124",
+    "064820261124",
+    "066120261124",
+    "073420261124",
+    "074820261124",
+    "076120261124",
+    "083820261124"
+  ],
+  "missing_scenarios": [],
+  "missing_integrated": [],
+  "warning": "Coverage is not accuracy; a forecast is counted only when saved before the race."
+}
