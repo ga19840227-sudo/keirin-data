@@ -1,0 +1,136 @@
+{
+  "race_id": "052620261125",
+  "source_url": "https://keirinhex.jp/races/20261125/052620261125/",
+  "captured_jst": "2026-11-25T00:42:15.041417+09:00",
+  "start_jst": "2026-11-25T17:37:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4,
+      3
+    ],
+    [
+      5,
+      2,
+      7
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎西本直大大阪・A2・92期",
+      "race_score": 85.43,
+      "running_style": "両",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 4,
+      "h_count": 3,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 5,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○西谷岳文京都・A2・93期",
+      "race_score": 82.77,
+      "running_style": "両",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 4,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲奥出健士郎福井・A2・99期",
+      "race_score": 80.0,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 16.0,
+      "s_count": 2,
+      "h_count": 3,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "鳥海創千葉・A2・123期",
+      "race_score": 79.12,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 3,
+      "h_count": 12,
+      "b_count": 11,
+      "nige_4m": 4,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "宮澤晃山梨・A2・75期",
+      "race_score": 80.54,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 17.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "篠崎高志栃木・A2・72期",
+      "race_score": 77.96,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 8.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆鈴木裕斗宮城・A2・99期",
+      "race_score": 77.3,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 4.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    }
+  ]
+}

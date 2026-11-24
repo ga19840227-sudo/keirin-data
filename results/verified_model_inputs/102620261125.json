@@ -1,0 +1,136 @@
+{
+  "race_id": "102620261125",
+  "source_url": "https://keirinhex.jp/races/20261125/102620261125/",
+  "captured_jst": "2026-11-25T00:43:26.442954+09:00",
+  "start_jst": "2026-11-25T19:47:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4,
+      6
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      7,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "○田沼龍弥群馬・A3・129期",
+      "race_score": 78.44,
+      "running_style": "逃",
+      "win_rate_4m": 52.0,
+      "top2_rate_4m": 66.0,
+      "top3_rate_4m": 83.0,
+      "s_count": 10,
+      "h_count": 8,
+      "b_count": 13,
+      "nige_4m": 6,
+      "maku_4m": 7,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲舟山佑京新潟・A3・113期",
+      "race_score": 75.12,
+      "running_style": "逃",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 70.0,
+      "s_count": 3,
+      "h_count": 8,
+      "b_count": 9,
+      "nige_4m": 4,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "菅藤智群馬・A3・95期",
+      "race_score": 72.44,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆藤岡祐馬神奈川・A3・129期",
+      "race_score": 73.87,
+      "running_style": "逃",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 59.0,
+      "s_count": 5,
+      "h_count": 14,
+      "b_count": 11,
+      "nige_4m": 9,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆國井裕樹神奈川・A3・113期",
+      "race_score": 74.16,
+      "running_style": "逃",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 2,
+      "h_count": 5,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "◎中野楚樂宮城・A3・129期",
+      "race_score": 81.08,
+      "running_style": "逃",
+      "win_rate_4m": 85.0,
+      "top2_rate_4m": 93.0,
+      "top3_rate_4m": 100.0,
+      "s_count": 8,
+      "h_count": 9,
+      "b_count": 14,
+      "nige_4m": 10,
+      "maku_4m": 9,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "大内達也宮城・A3・72期",
+      "race_score": 76.7,
+      "running_style": "追",
+      "win_rate_4m": 22.0,
+      "top2_rate_4m": 61.0,
+      "top3_rate_4m": 74.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 5
+    }
+  ]
+}

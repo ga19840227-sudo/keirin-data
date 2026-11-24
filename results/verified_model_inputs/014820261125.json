@@ -1,0 +1,144 @@
+{
+  "race_id": "014820261125",
+  "source_url": "https://keirinhex.jp/races/20261125/014820261125/",
+  "captured_jst": "2026-11-25T00:41:09.318763+09:00",
+  "start_jst": "2026-11-25T20:41:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "no_fixed_lines_girls",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎宇野紅音岐阜・L1・124期",
+      "race_score": 53.5,
+      "running_style": "両",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 3,
+      "h_count": 10,
+      "b_count": 8,
+      "nige_4m": 4,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○栗山百花神奈川・L1・130期",
+      "race_score": 49.2,
+      "running_style": "両",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 0,
+      "h_count": 3,
+      "b_count": 5,
+      "nige_4m": 2,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "蛯原杏奈北海道・L1・120期",
+      "race_score": 49.14,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 3
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲野寺梓静岡・L1・126期",
+      "race_score": 48.89,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 17.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆杉沢毛伊子静岡・L1・104期",
+      "race_score": 48.29,
+      "running_style": "両",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 6,
+      "h_count": 4,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆浜地晴帆地元三重・L1・122期",
+      "race_score": 47.96,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 1,
+      "h_count": 3,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "佐々木恵理愛知・L1・110期",
+      "race_score": 47.48,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 14.0,
+      "s_count": 4,
+      "h_count": 3,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    }
+  ]
+}

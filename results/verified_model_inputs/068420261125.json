@@ -1,0 +1,136 @@
+{
+  "race_id": "068420261125",
+  "source_url": "https://keirinhex.jp/races/20261125/068420261125/",
+  "captured_jst": "2026-11-25T00:42:48.854730+09:00",
+  "start_jst": "2026-11-25T10:34:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4,
+      7,
+      6
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "○佐藤魁皇熊本・A3・127期",
+      "race_score": 76.47,
+      "running_style": "逃",
+      "win_rate_4m": 38.0,
+      "top2_rate_4m": 63.0,
+      "top3_rate_4m": 71.0,
+      "s_count": 8,
+      "h_count": 7,
+      "b_count": 11,
+      "nige_4m": 4,
+      "maku_4m": 7,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲南部亮太長崎・A3・93期",
+      "race_score": 75.61,
+      "running_style": "追",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 69.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "加藤昌平福岡・A3・80期",
+      "race_score": 73.41,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 4
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "重一徳鹿児島・A3・57期",
+      "race_score": 67.81,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆渡邊諒馬愛媛・A3・129期",
+      "race_score": 79.13,
+      "running_style": "逃",
+      "win_rate_4m": 52.0,
+      "top2_rate_4m": 72.0,
+      "top3_rate_4m": 80.0,
+      "s_count": 4,
+      "h_count": 8,
+      "b_count": 9,
+      "nige_4m": 4,
+      "maku_4m": 8,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆曽我部匡史愛媛・A3・82期",
+      "race_score": 68.66,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "◎田崎隼翔栃木・A3・129期",
+      "race_score": 79.33,
+      "running_style": "逃",
+      "win_rate_4m": 54.0,
+      "top2_rate_4m": 69.0,
+      "top3_rate_4m": 85.0,
+      "s_count": 7,
+      "h_count": 12,
+      "b_count": 11,
+      "nige_4m": 6,
+      "maku_4m": 8,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    }
+  ]
+}

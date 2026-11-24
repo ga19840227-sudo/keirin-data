@@ -1,0 +1,119 @@
+{
+  "race_id": "018420261125",
+  "source_url": "https://keirinhex.jp/races/20261125/018420261125/",
+  "captured_jst": "2026-11-25T00:41:18.816988+09:00",
+  "start_jst": "2026-11-25T08:50:00+09:00",
+  "line_groups": [
+    [
+      2,
+      5
+    ],
+    [
+      3,
+      4,
+      1
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "齋藤仁徳島・A3・83期",
+      "race_score": 69.62,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆近藤直幹徳島・A3・75期",
+      "race_score": 65.25,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 6.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "◎鈴木広人神奈川・A3・99期",
+      "race_score": 71.77,
+      "running_style": "両",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 5,
+      "h_count": 9,
+      "b_count": 7,
+      "nige_4m": 5,
+      "maku_4m": 5,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○須々田大昇青森・A3・80期",
+      "race_score": 70.37,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 31.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲相良勝美福島・A3・70期",
+      "race_score": 67.86,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "長岡豪群馬・A3・91期",
+      "race_score": 64.78,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 3.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

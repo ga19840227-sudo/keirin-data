@@ -1,0 +1,136 @@
+{
+  "race_id": "057520261125",
+  "source_url": "https://keirinhex.jp/races/20261125/057520261125/",
+  "captured_jst": "2026-11-25T00:42:28.469792+09:00",
+  "start_jst": "2026-11-25T17:24:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      4,
+      3,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆三木健正岡山・A1・125期",
+      "race_score": 83.14,
+      "running_style": "逃",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 5,
+      "h_count": 14,
+      "b_count": 12,
+      "nige_4m": 4,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎畝木努岡山・A1・107期",
+      "race_score": 92.45,
+      "running_style": "逃",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 64.0,
+      "s_count": 6,
+      "h_count": 7,
+      "b_count": 7,
+      "nige_4m": 4,
+      "maku_4m": 3,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆油谷蒼兵庫・A2・125期",
+      "race_score": 82.22,
+      "running_style": "逃",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 3,
+      "h_count": 7,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "柴田祐也岐阜・A2・94期",
+      "race_score": 82.12,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○尾崎悠生埼玉・A1・113期",
+      "race_score": 88.8,
+      "running_style": "逃",
+      "win_rate_4m": 45.0,
+      "top2_rate_4m": 52.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 0,
+      "h_count": 13,
+      "b_count": 10,
+      "nige_4m": 7,
+      "maku_4m": 8,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲上原龍長野・A1・95期",
+      "race_score": 92.28,
+      "running_style": "追",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 57.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 4
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "栗林巧青森・A1・89期",
+      "race_score": 81.0,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

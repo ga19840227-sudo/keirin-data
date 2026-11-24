@@ -1,0 +1,119 @@
+{
+  "race_id": "077520261125",
+  "source_url": "https://keirinhex.jp/races/20261125/077520261125/",
+  "captured_jst": "2026-11-25T00:43:04.532089+09:00",
+  "start_jst": "2026-11-25T18:16:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      6,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎格清洋介静岡・S2・111期",
+      "race_score": 100.88,
+      "running_style": "逃",
+      "win_rate_4m": 31.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 49.0,
+      "s_count": 1,
+      "h_count": 7,
+      "b_count": 11,
+      "nige_4m": 4,
+      "maku_4m": 10,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○成清貴之千葉・S2・73期",
+      "race_score": 96.3,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲柿本大貴東京・S2・113期",
+      "race_score": 95.48,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 24.0,
+      "s_count": 0,
+      "h_count": 8,
+      "b_count": 5,
+      "nige_4m": 4,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆矢野昌彦栃木・S2・91期",
+      "race_score": 94.26,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 11.0,
+      "s_count": 0,
+      "h_count": 6,
+      "b_count": 4,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "谷口明正三重・S2・103期",
+      "race_score": 93.86,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 16.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "佐藤成人奈良・S2・71期",
+      "race_score": 94.53,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 15.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    }
+  ]
+}

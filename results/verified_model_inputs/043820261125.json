@@ -1,0 +1,136 @@
+{
+  "race_id": "043820261125",
+  "source_url": "https://keirinhex.jp/races/20261125/043820261125/",
+  "captured_jst": "2026-11-25T00:42:01.411218+09:00",
+  "start_jst": "2026-11-25T12:31:00+09:00",
+  "line_groups": [
+    [
+      1,
+      7,
+      5
+    ],
+    [
+      2,
+      4,
+      6
+    ],
+    [
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "○常次勇人大阪・A1・121期",
+      "race_score": 91.93,
+      "running_style": "逃",
+      "win_rate_4m": 35.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 55.0,
+      "s_count": 5,
+      "h_count": 12,
+      "b_count": 13,
+      "nige_4m": 5,
+      "maku_4m": 7,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲山田裕哉岐阜・A2・98期",
+      "race_score": 89.71,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 60.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 5
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "好永晃佐賀・A1・98期",
+      "race_score": 88.37,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 39.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 3
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆小坂丈茨城・A2・121期",
+      "race_score": 88.14,
+      "running_style": "逃",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 62.0,
+      "s_count": 3,
+      "h_count": 15,
+      "b_count": 12,
+      "nige_4m": 7,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎小田倉勇二埼玉・A1・91期",
+      "race_score": 95.09,
+      "running_style": "両",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 71.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 7,
+      "mark_4m": 4
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "樋口瑛土東京・A2・109期",
+      "race_score": 82.95,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆坂本拓也福島・A1・111期",
+      "race_score": 87.54,
+      "running_style": "両",
+      "win_rate_4m": 36.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 64.0,
+      "s_count": 9,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 5,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    }
+  ]
+}
