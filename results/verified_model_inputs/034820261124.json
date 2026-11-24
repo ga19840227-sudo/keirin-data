@@ -1,0 +1,102 @@
+{
+  "race_id": "034820261124",
+  "source_url": "https://keirinhex.jp/races/20261124/034820261124/",
+  "captured_jst": "2026-11-24T19:34:38.869405+09:00",
+  "start_jst": "2026-11-24T21:29:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎臼井昌巨愛知・A3・89期",
+      "race_score": 71.68,
+      "running_style": "両",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 6,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 3,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "川西亮介和歌山・A3・86期",
+      "race_score": 66.92,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 17.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○増成富夫岡山・A3・66期",
+      "race_score": 70.13,
+      "running_style": "逃",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 0,
+      "h_count": 8,
+      "b_count": 4,
+      "nige_4m": 3,
+      "maku_4m": 4,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲住村実徳島・A3・82期",
+      "race_score": 67.33,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 17.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "中山敬太郎熊本・A3・100期",
+      "race_score": 63.0,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}
