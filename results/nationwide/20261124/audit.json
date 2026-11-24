@@ -1,14 +1,12 @@
 {
   "date": "20261124",
-  "retrieved_jst": "2026-11-24T23:30:36.613906+09:00",
+  "retrieved_jst": "2026-11-25T01:27:31.708783+09:00",
   "source": "https://keirinhex.jp",
   "listed": 81,
-  "checked": 81,
-  "result_confirmed": 78,
+  "checked": 3,
+  "result_confirmed": 80,
   "pending": [
-    "044820261124",
-    "073420261124",
-    "076120261124"
+    "044820261124"
   ],
   "errors": [],
   "official_payout_confirmed": 0,
