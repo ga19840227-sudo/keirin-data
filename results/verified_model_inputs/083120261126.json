@@ -1,0 +1,136 @@
+{
+  "race_id": "083120261126",
+  "source_url": "https://keirinhex.jp/races/20261126/083120261126/",
+  "captured_jst": "2026-11-26T00:42:25.616350+09:00",
+  "start_jst": "2026-11-26T23:10:00+09:00",
+  "line_groups": [
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      7,
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎杉浦颯太栃木・A2・127期",
+      "race_score": 94.27,
+      "running_style": "逃",
+      "win_rate_4m": 65.0,
+      "top2_rate_4m": 87.0,
+      "top3_rate_4m": 87.0,
+      "s_count": 5,
+      "h_count": 16,
+      "b_count": 18,
+      "nige_4m": 14,
+      "maku_4m": 6,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○土屋仁茨城・A1・84期",
+      "race_score": 88.36,
+      "running_style": "追",
+      "win_rate_4m": 20.0,
+      "top2_rate_4m": 40.0,
+      "top3_rate_4m": 60.0,
+      "s_count": 14,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "▲和田禎嗣埼玉・A2・99期",
+      "race_score": 82.53,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 1,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 4
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "赤塚悠人山形・A1・97期",
+      "race_score": 86.7,
+      "running_style": "両",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 5,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "岩崎将士青森・A1・88期",
+      "race_score": 84.46,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 21.0,
+      "top3_rate_4m": 39.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆柏野健吾岡山・A2・127期",
+      "race_score": 78.42,
+      "running_style": "逃",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 15.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 0,
+      "h_count": 13,
+      "b_count": 8,
+      "nige_4m": 0,
+      "maku_4m": 4,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆戸伏康夫岡山・A1・96期",
+      "race_score": 83.3,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    }
+  ]
+}

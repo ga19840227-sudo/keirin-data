@@ -1,0 +1,138 @@
+{
+  "race_id": "023820261126",
+  "source_url": "https://keirinhex.jp/races/20261126/023820261126/",
+  "captured_jst": "2026-11-26T00:40:49.305994+09:00",
+  "start_jst": "2026-11-26T11:37:00+09:00",
+  "line_groups": [
+    [
+      1,
+      7
+    ],
+    [
+      2,
+      4,
+      6
+    ],
+    [
+      3
+    ],
+    [
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆山口慎吾北海道・A2・93期",
+      "race_score": 84.08,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 21.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆杉浦康一北海道・A2・58期",
+      "race_score": 78.29,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 7.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲山本康旗大分・A2・127期",
+      "race_score": 81.37,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 22.0,
+      "s_count": 0,
+      "h_count": 9,
+      "b_count": 8,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎好永晃佐賀・A1・98期",
+      "race_score": 88.37,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 3
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "濱口健二高知・A2・60期",
+      "race_score": 76.11,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○辰己豊奈良・A1・86期",
+      "race_score": 85.41,
+      "running_style": "追",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "河野淳吾神奈川・A2・99期",
+      "race_score": 80.21,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "084720261126",
+  "source_url": "https://keirinhex.jp/races/20261126/084720261126/",
+  "captured_jst": "2026-11-26T00:42:31.561265+09:00",
+  "start_jst": "2026-11-26T18:38:00+09:00",
+  "line_groups": [
+    [
+      3,
+      7
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      5,
+      1,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 3,
+      "player_name_raw": "森山智徳熊本・S2・98期",
+      "race_score": 96.76,
+      "running_style": "両",
+      "win_rate_4m": 9.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 29.0,
+      "s_count": 7,
+      "h_count": 8,
+      "b_count": 9,
+      "nige_4m": 3,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆佐方良行熊本・S2・97期",
+      "race_score": 98.5,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆中西大和歌山・S2・107期",
+      "race_score": 99.47,
+      "running_style": "逃",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 1,
+      "h_count": 6,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○川村晃司京都・S2・85期",
+      "race_score": 99.4,
+      "running_style": "両",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 38.0,
+      "s_count": 1,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 3,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎堀内俊介神奈川・S2・107期",
+      "race_score": 104.18,
+      "running_style": "両",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲白戸淳太郎神奈川・S2・74期",
+      "race_score": 96.39,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 21.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "土屋裕二静岡・S2・81期",
+      "race_score": 94.96,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 3
+    }
+  ]
+}

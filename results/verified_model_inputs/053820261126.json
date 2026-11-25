@@ -1,0 +1,136 @@
+{
+  "race_id": "053820261126",
+  "source_url": "https://keirinhex.jp/races/20261126/053820261126/",
+  "captured_jst": "2026-11-26T00:41:38.918418+09:00",
+  "start_jst": "2026-11-26T12:55:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5,
+      7
+    ],
+    [
+      4,
+      3,
+      2
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "▲瀬戸栄作長崎・S2・109期",
+      "race_score": 97.66,
+      "running_style": "両",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 1,
+      "h_count": 3,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 3,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○佐々木翔一佐賀・S2・93期",
+      "race_score": 99.25,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆近藤誠二香川・S2・80期",
+      "race_score": 96.94,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "◎貴志修己和歌山・S2・117期",
+      "race_score": 103.19,
+      "running_style": "逃",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 51.0,
+      "s_count": 5,
+      "h_count": 13,
+      "b_count": 18,
+      "nige_4m": 5,
+      "maku_4m": 8,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "谷田泰平岐阜・S2・93期",
+      "race_score": 93.57,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 9.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "内藤高裕東京・S2・96期",
+      "race_score": 98.12,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆吉田裕全埼玉・S2・90期",
+      "race_score": 91.0,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 13.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

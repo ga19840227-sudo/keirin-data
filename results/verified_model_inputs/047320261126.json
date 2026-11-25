@@ -1,0 +1,136 @@
+{
+  "race_id": "047320261126",
+  "source_url": "https://keirinhex.jp/races/20261126/047320261126/",
+  "captured_jst": "2026-11-26T00:41:30.560183+09:00",
+  "start_jst": "2026-11-26T09:52:00+09:00",
+  "line_groups": [
+    [
+      1,
+      5,
+      7
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      6,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎松下綾馬岡山・A1・121期",
+      "race_score": 89.73,
+      "running_style": "逃",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 50.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 10,
+      "h_count": 19,
+      "b_count": 22,
+      "nige_4m": 10,
+      "maku_4m": 4,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○小川圭二地元徳島・A1・68期",
+      "race_score": 85.55,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲宇根秀俊愛媛・A2・80期",
+      "race_score": 84.03,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 2
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "高倉俊宏福岡・A2・93期",
+      "race_score": 84.7,
+      "running_style": "両",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 1,
+      "h_count": 2,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "長野和弘福岡・A2・82期",
+      "race_score": 80.5,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆中村泰輔和歌山・A2・117期",
+      "race_score": 80.33,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 5,
+      "h_count": 4,
+      "b_count": 5,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆倉野隆太郎三重・A2・91期",
+      "race_score": 83.23,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "race_id": "113820261126",
+  "source_url": "https://keirinhex.jp/races/20261126/113820261126/",
+  "captured_jst": "2026-11-26T00:43:03.349854+09:00",
+  "start_jst": "2026-11-26T15:44:00+09:00",
+  "line_groups": [
+    [
+      2,
+      6,
+      4
+    ],
+    [
+      3
+    ],
+    [
+      7,
+      1,
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "常次勇人大阪・A1・121期",
+      "race_score": 91.93,
+      "running_style": "逃",
+      "win_rate_4m": 38.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 5,
+      "h_count": 12,
+      "b_count": 13,
+      "nige_4m": 5,
+      "maku_4m": 7,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "中武三四郎大阪・A2・113期",
+      "race_score": 82.03,
+      "running_style": "逃",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 0,
+      "h_count": 14,
+      "b_count": 12,
+      "nige_4m": 5,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "山田裕哉岐阜・A2・98期",
+      "race_score": 89.71,
+      "running_style": "追",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 62.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 5
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○吉田智哉愛媛・A1・111期",
+      "race_score": 94.38,
+      "running_style": "逃",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 62.0,
+      "s_count": 6,
+      "h_count": 2,
+      "b_count": 2,
+      "nige_4m": 1,
+      "maku_4m": 4,
+      "sashi_4m": 5,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲岡部伶音福島・A1・123期",
+      "race_score": 92.76,
+      "running_style": "逃",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 3,
+      "h_count": 10,
+      "b_count": 8,
+      "nige_4m": 2,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "◎小田倉勇二埼玉・A1・91期",
+      "race_score": 95.09,
+      "running_style": "両",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 48.0,
+      "top3_rate_4m": 72.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 7,
+      "mark_4m": 4
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆長井優斗東京・A1・95期",
+      "race_score": 89.8,
+      "running_style": "追",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 34.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 3
+    }
+  ]
+}

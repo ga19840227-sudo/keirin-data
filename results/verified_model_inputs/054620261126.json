@@ -1,0 +1,125 @@
+{
+  "race_id": "054620261126",
+  "source_url": "https://keirinhex.jp/races/20261126/054620261126/",
+  "captured_jst": "2026-11-26T00:41:41.122834+09:00",
+  "start_jst": "2026-11-26T13:04:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "no_fixed_lines_girls",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "寺本愛花徳島・L1・130期",
+      "race_score": 47.6,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 9.0,
+      "s_count": 8,
+      "h_count": 3,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○吉村早耶香静岡・L1・112期",
+      "race_score": 53.29,
+      "running_style": "両",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 2,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "加瀬加奈子新潟・L1・102期",
+      "race_score": 50.04,
+      "running_style": "逃",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 12,
+      "h_count": 14,
+      "b_count": 12,
+      "nige_4m": 3,
+      "maku_4m": 3,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲又多風緑石川・L1・122期",
+      "race_score": 53.35,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 0,
+      "h_count": 5,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆中川諒子熊本・L1・102期",
+      "race_score": 49.0,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "◎北岡マリア石川・L1・128期",
+      "race_score": 56.91,
+      "running_style": "両",
+      "win_rate_4m": 32.0,
+      "top2_rate_4m": 64.0,
+      "top3_rate_4m": 72.0,
+      "s_count": 2,
+      "h_count": 2,
+      "b_count": 1,
+      "nige_4m": 1,
+      "maku_4m": 13,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    }
+  ]
+}

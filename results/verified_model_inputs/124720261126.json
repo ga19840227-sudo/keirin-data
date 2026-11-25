@@ -1,0 +1,136 @@
+{
+  "race_id": "124720261126",
+  "source_url": "https://keirinhex.jp/races/20261126/124720261126/",
+  "captured_jst": "2026-11-26T00:43:15.319938+09:00",
+  "start_jst": "2026-11-26T20:17:00+09:00",
+  "line_groups": [
+    [
+      1,
+      7,
+      3
+    ],
+    [
+      4,
+      2,
+      5
+    ],
+    [
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "○野田源一福岡・S1・81期",
+      "race_score": 108.47,
+      "running_style": "両",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 5,
+      "sashi_4m": 4,
+      "mark_4m": 3
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲中村圭志熊本・S1・86期",
+      "race_score": 106.5,
+      "running_style": "追",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 36.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 2
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆久米良徳島・S1・96期",
+      "race_score": 105.61,
+      "running_style": "追",
+      "win_rate_4m": 19.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "大川剛青森・S1・121期",
+      "race_score": 104.06,
+      "running_style": "逃",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 9,
+      "h_count": 16,
+      "b_count": 15,
+      "nige_4m": 5,
+      "maku_4m": 6,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎須永優太福島・S1・94期",
+      "race_score": 106.12,
+      "running_style": "追",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 35.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "櫻井正孝宮城・S1・100期",
+      "race_score": 105.28,
+      "running_style": "追",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 53.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 4
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆武田豊樹茨城・S1・88期",
+      "race_score": 103.87,
+      "running_style": "追",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 9,
+      "mark_4m": 1
+    }
+  ]
+}

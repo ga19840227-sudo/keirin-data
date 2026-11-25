@@ -1,0 +1,136 @@
+{
+  "race_id": "123820261126",
+  "source_url": "https://keirinhex.jp/races/20261126/123820261126/",
+  "captured_jst": "2026-11-26T00:43:13.265526+09:00",
+  "start_jst": "2026-11-26T16:20:00+09:00",
+  "line_groups": [
+    [
+      4,
+      3
+    ],
+    [
+      6,
+      5,
+      1
+    ],
+    [
+      7,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 4,
+      "player_name_raw": "皿屋豊三重・S1・111期",
+      "race_score": 105.3,
+      "running_style": "両",
+      "win_rate_4m": 26.0,
+      "top2_rate_4m": 43.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 3,
+      "h_count": 6,
+      "b_count": 5,
+      "nige_4m": 1,
+      "maku_4m": 3,
+      "sashi_4m": 6,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆佐々木雄一福島・S1・83期",
+      "race_score": 105.4,
+      "running_style": "追",
+      "win_rate_4m": 17.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 3,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "野口裕史千葉・S2・111期",
+      "race_score": 99.85,
+      "running_style": "逃",
+      "win_rate_4m": 30.0,
+      "top2_rate_4m": 47.0,
+      "top3_rate_4m": 49.0,
+      "s_count": 0,
+      "h_count": 28,
+      "b_count": 24,
+      "nige_4m": 17,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "◎東龍之介神奈川・S2・96期",
+      "race_score": 107.09,
+      "running_style": "追",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 49.0,
+      "top3_rate_4m": 66.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 13,
+      "mark_4m": 2
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "▲岡村潤地元静岡・S1・86期",
+      "race_score": 107.5,
+      "running_style": "追",
+      "win_rate_4m": 18.0,
+      "top2_rate_4m": 44.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 8,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 8,
+      "mark_4m": 5
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆梶原海斗福岡・S1・123期",
+      "race_score": 102.58,
+      "running_style": "逃",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 0,
+      "h_count": 15,
+      "b_count": 15,
+      "nige_4m": 6,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○原井博斗福岡・S1・115期",
+      "race_score": 109.16,
+      "running_style": "追",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 39.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 4
+    }
+  ]
+}

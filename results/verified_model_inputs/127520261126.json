@@ -1,0 +1,138 @@
+{
+  "race_id": "127520261126",
+  "source_url": "https://keirinhex.jp/races/20261126/127520261126/",
+  "captured_jst": "2026-11-26T00:43:19.297372+09:00",
+  "start_jst": "2026-11-26T20:30:00+09:00",
+  "line_groups": [
+    [
+      2,
+      6,
+      1
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "◎伊藤颯馬沖縄・S1・115期",
+      "race_score": 105.9,
+      "running_style": "逃",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 42.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 4,
+      "h_count": 8,
+      "b_count": 8,
+      "nige_4m": 4,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "坂本亮馬福岡・S2・90期",
+      "race_score": 97.0,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 27.0,
+      "top3_rate_4m": 35.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "山形一気徳島・S1・96期",
+      "race_score": 107.2,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 18.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆小松崎大地福島・S1・99期",
+      "race_score": 105.11,
+      "running_style": "両",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 34.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 8,
+      "h_count": 2,
+      "b_count": 3,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 2
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "○小原丈一郎青森・S2・115期",
+      "race_score": 103.31,
+      "running_style": "両",
+      "win_rate_4m": 45.0,
+      "top2_rate_4m": 45.0,
+      "top3_rate_4m": 52.0,
+      "s_count": 11,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 11,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲藤井栄二兵庫・S2・99期",
+      "race_score": 103.17,
+      "running_style": "両",
+      "win_rate_4m": 29.0,
+      "top2_rate_4m": 61.0,
+      "top3_rate_4m": 68.0,
+      "s_count": 11,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 12,
+      "mark_4m": 4
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆池田良広島・S2・91期",
+      "race_score": 103.93,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 37.0,
+      "top3_rate_4m": 49.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 8
+    }
+  ]
+}
