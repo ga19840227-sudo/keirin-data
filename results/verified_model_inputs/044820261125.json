@@ -1,0 +1,138 @@
+{
+  "race_id": "044820261125",
+  "source_url": "https://keirinhex.jp/races/20261125/044820261125/",
+  "captured_jst": "2026-11-25T19:17:58.543882+09:00",
+  "start_jst": "2026-11-25T21:53:00+09:00",
+  "line_groups": [
+    [
+      1,
+      2
+    ],
+    [
+      4,
+      3,
+      6
+    ],
+    [
+      5
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎桜井雄太愛知・A3・100期",
+      "race_score": 76.13,
+      "running_style": "逃",
+      "win_rate_4m": 34.0,
+      "top2_rate_4m": 63.0,
+      "top3_rate_4m": 69.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 6,
+      "nige_4m": 3,
+      "maku_4m": 12,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "○西川弘資地元三重・A3・66期",
+      "race_score": 72.79,
+      "running_style": "追",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 45.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 4
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲増成富夫岡山・A3・66期",
+      "race_score": 70.13,
+      "running_style": "逃",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 32.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 0,
+      "h_count": 8,
+      "b_count": 4,
+      "nige_4m": 3,
+      "maku_4m": 4,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆田村光昭広島・A3・67期",
+      "race_score": 70.17,
+      "running_style": "追",
+      "win_rate_4m": 12.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 28.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "横瀬聡福岡・A3・69期",
+      "race_score": 68.18,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 12.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "梶原秀庸大阪・A3・77期",
+      "race_score": 69.82,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆中嶋響大阪・A3・125期",
+      "race_score": 65.38,
+      "running_style": "逃",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 19.0,
+      "s_count": 0,
+      "h_count": 2,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    }
+  ]
+}
