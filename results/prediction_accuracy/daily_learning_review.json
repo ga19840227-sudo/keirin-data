@@ -1,14 +1,14 @@
 {
-  "generated_jst": "2026-11-25T11:49:25.578520+09:00",
+  "generated_jst": "2026-11-25T12:52:15.007770+09:00",
   "last_7_days": {
     "20261125": {
-      "races": 10,
+      "races": 14,
       "old_top1": 2,
-      "old_top5": 3,
-      "old_top10": 5,
+      "old_top5": 5,
+      "old_top10": 7,
       "experimental_top1": 1,
-      "experimental_top5": 4,
-      "experimental_top10": 4,
+      "experimental_top5": 5,
+      "experimental_top10": 7,
       "pair_top1": 2,
       "errors": [],
       "miss_examples": [
@@ -181,6 +181,120 @@
               7
             ],
             [
+              6
+            ]
+          ]
+        },
+        {
+          "race_id": "033820261125",
+          "actual": [
+            4,
+            1,
+            2
+          ],
+          "old_top3": [
+            [
+              7,
+              3,
+              5
+            ],
+            [
+              3,
+              7,
+              5
+            ],
+            [
+              7,
+              3,
+              2
+            ]
+          ],
+          "experimental_top3": [
+            [
+              3,
+              7,
+              4
+            ],
+            [
+              3,
+              7,
+              2
+            ],
+            [
+              3,
+              7,
+              5
+            ]
+          ],
+          "lines": [
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              6
+            ],
+            [
+              7,
+              3,
+              5
+            ]
+          ]
+        },
+        {
+          "race_id": "035120261125",
+          "actual": [
+            3,
+            7,
+            1
+          ],
+          "old_top3": [
+            [
+              3,
+              7,
+              5
+            ],
+            [
+              5,
+              1,
+              3
+            ],
+            [
+              5,
+              3,
+              7
+            ]
+          ],
+          "experimental_top3": [
+            [
+              1,
+              5,
+              3
+            ],
+            [
+              3,
+              7,
+              5
+            ],
+            [
+              5,
+              1,
+              3
+            ]
+          ],
+          "lines": [
+            [
+              2,
+              4
+            ],
+            [
+              5,
+              1
+            ],
+            [
+              7,
+              3,
               6
             ]
           ]
@@ -362,72 +476,15 @@
               6
             ]
           ]
-        },
-        {
-          "race_id": "068420261125",
-          "actual": [
-            4,
-            7,
-            2
-          ],
-          "old_top3": [
-            [
-              3,
-              2,
-              1
-            ],
-            [
-              2,
-              3,
-              1
-            ],
-            [
-              3,
-              1,
-              2
-            ]
-          ],
-          "experimental_top3": [
-            [
-              3,
-              2,
-              1
-            ],
-            [
-              2,
-              3,
-              1
-            ],
-            [
-              3,
-              1,
-              2
-            ]
-          ],
-          "lines": [
-            [
-              1,
-              4,
-              7,
-              6
-            ],
-            [
-              2,
-              5
-            ],
-            [
-              3
-            ]
-          ]
         }
       ],
-      "old_top1_rate": 0.2,
-      "old_top5_rate": 0.3,
+      "old_top1_rate": 0.1429,
+      "old_top5_rate": 0.3571,
       "old_top10_rate": 0.5,
-      "experimental_top1_rate": 0.1,
-      "experimental_top5_rate": 0.4,
-      "experimental_top10_rate": 0.4,
-      "pair_top1_rate": 0.2
+      "experimental_top1_rate": 0.0714,
+      "experimental_top5_rate": 0.3571,
+      "experimental_top10_rate": 0.5,
+      "pair_top1_rate": 0.1429
     },
     "20261124": {
       "races": 76,
