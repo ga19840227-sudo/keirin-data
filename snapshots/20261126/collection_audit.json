@@ -1,11 +1,10 @@
 {
-  "captured_jst": "2026-11-26T00:40:27.109128+09:00",
+  "captured_jst": "2026-11-26T08:55:10.077181+09:00",
   "date": "20261126",
   "source": "https://keirinhex.jp",
-  "visited": 84,
-  "snapshot_count": 84,
-  "errors": [],
-  "indexed_races": 84,
-  "verified_saved_total": 84,
-  "missing_verified_count": 0
+  "visited": 0,
+  "snapshot_count": 0,
+  "errors": [
+    "robots unavailable: <urlopen error [Errno 110] Connection timed out>"
+  ]
 }
