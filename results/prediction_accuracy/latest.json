@@ -1,9 +1,9 @@
 {
   "forecasts": 1132,
-  "settled_forecasts": 1104,
+  "settled_forecasts": 1107,
   "top1_pair_hits": 224,
-  "top3_pair_hits": 454,
-  "top10_pair_hits": 787,
+  "top3_pair_hits": 455,
+  "top10_pair_hits": 789,
   "missing_results": [
     "013120261126",
     "015120261126",
@@ -27,10 +27,7 @@
     "088320261126",
     "093120261126",
     "098320261126",
-    "104720261126",
-    "107520261126",
     "114820261113",
-    "117520261126",
     "124720261126",
     "127520261126"
   ],
@@ -14841,6 +14838,21 @@
       "top10_hit": false
     },
     {
+      "race_id": "104720261126",
+      "actual": [
+        1,
+        7,
+        2
+      ],
+      "top1_pair": [
+        1,
+        4
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": true
+    },
+    {
       "race_id": "104820261111",
       "actual": [
         7,
@@ -15094,6 +15106,21 @@
       "top1_hit": false,
       "top3_hit": false,
       "top10_hit": false
+    },
+    {
+      "race_id": "107520261126",
+      "actual": [
+        4,
+        7,
+        2
+      ],
+      "top1_pair": [
+        7,
+        4
+      ],
+      "top1_hit": false,
+      "top3_hit": true,
+      "top10_hit": true
     },
     {
       "race_id": "108120261118",
@@ -15891,6 +15918,21 @@
       "top10_hit": true
     },
     {
+      "race_id": "117520261126",
+      "actual": [
+        1,
+        4,
+        5
+      ],
+      "top1_pair": [
+        7,
+        1
+      ],
+      "top1_hit": false,
+      "top3_hit": false,
+      "top10_hit": false
+    },
+    {
       "race_id": "118120261118",
       "actual": [
         1,
@@ -16597,69 +16639,69 @@
     }
   ],
   "note": "Pre-start forecasts only; pair hit means exact first and second; odds/payout excluded.",
-  "top1_pair_hit_rate": 0.2029,
-  "top3_pair_hit_rate": 0.4112,
-  "top10_pair_hit_rate": 0.7129,
+  "top1_pair_hit_rate": 0.2023,
+  "top3_pair_hit_rate": 0.411,
+  "top10_pair_hit_rate": 0.7127,
   "trifecta": {
-    "settled_races": 1104,
+    "settled_races": 1107,
     "ranked": {
       "1": {
-        "races": 1038,
+        "races": 1041,
         "hits": 80,
-        "stake_yen": 103800,
-        "hit_rate": 0.0771
+        "stake_yen": 104100,
+        "hit_rate": 0.0768
       },
       "3": {
-        "races": 1038,
+        "races": 1041,
         "hits": 183,
-        "stake_yen": 311400,
-        "hit_rate": 0.1763
+        "stake_yen": 312300,
+        "hit_rate": 0.1758
       },
       "5": {
-        "races": 1038,
+        "races": 1041,
         "hits": 254,
-        "stake_yen": 519000,
-        "hit_rate": 0.2447
+        "stake_yen": 520500,
+        "hit_rate": 0.244
       },
       "10": {
-        "races": 1038,
+        "races": 1041,
         "hits": 377,
-        "stake_yen": 1038000,
-        "hit_rate": 0.3632
+        "stake_yen": 1041000,
+        "hit_rate": 0.3622
       },
       "20": {
-        "races": 1038,
+        "races": 1041,
         "hits": 514,
-        "stake_yen": 2076000,
-        "hit_rate": 0.4952
+        "stake_yen": 2082000,
+        "hit_rate": 0.4938
       }
     },
     "plans": {
       "1": {
-        "races": 1104,
+        "races": 1107,
         "hits": 224,
-        "stake_yen": 559600,
+        "stake_yen": 561100,
         "verified_payout_yen": 0,
         "payout_verified_races": 0,
-        "hit_rate": 0.2029,
+        "hit_rate": 0.2023,
         "roi": null
       },
       "2": {
-        "races": 1104,
+        "races": 1107,
         "hits": 359,
-        "stake_yen": 1119200,
+        "stake_yen": 1122200,
         "verified_payout_yen": 0,
         "payout_verified_races": 0,
-        "hit_rate": 0.3252,
+        "hit_rate": 0.3243,
         "roi": null
       },
       "3": {
-        "races": 1104,
-        "hits": 454,
-        "stake_yen": 1678800,
+        "races": 1107,
+        "hits": 455,
+        "stake_yen": 1683300,
         "verified_payout_yen": 0,
         "payout_verified_races": 0,
-        "hit_rate": 0.4112,
+        "hit_rate": 0.411,
         "roi": null
       }
     },
@@ -16667,57 +16709,57 @@
   },
   "development_scenarios": {
     "ability": {
-      "races": 1104,
-      "top1_hits": 145,
-      "top3_hits": 368,
-      "top10_hits": 696,
-      "top1_hit_rate": 0.1313,
+      "races": 1107,
+      "top1_hits": 146,
+      "top3_hits": 369,
+      "top10_hits": 698,
+      "top1_hit_rate": 0.1319,
       "top3_hit_rate": 0.3333,
-      "top10_hit_rate": 0.6304
+      "top10_hit_rate": 0.6305
     },
     "front_control": {
-      "races": 1104,
+      "races": 1107,
       "top1_hits": 117,
       "top3_hits": 319,
-      "top10_hits": 677,
-      "top1_hit_rate": 0.106,
-      "top3_hit_rate": 0.2889,
-      "top10_hit_rate": 0.6132
+      "top10_hits": 678,
+      "top1_hit_rate": 0.1057,
+      "top3_hit_rate": 0.2882,
+      "top10_hit_rate": 0.6125
     },
     "makuri": {
-      "races": 1104,
+      "races": 1107,
       "top1_hits": 137,
-      "top3_hits": 361,
-      "top10_hits": 697,
-      "top1_hit_rate": 0.1241,
+      "top3_hits": 362,
+      "top10_hits": 698,
+      "top1_hit_rate": 0.1238,
       "top3_hit_rate": 0.327,
-      "top10_hit_rate": 0.6313
+      "top10_hit_rate": 0.6305
     },
     "second_sashi": {
-      "races": 1104,
-      "top1_hits": 119,
-      "top3_hits": 309,
-      "top10_hits": 672,
-      "top1_hit_rate": 0.1078,
-      "top3_hit_rate": 0.2799,
-      "top10_hit_rate": 0.6087
+      "races": 1107,
+      "top1_hits": 120,
+      "top3_hits": 310,
+      "top10_hits": 673,
+      "top1_hit_rate": 0.1084,
+      "top3_hit_rate": 0.28,
+      "top10_hit_rate": 0.6079
     },
     "line_cohesion": {
-      "races": 1104,
+      "races": 1107,
       "top1_hits": 188,
-      "top3_hits": 422,
-      "top10_hits": 762,
-      "top1_hit_rate": 0.1703,
-      "top3_hit_rate": 0.3822,
-      "top10_hit_rate": 0.6902
+      "top3_hits": 423,
+      "top10_hits": 765,
+      "top1_hit_rate": 0.1698,
+      "top3_hit_rate": 0.3821,
+      "top10_hit_rate": 0.6911
     },
     "mixed": {
-      "races": 1104,
+      "races": 1107,
       "top1_hits": 210,
-      "top3_hits": 425,
-      "top10_hits": 761,
-      "top1_hit_rate": 0.1902,
-      "top3_hit_rate": 0.385,
+      "top3_hits": 426,
+      "top10_hits": 763,
+      "top1_hit_rate": 0.1897,
+      "top3_hit_rate": 0.3848,
       "top10_hit_rate": 0.6893
     }
   },
