@@ -1,6 +1,6 @@
 {
   "scope": "Frozen pre-start predictions with verified pre-start rider inputs and confirmed finish only",
-  "n": 1047,
+  "n": 1048,
   "by_day": {
     "20261110": {
       "races": 76,
@@ -210,6 +210,19 @@
       "top10_trifecta_rate": 0.2917,
       "top20_trifecta_rate": 0.375
     },
+    "20261126": {
+      "races": 1,
+      "top1_pair_hits": 0,
+      "top3_pair_hits": 0,
+      "top5_trifecta_hits": 0,
+      "top10_trifecta_hits": 0,
+      "top20_trifecta_hits": 0,
+      "top1_pair_rate": 0.0,
+      "top3_pair_rate": 0.0,
+      "top5_trifecta_rate": 0.0,
+      "top10_trifecta_rate": 0.0,
+      "top20_trifecta_rate": 0.0
+    },
     "20261109": {
       "races": 8,
       "top1_pair_hits": 1,
@@ -252,17 +265,17 @@
       "top20_trifecta_rate": 0.6774
     },
     "same_line_other": {
-      "races": 81,
+      "races": 82,
       "top1_pair_hits": 0,
       "top3_pair_hits": 2,
       "top5_trifecta_hits": 0,
       "top10_trifecta_hits": 2,
       "top20_trifecta_hits": 9,
       "top1_pair_rate": 0.0,
-      "top3_pair_rate": 0.0247,
+      "top3_pair_rate": 0.0244,
       "top5_trifecta_rate": 0.0,
-      "top10_trifecta_rate": 0.0247,
-      "top20_trifecta_rate": 0.1111
+      "top10_trifecta_rate": 0.0244,
+      "top20_trifecta_rate": 0.1098
     },
     "second_then_leader": {
       "races": 185,
@@ -293,17 +306,17 @@
       "top20_trifecta_rate": 0.4333
     },
     "same_line_pair": {
-      "races": 657,
+      "races": 658,
       "top1_pair_hits": 169,
       "top3_pair_hits": 302,
       "top5_trifecta_hits": 169,
       "top10_trifecta_hits": 246,
       "top20_trifecta_hits": 318,
-      "top1_pair_rate": 0.2572,
-      "top3_pair_rate": 0.4597,
-      "top5_trifecta_rate": 0.2572,
-      "top10_trifecta_rate": 0.3744,
-      "top20_trifecta_rate": 0.484
+      "top1_pair_rate": 0.2568,
+      "top3_pair_rate": 0.459,
+      "top5_trifecta_rate": 0.2568,
+      "top10_trifecta_rate": 0.3739,
+      "top20_trifecta_rate": 0.4833
     }
   },
   "by_predicted_first_b_count": {
@@ -321,17 +334,17 @@
       "top20_trifecta_rate": 0.4615
     },
     "high_8_plus": {
-      "races": 616,
+      "races": 617,
       "top1_pair_hits": 132,
       "top3_pair_hits": 266,
       "top5_trifecta_hits": 153,
       "top10_trifecta_hits": 229,
       "top20_trifecta_hits": 300,
-      "top1_pair_rate": 0.2143,
-      "top3_pair_rate": 0.4318,
-      "top5_trifecta_rate": 0.2484,
-      "top10_trifecta_rate": 0.3718,
-      "top20_trifecta_rate": 0.487
+      "top1_pair_rate": 0.2139,
+      "top3_pair_rate": 0.4311,
+      "top5_trifecta_rate": 0.248,
+      "top10_trifecta_rate": 0.3712,
+      "top20_trifecta_rate": 0.4862
     },
     "low_0_2": {
       "races": 210,
@@ -349,17 +362,17 @@
   },
   "by_predicted_first_maku": {
     "low_0_2": {
-      "races": 416,
+      "races": 417,
       "top1_pair_hits": 79,
       "top3_pair_hits": 162,
       "top5_trifecta_hits": 78,
       "top10_trifecta_hits": 121,
       "top20_trifecta_hits": 171,
-      "top1_pair_rate": 0.1899,
-      "top3_pair_rate": 0.3894,
-      "top5_trifecta_rate": 0.1875,
-      "top10_trifecta_rate": 0.2909,
-      "top20_trifecta_rate": 0.4111
+      "top1_pair_rate": 0.1894,
+      "top3_pair_rate": 0.3885,
+      "top5_trifecta_rate": 0.1871,
+      "top10_trifecta_rate": 0.2902,
+      "top20_trifecta_rate": 0.4101
     },
     "mid_3_7": {
       "races": 484,
@@ -390,17 +403,17 @@
   },
   "by_predicted_first_sashi": {
     "low_0_2": {
-      "races": 694,
+      "races": 695,
       "top1_pair_hits": 152,
       "top3_pair_hits": 310,
       "top5_trifecta_hits": 168,
       "top10_trifecta_hits": 250,
       "top20_trifecta_hits": 333,
-      "top1_pair_rate": 0.219,
-      "top3_pair_rate": 0.4467,
-      "top5_trifecta_rate": 0.2421,
-      "top10_trifecta_rate": 0.3602,
-      "top20_trifecta_rate": 0.4798
+      "top1_pair_rate": 0.2187,
+      "top3_pair_rate": 0.446,
+      "top5_trifecta_rate": 0.2417,
+      "top10_trifecta_rate": 0.3597,
+      "top20_trifecta_rate": 0.4791
     },
     "mid_3_7": {
       "races": 267,
@@ -444,17 +457,17 @@
       "top20_trifecta_rate": 0.4667
     },
     "2": {
-      "races": 69,
+      "races": 70,
       "top1_pair_hits": 17,
       "top3_pair_hits": 39,
       "top5_trifecta_hits": 20,
       "top10_trifecta_hits": 34,
       "top20_trifecta_hits": 44,
-      "top1_pair_rate": 0.2464,
-      "top3_pair_rate": 0.5652,
-      "top5_trifecta_rate": 0.2899,
-      "top10_trifecta_rate": 0.4928,
-      "top20_trifecta_rate": 0.6377
+      "top1_pair_rate": 0.2429,
+      "top3_pair_rate": 0.5571,
+      "top5_trifecta_rate": 0.2857,
+      "top10_trifecta_rate": 0.4857,
+      "top20_trifecta_rate": 0.6286
     },
     "3": {
       "races": 597,
@@ -524,17 +537,17 @@
       "top20_trifecta_rate": 0.6881
     },
     "first_wrong": {
-      "races": 611,
+      "races": 612,
       "top1_pair_hits": 0,
       "top3_pair_hits": 127,
       "top5_trifecta_hits": 65,
       "top10_trifecta_hits": 125,
       "top20_trifecta_hits": 187,
       "top1_pair_rate": 0.0,
-      "top3_pair_rate": 0.2079,
-      "top5_trifecta_rate": 0.1064,
-      "top10_trifecta_rate": 0.2046,
-      "top20_trifecta_rate": 0.3061
+      "top3_pair_rate": 0.2075,
+      "top5_trifecta_rate": 0.1062,
+      "top10_trifecta_rate": 0.2042,
+      "top20_trifecta_rate": 0.3056
     }
   },
   "examples": {
@@ -3443,6 +3456,30 @@
         "leader_maku": "mid_3_7",
         "leader_sashi": "mid_3_7",
         "line_count": "3",
+        "top_pick": "first_wrong"
+      }
+    },
+    {
+      "race_id": "017320261126",
+      "actual": [
+        1,
+        5,
+        7
+      ],
+      "top1_pair": [
+        7,
+        1
+      ],
+      "top10_trifecta_hit": false,
+      "finish_type": "same_line_other",
+      "features": {
+        "day": "20261126",
+        "finish": "same_line_other",
+        "prediction": "same_line_pair",
+        "leader_b": "high_8_plus",
+        "leader_maku": "low_0_2",
+        "leader_sashi": "low_0_2",
+        "line_count": "2",
         "top_pick": "first_wrong"
       }
     },
