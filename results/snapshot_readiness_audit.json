@@ -1,11 +1,11 @@
 {
-  "files_checked": 1222,
-  "verified_pre_race": 1222,
-  "parsed_line_groups": 1076,
-  "valid_line_groups": 1076,
+  "files_checked": 1299,
+  "verified_pre_race": 1299,
+  "parsed_line_groups": 1130,
+  "valid_line_groups": 1130,
   "structured_sbh": 0,
   "structured_odds": 0,
-  "ready_for_integrated_model": 1076,
+  "ready_for_integrated_model": 1130,
   "ready_for_profit_model": 0,
   "examples": [
     {

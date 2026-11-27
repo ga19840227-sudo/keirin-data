@@ -1,0 +1,136 @@
+{
+  "race_id": "035120261127",
+  "source_url": "https://keirinhex.jp/races/20261127/035120261127/",
+  "captured_jst": "2026-11-27T09:01:22.883740+09:00",
+  "start_jst": "2026-11-27T11:54:00+09:00",
+  "line_groups": [
+    [
+      1,
+      4
+    ],
+    [
+      6,
+      5,
+      2
+    ],
+    [
+      7,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎松田安綱大阪・A2・127期",
+      "race_score": 93.25,
+      "running_style": "逃",
+      "win_rate_4m": 42.0,
+      "top2_rate_4m": 62.0,
+      "top3_rate_4m": 73.0,
+      "s_count": 6,
+      "h_count": 11,
+      "b_count": 10,
+      "nige_4m": 6,
+      "maku_4m": 8,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "▲小林卓人大阪・A1・79期",
+      "race_score": 90.33,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 65.0,
+      "s_count": 6,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 5
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "齋藤一茂群馬・A2・97期",
+      "race_score": 83.77,
+      "running_style": "逃",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 41.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 0,
+      "h_count": 15,
+      "b_count": 13,
+      "nige_4m": 7,
+      "maku_4m": 3,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○高橋泰裕埼玉・A1・107期",
+      "race_score": 91.62,
+      "running_style": "追",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 5
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "田原大広北海道・A1・87期",
+      "race_score": 84.0,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 46.0,
+      "s_count": 5,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆山崎駿哉岡山・A2・113期",
+      "race_score": 87.87,
+      "running_style": "逃",
+      "win_rate_4m": 27.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 0,
+      "h_count": 10,
+      "b_count": 12,
+      "nige_4m": 7,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆野本翔太高知・A1・91期",
+      "race_score": 83.9,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 2
+    }
+  ]
+}

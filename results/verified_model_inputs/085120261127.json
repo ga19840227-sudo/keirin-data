@@ -1,0 +1,138 @@
+{
+  "race_id": "085120261127",
+  "source_url": "https://keirinhex.jp/races/20261127/085120261127/",
+  "captured_jst": "2026-11-27T09:02:41.038696+09:00",
+  "start_jst": "2026-11-27T14:09:00+09:00",
+  "line_groups": [
+    [
+      1,
+      7
+    ],
+    [
+      2,
+      5,
+      6
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "☆坂本貴史青森・S2・94期",
+      "race_score": 103.03,
+      "running_style": "両",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 28.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 2,
+      "h_count": 7,
+      "b_count": 4,
+      "nige_4m": 2,
+      "maku_4m": 3,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆近藤保千葉・S1・95期",
+      "race_score": 101.91,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 31.0,
+      "top3_rate_4m": 42.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 4,
+      "mark_4m": 2
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "◎城戸俊潔岡山・S2・115期",
+      "race_score": 103.46,
+      "running_style": "逃",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 63.0,
+      "s_count": 7,
+      "h_count": 10,
+      "b_count": 11,
+      "nige_4m": 3,
+      "maku_4m": 6,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲友定祐己岡山・S2・82期",
+      "race_score": 101.89,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 58.0,
+      "s_count": 7,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 5
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "山中貴雄高知・S2・90期",
+      "race_score": 99.64,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 2,
+      "mark_4m": 5
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "稲吉悠大福岡・S2・92期",
+      "race_score": 100.57,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 43.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○山岸佳太茨城・S1・107期",
+      "race_score": 105.0,
+      "running_style": "両",
+      "win_rate_4m": 16.0,
+      "top2_rate_4m": 25.0,
+      "top3_rate_4m": 34.0,
+      "s_count": 6,
+      "h_count": 2,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 5,
+      "mark_4m": 1
+    }
+  ]
+}
