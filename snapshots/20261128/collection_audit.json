@@ -1,12 +1,31 @@
 {
-  "captured_jst": "2026-11-28T11:36:40.011600+09:00",
+  "captured_jst": "2026-11-28T12:36:54.763828+09:00",
   "date": "20261128",
   "source": "https://keirinhex.jp",
-  "visited": 0,
+  "visited": 19,
   "snapshot_count": 0,
   "errors": [
-    "index: HTTP Error 404: Not Found"
+    "https://keirinhex.jp/races/20261128/013520261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/014620261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/017320261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/018520261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/023520261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/024620261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/027320261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/028520261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/033520261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/037320261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/038520261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/047320261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/048520261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/057320261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/058520261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/067320261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/068520261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/077320261128/: no verified future start time",
+    "https://keirinhex.jp/races/20261128/078520261128/: no verified future start time"
   ],
+  "indexed_races": 19,
   "verified_saved_total": 0,
-  "missing_verified_count": 0
+  "missing_verified_count": 19
 }
