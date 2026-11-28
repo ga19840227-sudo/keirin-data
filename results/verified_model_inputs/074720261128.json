@@ -1,0 +1,136 @@
+{
+  "race_id": "074720261128",
+  "source_url": "https://keirinhex.jp/races/20261128/074720261128/",
+  "captured_jst": "2026-11-28T13:44:06.076274+09:00",
+  "start_jst": "2026-11-28T18:16:00+09:00",
+  "line_groups": [
+    [
+      2,
+      4,
+      6
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      7,
+      3
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "◎竹内雄作岐阜・S2・99期",
+      "race_score": 98.83,
+      "running_style": "逃",
+      "win_rate_4m": 8.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 40.0,
+      "s_count": 2,
+      "h_count": 9,
+      "b_count": 8,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 3,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "○笹倉慎也富山・S2・91期",
+      "race_score": 94.66,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 16.0,
+      "s_count": 6,
+      "h_count": 1,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "伊藤勝太愛知・S2・95期",
+      "race_score": 90.29,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 0.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆森本桂太郎愛媛・S2・121期",
+      "race_score": 94.73,
+      "running_style": "逃",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 16.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 1,
+      "h_count": 12,
+      "b_count": 13,
+      "nige_4m": 0,
+      "maku_4m": 2,
+      "sashi_4m": 1,
+      "mark_4m": 2
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "☆溪飛雄馬愛媛・S2・86期",
+      "race_score": 93.92,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 7.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "栗本武典千葉・S2・119期",
+      "race_score": 93.34,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 13.0,
+      "s_count": 3,
+      "h_count": 4,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "▲花田将司千葉・S2・99期",
+      "race_score": 95.88,
+      "running_style": "両",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 10.0,
+      "top3_rate_4m": 23.0,
+      "s_count": 9,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 3
+    }
+  ]
+}

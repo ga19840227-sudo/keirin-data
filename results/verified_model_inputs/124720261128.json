@@ -1,0 +1,136 @@
+{
+  "race_id": "124720261128",
+  "source_url": "https://keirinhex.jp/races/20261128/124720261128/",
+  "captured_jst": "2026-11-28T13:44:57.427081+09:00",
+  "start_jst": "2026-11-28T20:30:00+09:00",
+  "line_groups": [
+    [
+      2
+    ],
+    [
+      5,
+      3,
+      4
+    ],
+    [
+      6,
+      1,
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "◎山本伸一奈良・S2・101期",
+      "race_score": 107.43,
+      "running_style": "両",
+      "win_rate_4m": 21.0,
+      "top2_rate_4m": 38.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 1,
+      "sashi_4m": 8,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "▲長田龍拳静岡・S2・117期",
+      "race_score": 102.0,
+      "running_style": "逃",
+      "win_rate_4m": 32.0,
+      "top2_rate_4m": 43.0,
+      "top3_rate_4m": 50.0,
+      "s_count": 2,
+      "h_count": 16,
+      "b_count": 14,
+      "nige_4m": 9,
+      "maku_4m": 1,
+      "sashi_4m": 1,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○堀内俊介神奈川・S2・107期",
+      "race_score": 104.18,
+      "running_style": "両",
+      "win_rate_4m": 14.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 48.0,
+      "s_count": 2,
+      "h_count": 4,
+      "b_count": 4,
+      "nige_4m": 1,
+      "maku_4m": 1,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "須永優太福島・S1・94期",
+      "race_score": 106.12,
+      "running_style": "追",
+      "win_rate_4m": 28.0,
+      "top2_rate_4m": 33.0,
+      "top3_rate_4m": 56.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 6,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆伊東佑晟地元三重・S2・125期",
+      "race_score": 93.78,
+      "running_style": "逃",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 9.0,
+      "top3_rate_4m": 14.0,
+      "s_count": 4,
+      "h_count": 7,
+      "b_count": 5,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "☆武田豊樹茨城・S1・88期",
+      "race_score": 103.87,
+      "running_style": "追",
+      "win_rate_4m": 24.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 47.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 9,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "高橋昇平埼玉・S2・99期",
+      "race_score": 100.0,
+      "running_style": "追",
+      "win_rate_4m": 15.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 26.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 1
+    }
+  ]
+}

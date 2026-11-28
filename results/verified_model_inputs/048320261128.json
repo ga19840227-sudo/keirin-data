@@ -1,0 +1,140 @@
+{
+  "race_id": "048320261128",
+  "source_url": "https://keirinhex.jp/races/20261128/048320261128/",
+  "captured_jst": "2026-11-28T13:43:30.302033+09:00",
+  "start_jst": "2026-11-28T21:40:00+09:00",
+  "line_groups": [
+    [
+      2
+    ],
+    [
+      3,
+      1,
+      5
+    ],
+    [
+      4
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 2,
+      "player_name_raw": "▲仲松勝太沖縄・A2・96期",
+      "race_score": 87.53,
+      "running_style": "追",
+      "win_rate_4m": 6.0,
+      "top2_rate_4m": 24.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 4,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○相笠翔太福島・A2・96期",
+      "race_score": 83.44,
+      "running_style": "両",
+      "win_rate_4m": 25.0,
+      "top2_rate_4m": 29.0,
+      "top3_rate_4m": 36.0,
+      "s_count": 0,
+      "h_count": 4,
+      "b_count": 3,
+      "nige_4m": 1,
+      "maku_4m": 5,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 1,
+      "player_name_raw": "◎金子真也群馬・A1・69期",
+      "race_score": 88.31,
+      "running_style": "追",
+      "win_rate_4m": 5.0,
+      "top2_rate_4m": 20.0,
+      "top3_rate_4m": 30.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 2
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "本田拓也新潟・A2・92期",
+      "race_score": 81.96,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 11.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "☆山川奨太熊本・A2・117期",
+      "race_score": 82.37,
+      "running_style": "逃",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 14.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "☆田村浩章徳島・A2・82期",
+      "race_score": 80.93,
+      "running_style": "追",
+      "win_rate_4m": 10.0,
+      "top2_rate_4m": 13.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 0,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "武市和人高知・A2・74期",
+      "race_score": 76.34,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 3.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

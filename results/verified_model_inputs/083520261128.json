@@ -1,0 +1,138 @@
+{
+  "race_id": "083520261128",
+  "source_url": "https://keirinhex.jp/races/20261128/083520261128/",
+  "captured_jst": "2026-11-28T13:44:14.561587+09:00",
+  "start_jst": "2026-11-28T14:11:00+09:00",
+  "line_groups": [
+    [
+      1
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      4
+    ],
+    [
+      5,
+      2,
+      6
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎三浦貴大岐阜・S2・115期",
+      "race_score": 98.46,
+      "running_style": "両",
+      "win_rate_4m": 11.0,
+      "top2_rate_4m": 30.0,
+      "top3_rate_4m": 44.0,
+      "s_count": 3,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 7,
+      "mark_4m": 1
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "☆邊見光輝福島・S2・119期",
+      "race_score": 91.1,
+      "running_style": "逃",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 3.0,
+      "top3_rate_4m": 13.0,
+      "s_count": 0,
+      "h_count": 11,
+      "b_count": 6,
+      "nige_4m": 1,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "☆安部貴之宮城・S2・92期",
+      "race_score": 95.47,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 6.0,
+      "top3_rate_4m": 11.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "伊藤正樹愛知・S2・71期",
+      "race_score": 101.11,
+      "running_style": "追",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 3,
+      "mark_4m": 3
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "○山田駿斗千葉・S2・123期",
+      "race_score": 98.46,
+      "running_style": "逃",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 26.0,
+      "top3_rate_4m": 32.0,
+      "s_count": 3,
+      "h_count": 13,
+      "b_count": 12,
+      "nige_4m": 6,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "▲稲葉一真静岡・S2・100期",
+      "race_score": 97.7,
+      "running_style": "追",
+      "win_rate_4m": 3.0,
+      "top2_rate_4m": 22.0,
+      "top3_rate_4m": 41.0,
+      "s_count": 5,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 4,
+      "mark_4m": 3
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "佐藤龍二地元神奈川・S2・94期",
+      "race_score": 90.75,
+      "running_style": "追",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 0.0,
+      "top3_rate_4m": 11.0,
+      "s_count": 1,
+      "h_count": 2,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    }
+  ]
+}

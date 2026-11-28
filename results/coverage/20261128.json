@@ -1,13 +1,16 @@
 {
   "date": "20261128",
-  "indexed_races": 19,
-  "visited_in_latest_run": 19,
-  "latest_run_new_snapshots": 0,
-  "verified_snapshots": 0,
-  "complete_rider_inputs": 0,
-  "six_scenario_forecasts": 0,
-  "integrated_forecasts": 0,
-  "missing_rider_inputs": [],
+  "indexed_races": 78,
+  "visited_in_latest_run": 59,
+  "latest_run_new_snapshots": 51,
+  "verified_snapshots": 51,
+  "complete_rider_inputs": 49,
+  "six_scenario_forecasts": 49,
+  "integrated_forecasts": 49,
+  "missing_rider_inputs": [
+    "028320261128",
+    "064720261128"
+  ],
   "missing_scenarios": [],
   "missing_integrated": [],
   "warning": "Coverage is not accuracy; a forecast is counted only when saved before the race."

@@ -1,0 +1,136 @@
+{
+  "race_id": "088120261128",
+  "source_url": "https://keirinhex.jp/races/20261128/088120261128/",
+  "captured_jst": "2026-11-28T13:44:20.947375+09:00",
+  "start_jst": "2026-11-28T18:55:00+09:00",
+  "line_groups": [
+    [
+      1,
+      7,
+      4
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      6,
+      2
+    ]
+  ],
+  "line_status": "published",
+  "riders": [
+    {
+      "banum": 1,
+      "player_name_raw": "◎橋本陸地元福岡・A1・121期",
+      "race_score": 87.79,
+      "running_style": "逃",
+      "win_rate_4m": 13.0,
+      "top2_rate_4m": 46.0,
+      "top3_rate_4m": 54.0,
+      "s_count": 4,
+      "h_count": 10,
+      "b_count": 13,
+      "nige_4m": 5,
+      "maku_4m": 5,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 7,
+      "player_name_raw": "▲城戸崎隆史地元福岡・A2・76期",
+      "race_score": 82.07,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 7.0,
+      "top3_rate_4m": 33.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 1,
+      "mark_4m": 1
+    },
+    {
+      "banum": 4,
+      "player_name_raw": "興呂木雄治熊本・A2・96期",
+      "race_score": 80.13,
+      "running_style": "両",
+      "win_rate_4m": 0.0,
+      "top2_rate_4m": 4.0,
+      "top3_rate_4m": 25.0,
+      "s_count": 2,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 1
+    },
+    {
+      "banum": 5,
+      "player_name_raw": "☆利川寛太山口・A2・127期",
+      "race_score": 79.85,
+      "running_style": "逃",
+      "win_rate_4m": 7.0,
+      "top2_rate_4m": 19.0,
+      "top3_rate_4m": 37.0,
+      "s_count": 10,
+      "h_count": 17,
+      "b_count": 13,
+      "nige_4m": 5,
+      "maku_4m": 0,
+      "sashi_4m": 0,
+      "mark_4m": 0
+    },
+    {
+      "banum": 3,
+      "player_name_raw": "○吉川嘉斗徳島・A1・105期",
+      "race_score": 86.9,
+      "running_style": "追",
+      "win_rate_4m": 23.0,
+      "top2_rate_4m": 23.0,
+      "top3_rate_4m": 27.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 5,
+      "mark_4m": 0
+    },
+    {
+      "banum": 6,
+      "player_name_raw": "井上嵩神奈川・A2・97期",
+      "race_score": 77.88,
+      "running_style": "両",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 12.0,
+      "s_count": 0,
+      "h_count": 1,
+      "b_count": 1,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    },
+    {
+      "banum": 2,
+      "player_name_raw": "☆石井毅神奈川・A2・74期",
+      "race_score": 80.08,
+      "running_style": "追",
+      "win_rate_4m": 4.0,
+      "top2_rate_4m": 8.0,
+      "top3_rate_4m": 15.0,
+      "s_count": 1,
+      "h_count": 0,
+      "b_count": 0,
+      "nige_4m": 0,
+      "maku_4m": 0,
+      "sashi_4m": 2,
+      "mark_4m": 0
+    }
+  ]
+}
